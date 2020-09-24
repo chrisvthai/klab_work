@@ -1,0 +1,20 @@
+,name,seed_protein,description,taxonomy,aligned_protein,rmsd,aligned_residue,sequence_id
+0,1G9O,3GDV,First Pdz Domain Of The Human Na+H+ EXCHANGER REGULATORY Factor,Homo sapiens,1,1.74Å,66,17%
+1,3VQF,3GDV,Crystal Structure Analysis Of The Pdz Domain Derived From The Tight Junction Regulating Protein,Mus musculus,1,1.48Å,65,18%
+2,2F5Y,3GDV,Crystal Structure Of The Pdz Domain From Human Rgs-3,Homo sapiens,1,1.39Å,63,25%
+3,2QG1,3GDV,Crystal Structure Of The 11th Pdz Domain Of Mpdz (mupp1),Homo sapiens,1,1.51Å,63,17%
+4,5E11,3GDV,Second PDZ domain of Ligand of Numb protein X 2 by Laue crystallography (no electric field),Homo sapiens,1,1.32Å,62,15%
+5,5E22,3GDV,"The second PDZ domain of Ligand of Numb protein X 2 in the presence of an electric field of ~1 MV/cm along the crystallographic x axis, with eightfold extrapolation of structure factor differences",Homo sapiens,1,1.33Å,62,15%
+6,1GQ5,3GDV,Structural Determinants Of The Nherf Interaction With Beta2- Ar And Pdgfr,Homo sapiens,1,1.72Å,60,18%
+7,6QJI,3GDV,Crystal Structure of the third PDZ domain of PSD-95 protein: space group P3112,Homo sapiens,1,1.57Å,57,18%
+8,1N7F,3GDV,Crystal Structure Of The Sixth Pdz Domain Of Grip1 In Complex With Liprin C-Terminal Peptide,Others,1,1.37Å,46,13%
+9,3E17,3GDV,Crystal Structure Of The Second Pdz Domain From Human Zona Occludens-2,Homo sapiens,1,0.92Å,32,22%
+10,3VQG,3GDV,Crystal Structure Analysis Of The Pdz Domain Derived From The Tight Junction Regulating Protein,Mus musculus,1,1.44Å,64,19%
+11,2VWR,3GDV,Crystal structure of the second pdz domain of numb-binding protein 2,Homo sapiens,1,1.41Å,63,14%
+12,5E1Y,3GDV,"PDZ2 of LNX2 at 277K, model with alternate conformations",Homo sapiens,1,1.32Å,62,15%
+13,5E21,3GDV,"PDZ2 of LNX2 at 277K,single conformer model",Homo sapiens,1,1.32Å,62,15%
+14,6QJD,3GDV,Crystal Structure of the truncated form of the third PDZ domain of PSD-95: residues 302-392,Homo sapiens,1,1.46Å,59,19%
+15,1QAV,3GDV,Unexpected Modes Of Pdz Domain Scaffolding Revealed By Structure Of Nnos-Syntrophin Complex,Mus musculus/Rattus norvegicus,1,1.38Å,58,19%
+16,3TMH,3GDV,Crystal Structure Of Dual-Specific A-Kinase Anchoring Protein 2 In Complex With Camp-Dependent Protein Kinase A Type Ii Alpha And Pdzk1,Homo sapiens/Rattus norvegicus,1,1.73Å,58,26%
+17,5MV8,3GDV,Structure Of Human Myosin 7b C-terminal Myth4-ferm Domain In Complex With Harmonin-a Pdz3 Domain,Homo sapiens,1,1.30Å,50,30%
+18,5XBF,3GDV,Crystal Structure of Myo7b C-terminal MyTH4-FERM in complex with USH1C PDZ3,Homo sapiens,1,1.30Å,43,28%

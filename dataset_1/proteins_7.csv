@@ -1,0 +1,206 @@
+,name,seed_protein,description,taxonomy,aligned_protein,rmsd,aligned_residue,sequence_id
+0,2ZPL,4RR1,Crystal Structure Analysis Of Pdz Domain A,Escherichia coli K-12,1,1.33Å,58,19%
+1,3GGE,4RR1,Crystal structure of the PDZ domain of PDZ domain-containing protein GIPC2,Homo sapiens,1,1.54Å,63,13%
+2,6BJO,5T69,PICK1 PDZ domain in complex with the small molecule inhibitor BIO124,Homo sapiens,1,1.22Å,53,23%
+3,3RRN,2WZQ,S. cerevisiae dbp5 l327v bound to gle1 h337r and ip6,Saccharomyces cerevisiae,1,4.58Å,214,17%
+4,6GOX,2WZQ,SecA,Escherichia coli K-12,1,5.22Å,259,11%
+5,1PCE,6KBR,"SOLUTION STRUCTURE AND DYNAMICS OF PEC-60, A PROTEIN OF THE KAZAL TYPE INHIBITOR FAMILY, DETERMINED BY NUCLEAR MAGNETIC RESONANCE SPECTROSCOPY",Sus scrofa,1,0.58Å,36,47%
+6,4OI3,6KBR,Crystal Structure Analysis Of Sco4226 From Streptomyces Coelicolor A3(2),Streptomyces coelicolor A3(2),1,1.93Å,29,14%
+7,6LTH,6KBR,Structure of human BAF Base module,Homo sapiens,1,1.53Å,26,4%
+8,2ZDP,6KBR,Crystal Structure Of Isdi In Complex With Cobalt Protoporphyrin Ix,Staphylococcus aureus,1,0.93Å,25,4%
+9,6PGK,6KBR,"Membrane Protein Megahertz Crystallography at the European XFEL, Photosystem I XFEL at 2.9 A",Thermosynechococcus elongatus BP-1,1,1.29Å,25,12%
+10,6PFY,6KBR,"Membrane Protein Megahertz Crystallography at the European XFEL, Photosystem I at synchrotron to 2.9 A",Thermosynechococcus elongatus BP-1,1,1.31Å,25,12%
+11,2L6Y,6KBR,haddock model of GATA1NF:Lmo2LIM2-Ldb1LID,Mus musculus,1,1.95Å,23,9%
+12,1UX1,6KBR,Bacillus subtilis cytidine deaminase with a Cys53His and an Arg56Gln substitution,Bacillus subtilis,1,0.67Å,22,5%
+13,2K4D,6KBR,E2-c-Cbl recognition is necessary but not sufficient for ubiquitination activity,Homo sapiens,1,1.47Å,21,10%
+14,4WZ0,6KBR,Crystal structure of U-box 1 of LubX / LegU2 / Lpp2887 from Legionella pneumophila str. Paris,Legionella pneumophila str. Paris,1,1.55Å,21,14%
+15,3PHD,6KBR,Crystal Structure Of Human Hdac6 In Complex With Ubiquitin,Homo sapiens,1,1.28Å,20,5%
+16,2QIZ,6KBR,Structure Of The Yeast U-Box-Containing Ubiquitin Ligase Ufd2p,Saccharomyces cerevisiae,1,1.34Å,20,15%
+17,5V0S,6KBR,Crystal Structure Of The Act Domain Of Prephenate Dehydrogenase Tyra From Bacillus Anthracis,Bacillus anthracis,1,1.39Å,20,10%
+18,1W2B,6KBR,Trigger Factor Ribosome Binding Domain In Complex With 50s,Others,1,0.86Å,19,0%
+19,1BUS,6KBR,SOLUTION CONFORMATION OF PROTEINASE INHIBITOR IIA FROM BULL SEMINAL PLASMA BY 1H NUCLEAR MAGNETIC RESONANCE AND DISTANCE GEOMETRY,Bos taurus,1,1.30Å,19,47%
+20,2LFV,6KBR,Solution Structure of the SPOR domain from E. coli DamX,Escherichia coli K-12,1,1.34Å,19,11%
+21,4ORH,6KBR,Crystal structure of RNF8 bound to the UBC13/MMS2 heterodimer,Homo sapiens,1,1.44Å,19,5%
+22,4PYA,6KBR,"MoaC K51A in complex with 3',8-cH2GTP",Escherichia coli K-12,1,1.39Å,18,6%
+23,4OU7,6KBR,Crystal Structure Of Dnat84-153-dt10 Ssdna Complex Reveals A Novel Single-stranded Dna Binding Mode,Others,1,0.59Å,16,6%
+24,3OJ3,6KBR,Crystal structure of the A20 ZnF4 and ubiquitin complex,Homo sapiens,1,0.97Å,16,6%
+25,2KVF,6KBR,Structure of the three-Cys2His2 domain of mouse testis zinc finger protein,Mus musculus,1,1.07Å,13,8%
+26,1TUR,6KBR,SOLUTION STRUCTURE OF TURKEY OVOMUCOID THIRD DOMAIN AS DETERMINED FROM NUCLEAR MAGNETIC RESONANCE DATA,Meleagris gallopavo,1,1.71Å,40,38%
+27,1TUS,6KBR,SOLUTION STRUCTURE OF REACTIVE-SITE HYDROLYZED TURKEY OVOMUCOID THIRD DOMAIN BY NUCLEAR MAGNETIC RESONANCE AND DISTANCE GEOMETRY METHODS,Meleagris gallopavo,1,1.78Å,38,34%
+28,2BUS,6KBR,SOLUTION CONFORMATION OF PROTEINASE INHIBITOR IIA FROM BULL SEMINAL PLASMA BY 1H NUCLEAR MAGNETIC RESONANCE AND DISTANCE GEOMETRY,Bos taurus,1,1.36Å,31,35%
+29,1IW4,6KBR,Solution structure of ascidian trypsin inhibitor,Halocynthia roretzi,1,1.93Å,29,10%
+30,2L41,6KBR,Nab3 RRM - UCUU complex,Saccharomyces cerevisiae,1,1.46Å,28,7%
+31,4UN1,6KBR,Sirohaem Decarboxylase Ahba/b - An Enzyme With Structural Homology To The Lrp/asnc Transcription Factor Family That Is Part Of The Alternative Haem Biosynthesis Pathway,Desulfovibrio desulfuricans,1,1.33Å,27,4%
+32,1SQE,6KBR,"1.5a Crystal Structure Of The Protein Pg130 From Staphylococcus Aureus, Structural Genomics",Staphylococcus aureus,1,0.97Å,26,4%
+33,6LTJ,6KBR,Structure of nucleosome-bound human BAF complex,Xenopus laevis/Homo sapiens,1,1.53Å,26,4%
+34,4NL5,6KBR,Mycobacterium Tuberculosis Heme-degrading Protein Mhud In Complex With Heme And Cyanide,Mycobacterium tuberculosis,1,0.96Å,24,8%
+35,2C2L,6KBR,Crystal structure of the CHIP U-box E3 ubiquitin ligase,Homo sapiens/Mus musculus,1,1.78Å,23,22%
+36,2ZW2,6KBR,Crystal Structure Of Formylglycinamide Ribonucleotide Amidotransferase Iii From Sulfolobus Tokodaii (Stpurs),Sulfurisphaera tokodaii,1,2.03Å,23,17%
+37,6UXV,6KBR,SWI/SNF Body Module,Saccharomyces cerevisiae S288C,1,1.85Å,22,5%
+38,1KQS,6KBR,The Haloarcula Marismortui 50s Complexed With A Pretranslocational Intermediate In Protein Synthesis,Others,1,0.93Å,20,0%
+39,3ZTG,6KBR,Solution structure of the RING finger-like domain of Retinoblastoma Binding Protein-6 (RBBP6),Homo sapiens,1,1.42Å,20,20%
+40,3O2H,6KBR,E. coli ClpS in complex with a Leu N-end rule peptide,Escherichia coli K-12,1,1.30Å,19,0%
+41,5H7S,6KBR,Structural basis of the flanking zinc-finger motifs crucial for the E3 ligase activity of the LNX1 RING domain,Homo sapiens,1,1.37Å,19,21%
+42,2UZG,6KBR,Zf-UBP domain of VDU1,Homo sapiens,1,1.48Å,19,0%
+43,5OLM,6KBR,TRIM21,Homo sapiens,1,1.40Å,18,17%
+44,6FGA,6KBR,"Crystal structure of TRIM21 E3 ligase, RING domain in complex with its cognate E2 conjugating enzyme UBE2E1",Homo sapiens,1,1.21Å,17,12%
+45,2MHE,6KBR,NMR structure of the protein NP_419126.1 from Caulobacter crescentus,Caulobacter vibrioides CB15,1,1.51Å,17,18%
+46,2KMR,6KBR,"Solution structure of intermediate IIc of Leech-derived tryptase inhibitor, LDTI",Hirudo medicinalis,1,0.55Å,15,20%
+47,1BD8,6KBR,Structure Of Cdk Inhibitor P19ink4d,Homo sapiens,1,1.40Å,15,7%
+48,6UIX,6KBR,Cryo-EM structure of human CALHM2 gap junction,Homo sapiens,1,1.20Å,14,0%
+49,2JVX,6KBR,Solution Structure of human NEMO zinc finger,Others,1,0.77Å,12,17%
+50,6UIV,6KBR,Cryo-EM structure of human CALHM2 in an active/open state,Homo sapiens,1,0.82Å,12,0%
+51,1PAA,6KBR,STRUCTURE OF A HISTIDINE-X4-HISTIDINE ZINC FINGER DOMAIN: INSIGHTS INTO ADR1-UAS1 PROTEIN-DNA RECOGNITION,Saccharomyces cerevisiae,1,0.96Å,12,0%
+52,4ZLH,6KBR,Structure of the LapB cytoplasmic domain at 2 angstroms,Escherichia coli O157:H7,1,1.62Å,12,25%
+53,4HMS,4FVD,Crystal structure of PhzG from Pseudomonas fluorescens 2-79 in complex with a second FMN in the substrate binding site,Pseudomonas fluorescens,1,2.08Å,56,5%
+54,4HMU,4FVD,Crystal structure of PhzG from Pseudomonas fluorescens 2-79 in complex with tetrahydrophenazine-1-carboxylic acid after 1 day of soaking,Pseudomonas fluorescens,1,1.94Å,54,6%
+55,4HMV,4FVD,Crystal structure of PhzG from Pseudomonas fluorescens 2-79 in complex with tetrahydrophenazine-1-carboxylic acid after 5 days of soaking,Pseudomonas fluorescens,1,2.00Å,53,6%
+56,1TY9,4FVD,X-Ray Crystal Structure Of Phzg From Pseudomonas Fluorescens,Pseudomonas fluorescens,1,2.05Å,55,5%
+57,4HMT,4FVD,"Crystal structure of PhzG from Pseudomonas fluorescens 2-79 in complex with hexahydrophenazine-1,6-dicarboxylic acid",Pseudomonas fluorescens,1,2.05Å,52,6%
+58,6S1U,4FVD,Crystal structure of dimeric M-PMV protease C7A/D26N/C106A mutant in complex with inhibitor,Others,1,2.54Å,44,9%
+59,3NB3,2ZLE,The host outer membrane proteins OmpA and OmpC are packed at specific sites in the Shigella phage Sf6 virion as structural components,Escherichia coli K-12,1,0.00Å,346,100%
+60,6RCP,2ZLE,Crystal structure of the OmpK36 clinical isolate ST258 from Klebsiella pneumonia,Klebsiella pneumoniae,1,1.02Å,344,79%
+61,2XE2,2ZLE,Molecular Insights Into Clinically Isolated Ompc20 Mutants And Their Role In Multi-Drug Resistance,Escherichia coli,1,0.71Å,342,89%
+62,5NUP,2ZLE,Structural basis for maintenance of bacterial outer membrane lipid asymmetry,Klebsiella pneumoniae,1,0.75Å,342,80%
+63,2XG6,2ZLE,Molecular Insights Into Clinically Isolated Ompc Mutants And Their Role In Multi-Drug Resistance,Escherichia coli,1,0.92Å,342,89%
+64,6RD3,2ZLE,Crystal structure of the wild type OmpK36 from Klebsiella pneumonia,Klebsiella pneumoniae,1,0.67Å,340,80%
+65,6RCK,2ZLE,Crystal structure of the OmpK36 GD insertion chimera from Klebsiella pneumonia,Klebsiella pneumoniae,1,0.74Å,340,80%
+66,4D65,2ZLE,Structure of porin Omp-Pst2 from P. stuartii; the asymmetric unit contains a dimer of trimers,Providencia stuartii,1,1.34Å,337,57%
+67,5NXU,2ZLE,Complex structure with maltose of Providencia stuartii Omp-Pst1 porin,Providencia stuartii,1,1.22Å,336,59%
+68,5O9C,2ZLE,Crystal structure of Omp36 from Enterobacter aerogenes,Klebsiella aerogenes,1,0.75Å,334,78%
+69,1HXX,2ZLE,Ompf Porin Mutant Y106f,Escherichia coli,1,1.13Å,327,63%
+70,3POU,2ZLE,"Crystal Structure Of E.Coli Ompf Porin In Lipidic Cubic Phase: Space Group H32, Large Unit Cell",Escherichia coli BL21,1,1.14Å,327,63%
+71,1HXT,2ZLE,Ompf Porin Mutant Nqaaa,Escherichia coli,1,1.15Å,327,62%
+72,3FYX,2ZLE,The Structure Of Ompf Porin With A Synthetic Dibenzo-18- Crown-6 As Modulator,Escherichia coli K-12,1,1.30Å,327,63%
+73,5O77,2ZLE,Klebsiella pneumoniae OmpK35,Klebsiella pneumoniae,1,1.06Å,326,56%
+74,3K19,2ZLE,Ompf Porin,Escherichia coli BL21(DE3),1,1.08Å,326,64%
+75,1GFM,2ZLE,OMPF PORIN (MUTANT D113G),Escherichia coli,1,1.09Å,326,63%
+76,1BT9,2ZLE,Ompf Porin Mutant D74a,Escherichia coli B,1,1.09Å,326,64%
+77,3O0E,2ZLE,Crystal Structure Of Ompf In Complex With Colicin Peptide Obs1,Escherichia coli,1,1.10Å,326,64%
+78,3HWB,2ZLE,Cation Selective Pathway Of Ompf Porin Revealed By Anomalous Diffraction,Escherichia coli K-12,1,1.10Å,326,64%
+79,4D5U,2ZLE,Structure Of Ompf In I2,Escherichia coli K-12,1,1.11Å,326,64%
+80,5NUQ,2ZLE,Structural basis for maintenance of bacterial outer membrane lipid asymmetry,Serratia marcescens/Escherichia coli K-12,1,1.13Å,326,64%
+81,3K1B,2ZLE,Structure Of Ompf Porin,Escherichia coli BL21(DE3),1,1.16Å,326,64%
+82,2J4U,2ZLE,E.coli Ompc - Camel Lactoferrin Complex,Others,1,0.93Å,325,100%
+83,4LSF,2ZLE,Ion Selectivity Of Ompf Soaked In 0.1m Kbr,Escherichia coli K-12,1,1.09Å,324,64%
+84,2ZFG,2ZLE,Structure Of Ompf Porin,Escherichia coli,1,1.02Å,323,64%
+85,3NSG,2ZLE,"Crystal Structure of OmpF, an Outer Membrane Protein from Salmonella typhi",Salmonella enterica subsp. enterica serovar Typhi str. Ty21a,1,1.48Å,323,56%
+86,5O78,2ZLE,Crystal structure of Omp35 from Enterobacter aerogenes,Klebsiella aerogenes,1,1.20Å,321,57%
+87,4GCQ,2ZLE,Crystal Structure Of E. Coli Ompf Porin In Complex With Carbenicillin,Escherichia coli K-12,1,1.16Å,320,63%
+88,4GCP,2ZLE,Crystal Structure Of E. Coli Ompf Porin In Complex With Ampicillin,Escherichia coli K-12,1,1.12Å,319,63%
+89,4KRA,2ZLE,Salmonella Typhi Ompf Complex With Ciprofloxacin,Salmonella enterica subsp. enterica serovar Typhi,1,1.46Å,316,58%
+90,1GFN,2ZLE,OMPF PORIN DELETION (MUTANT DELTA 109-114),Escherichia coli,1,1.11Å,313,63%
+91,3UU2,2ZLE,Salmonella Typhi Osmoporin(Ompc):an Outer Membrane Protein,Salmonella enterica subsp. enterica serovar Typhimurium,1,0.80Å,293,85%
+92,4GEY,2ZLE,High pH structure of Pseudomonas putida OprB,Pseudomonas putida BIRD-1,1,3.52Å,289,7%
+93,5MDQ,2ZLE,Crystal structure of outer membrane expressed Chitoporin VhChip from Vibrio harveyi,Vibrio harveyi,1,3.11Å,285,14%
+94,6EHD,2ZLE,"OmpT (in-vitro folded), an outer membrane protein of Vibrio cholerae",Vibrio cholerae O395,1,3.06Å,284,16%
+95,2O4V,2ZLE,An Arginine Ladder In Oprp Mediates Phosphate Specific Transfer Across The Outer Membrane,Pseudomonas aeruginosa PAO1,1,2.89Å,281,13%
+96,5MDP,2ZLE,Crystal structure of in vitro folded Chitoporin VhChip from Vibrio harveyi (crystal form II),Vibrio harveyi,1,2.90Å,281,14%
+97,6EHE,2ZLE,"OmpTdeltaL8 (loop L8 deletion mutant of OmpT), an outer membrane protein of Vibrio cholerae",Vibrio cholerae O395,1,2.82Å,279,15%
+98,6EUS,2ZLE,Crystal structure of the outer membrane channel DcaP of Acinetobacter baumannii,Acinetobacter baumannii,1,3.02Å,273,17%
+99,6EHC,2ZLE,"OmpUdeltaN (N-terminus deletion mutant of OmpU), outer membrane protein of Vibrio cholerae",Vibrio cholerae O395,1,2.19Å,269,25%
+100,2FGQ,2ZLE,High Resolution X-Ray Structure Of Omp32 In Complex With Malate,Delftia acidovorans,1,2.58Å,263,19%
+101,5MDS,2ZLE,Crystal structure of outer membrane expressed Chitoporin VhChip from Vibrio harveyi in complex with chitotetraose,Vibrio harveyi,1,2.83Å,262,13%
+102,1E54,2ZLE,Anion-selective porin from Comamonas acidovorans,Delftia acidovorans,1,2.34Å,259,19%
+103,1H6S,2ZLE,Asymmetric Conductivity Of Engineered Proteins,Rhodobacter blasticus,1,3.18Å,254,9%
+104,3VY9,2ZLE,"Crystal Structure Of Porb From Neisseria Meningitidis In Complex With Cesium Ion, Space Group H32",Neisseria meningitidis,1,2.56Å,249,21%
+105,1PRN,2ZLE,Refined Structure Of Porin From Rhodopseudomonas Blastica And Comparison With The Porin From Rhodobacter Capsulatus,Rhodobacter blasticus,1,2.83Å,242,11%
+106,6PRN,2ZLE,"E1m, K50a, R52a Mutant Of Rh. Blastica Porin",Rhodobacter blasticus,1,2.69Å,240,11%
+107,3WI5,2ZLE,Crystal Structure Of The Loop 7 Mutant Porb From Neisseria Meningitidis Serogroup B,Neisseria meningitidis,1,2.27Å,239,21%
+108,2POR,2ZLE,STRUCTURE OF PORIN REFINED AT 1.8 ANGSTROMS RESOLUTION,Rhodobacter capsulatus,1,2.30Å,237,12%
+109,3DUE,2ZLE,CRYSTAL STRUCTURE OF A PUTATIVE PERIPLASMIC PROTEIN FROM DUF2874 FAMILY (BVU_2987) FROM BACTEROIDES VULGATUS ATCC 8482 AT 1.85 A RESOLUTION,Bacteroides vulgatus ATCC 8482,1,1.70Å,58,7%
+110,1YYH,2ZLE,Crystal structure of the human Notch 1 ankyrin domain,Homo sapiens,1,3.13Å,44,11%
+111,1MJ0,2ZLE,SANK E3_5: an artificial Ankyrin repeat protein,Others,1,2.64Å,40,20%
+112,2QYJ,2ZLE,Crystal structure of a designed full consensus ankyrin,Others,1,2.65Å,40,25%
+113,6FP9,2ZLE,Crystal structure of anti-mTFP1 DARPin 1238_E11,Others,1,2.69Å,40,20%
+114,5MLB,2ZLE,Crystal structure of human RAS in complex with darpin K27,Others,1,2.69Å,40,18%
+115,1OT8,2ZLE,Structure Of The Ankyrin Domain Of The Drosophila Notch Receptor,Drosophila melanogaster,1,2.89Å,40,5%
+116,5YBV,2ZLE,The structure of the KANK2 ankyrin domain with the KIF21A peptide,Homo sapiens,1,3.43Å,40,15%
+117,2RFM,2ZLE,Structure Of A Thermophilic Ankyrin Repeat Protein,Thermoplasma volcanium,1,2.86Å,39,5%
+118,1K1B,2ZLE,Crystal Structure Of The Ankyrin Repeat Domain Of Bcl-3: A Unique Member Of The Ikappab Protein Family,Homo sapiens,1,3.19Å,39,5%
+119,1G3N,2ZLE,STRUCTURE OF A P18(INK4C)-CDK6-K-CYCLIN TERNARY COMPLEX,Others,1,3.09Å,36,8%
+120,6FES,2ZLE,Crystal structure of novel repeat protein BRIC2 fused to DARPin D12,Others,1,2.21Å,32,22%
+121,1S70,2ZLE,Complex Between Protein Ser/thr Phosphatase-1 (delta) And The Myosin Phosphatase Targeting Subunit 1 (mypt1),Gallus gallus/Homo sapiens,1,2.47Å,29,7%
+122,2J1N,2ZLE,Osmoporin Ompc,Escherichia coli,1,0.00Å,346,100%
+123,2XE1,2ZLE,Molecular Insights Into Clinically Isolated Ompc Mutants And Their Role In Multi-Drug Resistance,Escherichia coli,1,0.64Å,346,91%
+124,6V78,2ZLE,OmpK37 porin,Klebsiella pneumoniae,1,1.56Å,344,65%
+125,2XE5,2ZLE,Molecular insights into clinically isolated OmpC mutants and their role in multi-drug resistance (OmpC26),Escherichia coli,1,0.71Å,342,89%
+126,2XE3,2ZLE,OmpC28,Escherichia coli,1,0.76Å,342,89%
+127,5FVN,2ZLE,X-ray crystal structure of Enterobacter cloacae OmpE36 porin,Enterobacter cloacae,1,0.57Å,341,87%
+128,5O79,2ZLE,Klebsiella pneumoniae OmpK36,Klebsiella pneumoniae,1,0.72Å,340,80%
+129,1OSM,2ZLE,Osmoporin (Ompk36) From Klebsiella Pneumoniae,Klebsiella pneumoniae,1,0.84Å,340,80%
+130,4D64,2ZLE,Structure of porin Omp-Pst1 from P. stuartii; the crystallographic symmetry generates a dimer of trimers,Providencia stuartii,1,1.18Å,336,59%
+131,5NXR,2ZLE,"Trimeric structure of Omp-Pst1, the major porin from Providencia stuartii",Providencia stuartii,1,1.26Å,336,59%
+132,5NXN,2ZLE,Structure of a L5-deletion mutant of Providencia stuartii Omp-Pst1,Providencia stuartii,1,1.21Å,334,60%
+133,2OMF,2ZLE,Ompf Porin,Escherichia coli K-12,1,1.13Å,327,63%
+134,5NUO,2ZLE,Structural basis for maintenance of bacterial outer membrane lipid asymmetry,Klebsiella pneumoniae/Escherichia coli K-12,1,1.14Å,327,64%
+135,1HXU,2ZLE,Ompf Porin Mutant Kk,Escherichia coli,1,1.16Å,327,63%
+136,6ENE,2ZLE,OmpF orthologue from Enterobacter cloacae (OmpE35),Enterobacter cloacae,1,0.95Å,326,66%
+137,4LSE,2ZLE,Ion Selectivity Of Ompf Porin Soaked In 0.2m Nabr,Escherichia coli K-12,1,1.07Å,326,64%
+138,1OPF,2ZLE,The Structure Of Ompf Porin In A Tetragonal Crystal Form,Escherichia coli,1,1.09Å,326,64%
+139,1GFO,2ZLE,OMPF PORIN (MUTANT R132P),Escherichia coli,1,1.09Å,326,63%
+140,3POX,2ZLE,Crystal Structure Of E.Coli Ompf Porin In Lipidic Cubic Phase: Space Group P1,Escherichia coli BL21,1,1.10Å,326,64%
+141,1GFP,2ZLE,OMPF PORIN (MUTANT R42C),Escherichia coli,1,1.10Å,326,63%
+142,1MPF,2ZLE,Structural And Functional Alterations Of A Colicin Resistant Mutant Of Ompf-porin From Escherichia Coli,Escherichia coli,1,1.11Å,326,63%
+143,1GFQ,2ZLE,Ompf Porin (mutant R82c),Escherichia coli,1,1.12Å,326,64%
+144,3POQ,2ZLE,"Crystal Structure Of E.Coli Ompf Porin In Lipidic Cubic Phase: Space Group H32, Small Unit Cell",Escherichia coli BL21,1,1.14Å,326,64%
+145,5NUR,2ZLE,Structural basis for maintenance of bacterial outer membrane lipid asymmetry,Klebsiella pneumoniae/Escherichia coli K-12,1,1.18Å,326,64%
+146,1PHO,2ZLE,Crystal Structures Explain Functional Properties Of Two E. Coli Porins,Escherichia coli,1,0.97Å,324,64%
+147,2ZLD,2ZLE,Structure Of Ompf Co-Crystallized With T83,Escherichia coli,1,1.14Å,324,64%
+148,3HW9,2ZLE,Cation Selective Pathway Of Ompf Porin Revealed By Anomalous X-Ray Diffraction,Escherichia coli K-12,1,1.04Å,323,64%
+149,4KR8,2ZLE,Salmonella typhi OmpF complex with Daunomycin,Salmonella enterica subsp. enterica serovar Typhi,1,1.45Å,322,57%
+150,4LSI,2ZLE,Ion Selectivity Of Ompf Porin Soaked In 0.3m Kbr,Escherichia coli K-12,1,1.13Å,320,63%
+151,4GCS,2ZLE,Crystal Structure Of E. Coli Ompf Porin In Complex With Ertapenem,Escherichia coli K-12,1,1.16Å,320,63%
+152,4LSH,2ZLE,Ion Selectivity Of Ompf Porin Soaked In 0.2m Kbr,Escherichia coli K-12,1,1.12Å,317,63%
+153,4KR4,2ZLE,Salmonella Typhi Ompf Complex With Ampicillin,Salmonella enterica subsp. enterica serovar Typhi,1,1.46Å,314,58%
+154,3UPG,2ZLE,Loop Deletion Mutant Of Salmonella Typhi Osmoporin (Ompc):an Outer Membrane Protein,Salmonella enterica subsp. enterica serovar Typhimurium,1,1.00Å,306,85%
+155,6EHF,2ZLE,"OmpT (in-vitro folded), an outer membrane protein Vibrio cholerae (trimer form)",Vibrio cholerae O395,1,3.22Å,289,15%
+156,5MDR,2ZLE,Crystal structure of in vitro folded Chitoporin VhChip from Vibrio harveyi in complex with chitohexaose,Vibrio harveyi,1,3.09Å,287,13%
+157,4RJW,2ZLE,Crystal Structure Of Pseudomonas Aeruginosa Opro,Pseudomonas aeruginosa PAO1,1,2.96Å,284,13%
+158,4RJX,2ZLE,Crystal Structure Of The Opro Mutant Protein F62y/d114y,Pseudomonas aeruginosa PAO1,1,2.67Å,281,13%
+159,5MDO,2ZLE,Crystal structure of in vitro folded Chitoporin VhChip from Vibrio harveyi (crystal form I),Vibrio harveyi,1,2.90Å,281,14%
+160,5OYK,2ZLE,Outer-membrane expressed OmpT of Vibrio cholerae,Vibrio cholerae,1,2.97Å,280,15%
+161,5ONU,2ZLE,Trimeric OmpU structure,Vibrio cholerae,1,1.83Å,273,25%
+162,6EHB,2ZLE,"OmpU, an outer membrane protein, of Vibrio cholerae",Vibrio cholerae O395,1,1.71Å,270,26%
+163,2FGR,2ZLE,High Resolution Xray Structure Of Omp32,Others,1,2.44Å,262,19%
+164,4AUI,2ZLE,STRUCTURE AND FUNCTION OF THE PORB PORIN FROM DISSEMINATING N. GONORRHOEAE,Neisseria gonorrhoeae,1,2.53Å,260,20%
+165,3PRN,2ZLE,"E1m, A104w Mutant Of Rh. Blastica Porin",Rhodobacter blasticus,1,3.22Å,257,9%
+166,1BH3,2ZLE,"E1m, A116k Mutant Of Rh. Blastica Porin",Rhodobacter blasticus,1,3.29Å,255,11%
+167,5PRN,2ZLE,"E1m, Y96w, S119w Mutant Of Rh. Blastica Porin",Rhodobacter blasticus,1,3.27Å,254,11%
+168,3VZW,2ZLE,Crystal Structure Of Outer Membrane Protein Porb From Neisseria Meningitidis In Complex With Galactose,Neisseria meningitidis,1,2.50Å,250,19%
+169,3WI4,2ZLE,Crystal Structure Of Wild-type Porb From Neisseria Meningitidis Serogroup B,Neisseria meningitidis MC58,1,2.72Å,249,21%
+170,3VZU,2ZLE,Crystal Structure Of Outer Membrane Protein Porb From Neisseria Meningitidis In Complex With Amp-pnp,Neisseria meningitidis,1,2.37Å,246,20%
+171,8PRN,2ZLE,"E1m, K50a, R52a, D97a, E99a Mutant Of Rh. Blastica Porin",Rhodobacter blasticus,1,2.81Å,243,10%
+172,2PRN,2ZLE,"Rhodopseudomonas Blastica Porin, Triple Mutant E1m, E99w, A116w",Rhodobacter blasticus,1,2.72Å,241,11%
+173,4GF4,2ZLE,Low pH structure of Pseudomonas putida OprB,Pseudomonas putida BIRD-1,1,2.86Å,240,7%
+174,7PRN,2ZLE,"E1m, D97a, E99a Mutant Of Rh. Blastica Porin",Rhodobacter blasticus,1,2.68Å,239,10%
+175,3POR,2ZLE,PORIN CONFORMATION IN THE ABSENCE OF CALCIUM; REFINED STRUCTURE AT 2.5 ANGSTROMS RESOLUTION,Rhodobacter capsulatus,1,2.11Å,236,13%
+176,3SPW,2ZLE,Structure Of Osh4pKES1P IN COMPLEX WITH PHOSPHATIDYLINOSITOL 4- Phosphate,Saccharomyces cerevisiae S288C,1,2.61Å,122,4%
+177,3GMY,2ZLE,"Crystal Structure of Beta-Lactamse Inhibitory Protein-Like Protein (BLP), Selenomethionine Derivative",Streptomyces clavuligerus,1,1.69Å,65,11%
+178,1WG0,2ZLE,Structural Comparison Of Nas6p Protein Structures In Two Different Crystal Forms,Saccharomyces cerevisiae,1,3.63Å,47,9%
+179,3EU9,2ZLE,The Ankyrin Repeat Domain Of Huntingtin Interacting Protein 14,Homo sapiens,1,2.68Å,42,5%
+180,2P2C,2ZLE,Inhibition of caspase-2 by a designed ankyrin repeat protein (DARPin),Homo sapiens,1,2.64Å,40,18%
+181,5KBA,2ZLE,Computational Design of Self-Assembling Cyclic Protein Homooligomers,Others,1,2.68Å,40,20%
+182,5O2S,2ZLE,Human Kras In Complex With Darpin K27,Homo sapiens,1,2.69Å,40,18%
+183,2DVW,2ZLE,Structure Of The Oncoprotein Gankyrin In Complex With S6 Atpase Of The 26s Proteasome,Homo sapiens/Mus musculus,1,2.88Å,40,10%
+184,1IXV,2ZLE,"Crystal Structure Analysis Of Homolog Of Oncoprotein Gankyrin, An Interactor Of Rb And Cdk46",Saccharomyces cerevisiae,1,2.89Å,40,8%
+185,2QC9,2ZLE,Mouse Notch 1 Ankyrin Repeat Intracellular Domain,Mus musculus,1,3.17Å,40,5%
+186,6MOJ,2ZLE,Dimeric DARPin A_angle_R5 complex with EpoR,Others,1,2.79Å,39,18%
+187,2HE0,2ZLE,Crystal Structure Of A Human Notch1 Ankyrin Domain Mutant,Homo sapiens,1,2.93Å,39,15%
+188,5YAZ,2ZLE,Crystal structure of the ANKRD domain of KANK1,Mus musculus,1,3.04Å,33,15%
+189,5YAY,2ZLE,Crystal structure of KANK1/KIF21A complex,Mus musculus,1,2.95Å,32,16%
+190,6NHV,2ZLE,Single particle reconstruction of DARPin and its bound GFP on a symmetric scaffold,Others,1,2.47Å,29,17%
+191,2V4H,2ZLE,Nemo Cc2-lz Domain - 1d5 Darpin Complex,Others,1,2.01Å,25,16%
+192,3F6L,2WUB,Structure Of The F4 Fimbrial Chaperone Faee,Escherichia coli,1,4.34Å,153,5%
+193,3F65,2WUB,The F4 Fimbrial Chaperone Faee Does Not Self-Cap Its Interactive Surfaces,Escherichia coli,1,4.10Å,132,5%
+194,4WI3,2WUB,Structural mapping of the human IgG1 binding site for FcRn: hu3S193 Fc mutation I253A,Homo sapiens,1,2.81Å,95,27%
+195,5K9A,2WUB,Sortase A from Corynebacterium diphtheriae,Corynebacterium diphtheriae NCTC 13129,1,3.06Å,49,16%
+196,3MUW,3J0C,Pseudo-atomic structure of the E2-E1 protein shell in Sindbis virus,Sindbis virus,480,0.00Å,13648,44%
+197,3N44,3J0C,Crystal Structure Of The Mature Envelope Glycoprotein Complex (Trypsin Cleavage; Osmium Soak) Of Chikungunya Virus,Chikungunya virus,2,2.28Å,725,45%
+198,3N43,3J0C,Crystal Structures Of The Mature Envelope Glycoprotein Complex (Trypsin Cleavage) Of Chikungunya Virus,Chikungunya virus,2,2.11Å,723,45%
+199,3N41,3J0C,Crystal Structure Of The Mature Envelope Glycoprotein Complex (Spontaneous Cleavage) Of Chikungunya Virus,Chikungunya virus,2,2.36Å,713,45%
+200,1I9W,3J0C,Crystal Structure Of The Fusion Glycoprotein E1 From Semliki Forest Virus,Semliki Forest virus,1,3.07Å,366,51%
+201,3N42,3J0C,Crystal Structures Of The Mature Envelope Glycoprotein Complex (Furin Cleavage) Of Chikungunya Virus,Chikungunya virus,2,2.10Å,727,45%
+202,3N40,3J0C,Crystal Structure Of The Immature Envelope Glycoprotein Complex Of Chikungunya Virus,Chikungunya virus,2,2.13Å,723,45%
+203,2ALA,3J0C,Crystal Structure Of The Semliki Forest Virus Envelope Protein E1 In Its Monomeric Conformation,Semliki Forest virus,1,2.81Å,380,54%
+204,1RER,3J0C,Crystal structure of the homotrimer of fusion glycoprotein E1 from Semliki Forest Virus,Semliki Forest virus,1,3.05Å,279,55%

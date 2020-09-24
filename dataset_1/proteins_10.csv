@@ -1,0 +1,11 @@
+,name,seed_protein,description,taxonomy,aligned_protein,rmsd,aligned_residue,sequence_id
+0,1HP7,1OPH,A 2.1 Angstrom Structure Of An Uncleaved Alpha-1-antitrypsin Shows Variability Of The Reactive Center And Other Loops,Homo sapiens,1,1.56Å,375,97%
+1,1KCT,1OPH,ALPHA1-ANTITRYPSIN,Homo sapiens,1,1.91Å,371,98%
+2,3CWL,1OPH,"Crystal Structure Of Alpha-1-antitrypsin, Crystal Form B",Homo sapiens,1,1.21Å,368,97%
+3,1ATU,1OPH,Uncleaved Alpha-1-Antitrypsin,Homo sapiens,1,2.21Å,372,99%
+4,1QLP,1OPH,2.0 ANGSTROM STRUCTURE OF INTACT ALPHA-1-ANTITRYPSIN: A CANONICAL TEMPLATE FOR ACTIVE SERPINS,Homo sapiens,1,1.21Å,368,97%
+5,1PSI,1OPH,Intact Recombined Alpha1-Antitrypsin Mutant Phe 51 To Leu,Homo sapiens,1,1.44Å,368,97%
+6,3R4L,5ZLZ,Human very long half life Plasminogen Activator Inhibitor type-1,Homo sapiens,1,1.58Å,372,98%
+7,1B3K,5ZLZ,Plasminogen Activator Inhibitor-1,Homo sapiens,1,1.50Å,367,100%
+8,1DB2,5ZLZ,Crystal Structure Of Native Plasminogen Activator Inhibitor- 1,Homo sapiens,1,1.40Å,371,99%
+9,1DVM,5ZLZ,Active Form Of Human Pai-1,Homo sapiens,1,1.73Å,367,99%

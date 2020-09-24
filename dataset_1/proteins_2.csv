@@ -1,0 +1,424 @@
+,name,seed_protein,description,taxonomy,aligned_protein,rmsd,aligned_residue,sequence_id
+0,9EST,3P8N,Structural Study Of Porcine Pancreatic Elastase Complexed With 7- Amino-3-(2-Bromoethoxy)-4-Chloroisocoumarin As A Nonreactivatable Doubly Covalent Enzyme-Inhibitor Complex,Sus scrofa,1,2.64Å,120,18%
+1,1TYG,3P8N,Structure Of The Thiazole SynthaseTHIS COMPLEX,Bacillus subtilis,1,1.80Å,24,8%
+2,2I6Q,3KNX,Complement Component C2a,Homo sapiens,1,2.60Å,120,14%
+3,1MQ5,3KNX,Crystal Structure Of 3-chloro-n-[4-chloro-2-[[(4-chlorophenyl) Amino]carbonyl]phenyl]-4-[(4-methyl-1-piperazinyl)methyl]-2- Thiophenecarboxamide Complexed With Human Factor Xa,Homo sapiens,1,2.47Å,107,13%
+4,1XKA,3KNX,"Factor Xa Complexed With A Synthetic Inhibitor Fx-2212a,(2s)-(3'- Amidino-3-Biphenylyl)-5-(4-Pyridylamino)pentanoic Acid",Homo sapiens,1,2.28Å,106,14%
+5,2FZZ,3KNX,"Factor Xa In Complex With The Inhibitor 1-(3-Amino-1,2- Benzisoxazol-5-Yl)-6-(2'-(((3r)-3-Hydroxy-1-Pyrrolidinyl) Methyl)-4-Biphenylyl)-3-(Trifluoromethyl)-1,4,5,6- Tetrahydro-7h-Pyrazolo[3,4-C]pyridin-7-One",Homo sapiens,1,2.21Å,105,13%
+6,1LHE,3KNX,Human Alpha-Thrombin Complexed With Ac-(D)phe-Pro-Boro-N- Butyl-Amidino-Glycine-Oh,Hirudo medicinalis/Homo sapiens,1,2.15Å,103,15%
+7,1YM0,3OYP,"Crystal Structure of Earthworm Fibrinolytic Enzyme Component B: a Novel, Glycosylated Two-chained Trypsin",Eisenia fetida,1,2.67Å,112,13%
+8,1EAU,3OYP,"Nonpeptidic Inhibitors Of Human Leukocyte Elastase. 6. Design Of A Potent, Intratracheally Active, Pyridone-Based Trifluoromethyl Ketone",Sus scrofa,1,2.33Å,109,18%
+9,1ELA,3OYP,Analogous Inhibitors Of Elastase Do Not Always Bind Analogously,Sus scrofa,1,2.34Å,109,18%
+10,4ISL,3OYP,Crystal Structure of the inactive Matriptase in complex with its inhibitor HAI-1,Homo sapiens,1,2.34Å,109,11%
+11,1MMJ,3OYP,"Porcine Pancreatic Elastase Complexed With A Potent Peptidyl Inhibitor, Fr136706",Sus scrofa,1,2.44Å,109,18%
+12,3MU1,3OYP,"Comparison Of The Character And The Speed Of X-Ray-Induced Structural Changes Of Porcine Pancreatic Elastase At Two Temperatures, 100 And 15k. The Data Set Was Collected From Region A Of The Crystal. Fifth Step Of Radiation Damage",Sus scrofa,1,2.25Å,108,19%
+13,1EAW,3OYP,Crystal Structure Of The Mtsp1 (matriptase)-bpti (aprotinin) Complex,Homo sapiens/Bos taurus,1,2.22Å,107,13%
+14,1C1M,3OYP,PORCINE ELASTASE UNDER XENON PRESSURE (8 BAR),Sus scrofa,1,2.23Å,107,19%
+15,2FOG,3OYP,Structure Of Porcine Pancreatic Elastase In 40% Trifluoroethanol,Sus scrofa,1,2.25Å,107,19%
+16,4YM9,3OYP,Crystal structure of Porcine Pancreatic Elastase (PPE) in complex with the novel inhibitor JM102,Sus scrofa,1,2.28Å,107,19%
+17,1LVY,3OYP,Porcine Elastase,Sus scrofa,1,2.13Å,106,19%
+18,2VVV,3OYP,Aminopyrrolidine-related Triazole Factor Xa Inhibitor,Homo sapiens,1,2.24Å,105,16%
+19,2JKH,3OYP,Factor Xa - cation inhibitor complex,Homo sapiens,1,2.15Å,103,16%
+20,3TK5,3OYP,Factor Xa in complex with D102-4380,Homo sapiens,1,2.20Å,103,16%
+21,2Y7X,3OYP,The Discovery Of Potent And Long-acting Oral Factor Xa Inhibitors With Tetrahydroisoquinoline And Benzazepine P4 Motifs,Homo sapiens,1,2.20Å,103,16%
+22,1IQG,3OYP,Human Coagulation Factor Xa In Complex With M55159,Homo sapiens,1,2.10Å,102,16%
+23,2Q1J,3OYP,The Discovery Of Glycine And Related Amino Acid-Based Factor Xa Inhibitors,Homo sapiens,1,2.20Å,102,16%
+24,2P93,3OYP,Factor Xa In Complex With The Inhibitor 5-chloro-n-(2-(4-(2- Oxopyridin-1(2h)-yl)benzamido)ethyl)thiophene-2-carboxamide,Homo sapiens,1,2.08Å,101,16%
+25,4Y7A,3OYP,Factor Xa Complex With Gtc000422,Homo sapiens,1,2.08Å,101,16%
+26,3CEN,3OYP,Factor Xa In Complex With The Inhibitor N-(2-(((5-Chloro-2- Pyridinyl) Amino)sulfonyl)phenyl)-4-(2-Oxo-1(2h)- Pyridinyl)benzamide,Homo sapiens,1,2.13Å,101,16%
+27,4ZH8,3OYP,Factor Xa complex with GTC000006,Homo sapiens,1,2.12Å,100,16%
+28,1P9S,3OYP,Coronavirus Main Proteinase (3clpro) Structure: Basis For Design Of Anti-sars Drugs,Human coronavirus 229E,1,2.29Å,99,9%
+29,2Z9K,3OYP,Complex Structure Of Sars-Cov 3c-Like Protease With Jmf1600,Severe acute respiratory syndrome-related coronavirus,1,2.25Å,98,13%
+30,1MZA,3OYP,Crystal Structure Of Human Pro-Granzyme K,Homo sapiens,1,2.10Å,96,15%
+31,2VJ1,3OYP,A Structural View of the Inactivation of the SARS-Coronavirus Main Proteinase by Benzotriazole Esters,Severe acute respiratory syndrome-related coronavirus,1,2.27Å,96,13%
+32,6C2W,3OYP,Crystal structure of human prothrombin mutant S101C/A470C,Homo sapiens,1,2.36Å,95,17%
+33,6V5T,3OYP,Crystal structure of human prethrombin-2 with tryptophans replaced by 5-F-tryptophan,Homo sapiens,1,1.98Å,91,19%
+34,3SNE,3OYP,Crystal Structure Of Sars Coronavirus Main Protease Complexed With Ac- Estlq-H (Soaking),Others,1,2.12Å,90,13%
+35,1ELD,3OYP,Structural Analysis Of The Active Site Of Porcine Pancreatic Elastase Based On The X-Ray Crystal Structures Of Complexes With Trifluoroacetyl-Dipeptide-Anilide Inhibitors,Sus scrofa,1,2.49Å,110,18%
+36,2FOE,3OYP,Structure Of Porcine Pancreatic Elastase In 80% Hexane,Sus scrofa,1,2.30Å,109,18%
+37,2V35,3OYP,Porcine Pancreatic Elastase in complex with inhibitor JM54,Sus scrofa,1,2.34Å,109,18%
+38,3MU8,3OYP,"Comparison Of The Character And The Speed Of X-Ray-Induced Structural Changes Of Porcine Pancreatic Elastase At Two Temperatures, 100 And 15k. The Data Set Was Collected From Region B Of The Crystal. Fifth Step Of Radiation Damage",Sus scrofa,1,2.25Å,108,19%
+39,1B0E,3OYP,"Crystal Structure Of Porcine Pancreatic Elastase With Mdl 101,146",Sus scrofa,1,2.28Å,108,18%
+40,1BMA,3OYP,Benzyl Methyl Aminimide Inhibitor Complexed To Porcine Pancreatic Elastase,Sus scrofa,1,2.23Å,107,18%
+41,1ZTL,3OYP,Crystal Structure Of The Catalytic Domain Of Coagulation Factor Xi In Complex With N-[4-Guanidino-1-(Thiazole-2- Carbonyl)-Butyl]-2-{6-Oxo-5-[(Quinolin-8-Ylmethyl)-Amino]- 2-M-Tolyl-6h-Pyrimidin-1-Yl}-Acetamide,Homo sapiens,1,2.45Å,107,18%
+42,6E0U,3OYP,Staphylococcus pseudintermedius exfoliative toxin EXI,Staphylococcus pseudintermedius,1,2.05Å,105,13%
+43,3MO6,3OYP,Investigation Of Global And Local Effects Of Radiation Damage On Porcine Pancreatic Elastase. Sixth Stage Of Radiation Damage,Sus scrofa,1,2.16Å,105,19%
+44,3P8F,3OYP,Crystal Structure of MT-SP1 in complex with SFTI-1,Helianthus annuus/Homo sapiens,1,2.21Å,105,13%
+45,2BOK,3OYP,Factor Xa - Cation,Homo sapiens,1,2.29Å,105,16%
+46,1Z6E,3OYP,"Factor Xa In Complex With The Inhibitor 1-(3'-Amino-1,2-Benzisoxazol- 5'-Yl)-N-(4-(2'-((Dimethylamino)methyl)-1h-Imidazol-1-Yl)-2- Fluorophenyl)-3-(Trifluoromethyl)-1h-Pyrazole-5-Carboxamide (Razaxaban; Dpc906; Bms-561389)",Homo sapiens,1,2.21Å,103,16%
+47,1P57,3OYP,Extracellular domain of human hepsin,Homo sapiens,1,2.28Å,103,15%
+48,2J4I,3OYP,Crystal Structure Of A Human Factor Xa Inhibitor Complex,Homo sapiens,1,2.12Å,102,17%
+49,1F0S,3OYP,Crystal Structure Of Human Coagulation Factor Xa Complexed With Rpr208707,Homo sapiens,1,2.16Å,102,16%
+50,2EI6,3OYP,"Factor Xa In Complex With The Inhibitor (-)-Cis-N1-[(5- Chloroindol-2-Yl)carbonyl]-N2-[(5-Methyl-4,5,6,7- Tetrahydrothiazolo[5,4-C]pyridin-2-Yl)carbonyl]-1,2- Cyclohexanediamine",Homo sapiens,1,2.11Å,101,16%
+51,1G2L,3OYP,Factor Xa Inhibitor Complex,Homo sapiens,1,2.11Å,101,16%
+52,1NFX,3OYP,Crystal Structure Of Human Coagulation Factor Xa Complexed With Rpr208944,Homo sapiens,1,2.13Å,101,17%
+53,5ZFH,3OYP,Mouse Kallikrein 7,Mus musculus,1,2.13Å,100,15%
+54,6AHS,3OYP,Mouse Kallikrein 7 in complex with imidazolinylindole derivative,Mus musculus,1,2.14Å,99,15%
+55,3EA7,3OYP,Crystal Structure Of Sars-cov Main Protease Triple Mutant Sti/a In Space Group P21,Severe acute respiratory syndrome-related coronavirus,1,2.37Å,99,14%
+56,1UK4,3OYP,Crystal Structure Of Sars Coronavirus Main Proteinase (3clpro) Complexed With An Inhibitor,Others,1,2.36Å,98,13%
+57,2GZ7,3OYP,Structure-Based Drug Design And Structural Biology Study Of Novel Nonpeptide Inhibitors Of Sars-Cov Main Protease,Severe acute respiratory syndrome-related coronavirus,1,2.17Å,95,14%
+58,2A45,3OYP,"Crystal structure of the complex between thrombin and the central ""E"" region of fibrin",Homo sapiens,1,2.14Å,91,19%
+59,1LVB,1DY8,Catalytically Inactive Tobacco Etch Virus Protease Complexed With Substrate,Tobacco etch virus,1,2.64Å,114,20%
+60,5EU8,1DY8,Structure Of Fipv Main Protease In Complex With Dual Inhibitors,Others,1,2.63Å,108,8%
+61,3F1S,1DY8,Crystal Structure Of Protein Z Complexed With Protein Z-Dependent Inhibitor,Homo sapiens,1,2.47Å,106,12%
+62,1ELE,1DY8,Structural Analysis Of The Active Site Of Porcine Pancreatic Elastase Based On The X-Ray Crystal Structures Of Complexes With Trifluoroacetyl-Dipeptide-Anilide Inhibitors,Sus scrofa,1,2.42Å,104,18%
+63,5RH5,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z4439011520 (Mpro-x2694),Severe acute respiratory syndrome coronavirus 2,1,2.47Å,104,12%
+64,1EQ9,1DY8,Crystal Structure Of Fire Ant Chymotrypsin Complexed To Pmsf,Solenopsis invicta,1,2.17Å,103,17%
+65,1RS0,1DY8,Crystal Structure Analysis Of The Bb Segment Of Factor B Complexed With Di-Isopropyl-Phosphate (Dip),Homo sapiens,1,1.76Å,102,18%
+66,2VVC,1DY8,Aminopyrrolidine Factor Xa Inhibitor,Homo sapiens,1,2.19Å,102,17%
+67,5A8Z,1DY8,Crystal Structure of human neutrophil elastase in complex with a dihydropyrimidone inhibitor,Homo sapiens,1,2.26Å,102,20%
+68,5RF6,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with Z1348371854,Severe acute respiratory syndrome coronavirus 2,1,2.40Å,102,12%
+69,5RFM,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with PCM-0102539,Severe acute respiratory syndrome coronavirus 2,1,2.41Å,102,11%
+70,2Y7Z,1DY8,Structure and property based design of factor Xa inhibitors: pyrrolidin-2-ones with aminoindane and phenylpyrrolidine P4 motifs,Homo sapiens,1,2.01Å,101,17%
+71,5R80,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with Z18197050,Severe acute respiratory syndrome coronavirus 2,1,2.41Å,101,11%
+72,3TNT,1DY8,"Crystal structure of SARS coronavirus main protease complexed with an alpha, beta-unsaturated ethyl ester inhibitor SG85",Severe acute respiratory syndrome-related coronavirus,1,2.42Å,101,14%
+73,2H9E,1DY8,Crystal Structure Of Fxa/selectide/napc2 Ternary Complex,Homo sapiens/Ancylostoma caninum,1,1.88Å,100,16%
+74,5ABW,1DY8,Neutrophil Elastase Inhibitors For The Treatment Of (cardio)pulmonary Diseases,Homo sapiens,1,1.74Å,99,20%
+75,2Y5G,1DY8,FACTOR XA - CATION INHIBITOR COMPLEX,Homo sapiens,1,1.91Å,99,16%
+76,2WYJ,1DY8,Structure and property based design of factor Xa inhibitors: pyrrolidin-2-ones with monoaryl P4 motifs,Homo sapiens,1,1.93Å,99,17%
+77,2ZU4,1DY8,Complex Structure Of Sars-Cov 3cl Protease With Tg-0204998,Severe acute respiratory syndrome-related coronavirus,1,2.27Å,99,13%
+78,5REG,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with Z1545313172,Severe acute respiratory syndrome coronavirus 2,1,2.29Å,99,11%
+79,2Z94,1DY8,Complex Structure Of Sars-cov 3c-like Protease With Tdt,Severe acute respiratory syndrome-related coronavirus,1,2.32Å,99,12%
+80,2H2Z,1DY8,Crystal Structure Of Sars-Cov Main Protease With Authentic N And C-Termini,Severe acute respiratory syndrome-related coronavirus,1,2.41Å,99,15%
+81,2GV6,1DY8,Crystal Structure Of Matriptase With Inhibitor Cj-730,Homo sapiens,1,1.87Å,98,13%
+82,3P8G,1DY8,Crystal Structure of MT-SP1 in complex with benzamidine,Homo sapiens,1,2.02Å,98,13%
+83,2Z3C,1DY8,A Mechanistic view of Enzyme Inhibition and Peptide Hydrolysis in the Active Site of the SARS-CoV 3C-Like peptidase,Severe acute respiratory syndrome-related coronavirus,1,2.29Å,98,11%
+84,5RH3,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z1264525706 (Mpro-x2649),Severe acute respiratory syndrome coronavirus 2,1,2.29Å,98,11%
+85,5RH7,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z4439011584 (Mpro-x2705),Severe acute respiratory syndrome coronavirus 2,1,2.33Å,98,13%
+86,2GV7,1DY8,Structure Of Matriptase In Complex With Inhibitor Cj-672,Homo sapiens,1,1.93Å,97,13%
+87,5Y9L,1DY8,"Human kallikrein 7 in complex with 1,3,6-trisubstituted 1,4-diazepane-7-one",Homo sapiens,1,2.03Å,97,19%
+88,1RTK,1DY8,Crystal Structure Analysis Of The Bb Segment Of Factor B Complexed With 4-Guanidinobenzoic Acid,Homo sapiens,1,1.65Å,96,19%
+89,1H1B,1DY8,Crystal structure of human neutrophil elastase complexed with an inhibitor (GW475151),Homo sapiens,1,1.71Å,96,21%
+90,5RFL,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with PCM-0102389,Severe acute respiratory syndrome coronavirus 2,1,2.18Å,96,13%
+91,2Z3D,1DY8,A Mechanistic View Of Enzyme Inhibition And Peptide Hydrolysis In The Active Site Of The Sars-cov 3c-like Peptidase,Others,1,2.19Å,96,14%
+92,6LNQ,1DY8,The co-crystal structure of SARS-CoV 3C Like Protease with aldehyde inhibitor M7,Severe acute respiratory syndrome-related coronavirus,1,2.20Å,96,14%
+93,5RGV,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z4444622066 (Mpro-x2563),Severe acute respiratory syndrome coronavirus 2,1,2.24Å,96,14%
+94,2HOB,1DY8,Crystal Structure Of Sars-cov Main Protease With Authentic N And C- Termini In Complex With A Michael Acceptor N3,Others,1,2.21Å,95,13%
+95,1Q2W,1DY8,X-Ray Crystal Structure of the SARS Coronavirus Main Protease,Severe acute respiratory syndrome-related coronavirus,1,2.30Å,95,13%
+96,5RH4,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z1530425063 (Mpro-x2659),Severe acute respiratory syndrome coronavirus 2,1,2.18Å,94,13%
+97,2QXJ,1DY8,Crystal Structure Of Human Kallikrein 7 In Complex With Suc- Ala-ala-pro-phe-chloromethylketone And Copper,Homo sapiens,1,1.93Å,92,18%
+98,2IML,1DY8,Crystal structure of a hypothetical protein from Archaeoglobus fulgidus binding riboflavin 5'-phosphate,Archaeoglobus fulgidus,1,2.68Å,63,13%
+99,1WLK,1DY8,L122e Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.29Å,56,7%
+100,3Q76,1DY8,Structure of human neutrophil elastase (uncomplexed),Homo sapiens,1,2.54Å,106,19%
+101,6JIJ,1DY8,The Crystal Structure of Main Protease from Mouse Hepatitis Virus A59 in Complex with an inhibitor,Others,1,2.20Å,105,9%
+102,5T63,1DY8,The Hhoa Protease From Synechocystis Sp. Pcc 6803,Escherichia coli/Synechocystis sp. PCC 6803 substr. Kazusa,1,1.75Å,103,23%
+103,5RGJ,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z1401276297 (Mpro-x0425),Severe acute respiratory syndrome coronavirus 2,1,2.42Å,103,12%
+104,5RHB,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Cov_HetLib030 (Mpro-x2097),Severe acute respiratory syndrome coronavirus 2,1,2.53Å,103,12%
+105,5RHE,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with PG-COV-42 (Mpro-x2052),Severe acute respiratory syndrome coronavirus 2,1,2.38Å,102,12%
+106,5RHD,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with SF013 (Mpro-x2193),Severe acute respiratory syndrome coronavirus 2,1,2.41Å,102,11%
+107,1NFU,1DY8,Crystal Structure Of Human Coagulation Factor Xa Complexed With Rpr132747,Homo sapiens,1,2.04Å,101,16%
+108,2CJI,1DY8,Crystal Structure Of A Human Factor Xa Inhibitor Complex,Homo sapiens,1,2.10Å,101,16%
+109,6WTK,1DY8,Feline coronavirus drug inhibits the main protease of SARS-CoV-2 and blocks virus replication,Severe acute respiratory syndrome coronavirus 2,1,2.40Å,101,11%
+110,1UK3,1DY8,Crystal Structure Of Sars Coronavirus Main Proteinase (3clpro) At Ph7.6,Severe acute respiratory syndrome-related coronavirus,1,2.40Å,101,12%
+111,5RF5,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with Z3241250482,Severe acute respiratory syndrome coronavirus 2,1,2.78Å,101,11%
+112,3Q3K,1DY8,Factor Xa In Complex With A Phenylenediamine Derivative,Homo sapiens,1,1.89Å,100,16%
+113,2P95,1DY8,"Factor Xa In Complex With The Inhibitor 5-chloro-n-((1r,2s)-2-(4-(2- Oxopyridin-1(2h)-yl)benzamido) Cyclopentyl)thiophene-2-carboxamide",Homo sapiens,1,1.96Å,100,16%
+114,5REO,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with PCM-0102578,Severe acute respiratory syndrome coronavirus 2,1,2.31Å,100,11%
+115,5RE4,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with Z1129283193,Severe acute respiratory syndrome coronavirus 2,1,2.27Å,99,12%
+116,7JFQ,1DY8,The crystal structure of 3CL MainPro of SARS-CoV-2 with de-oxidized C145,Severe acute respiratory syndrome coronavirus 2,1,2.29Å,99,13%
+117,5RH6,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with Z4439011588 (Mpro-x2703),Severe acute respiratory syndrome coronavirus 2,1,2.30Å,99,12%
+118,2Z9G,1DY8,Complex Structure Of Sars-Cov 3c-Like Protease With Pma,Severe acute respiratory syndrome-related coronavirus,1,2.44Å,99,12%
+119,5RFZ,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with PCM-0102274,Severe acute respiratory syndrome coronavirus 2,1,2.70Å,99,11%
+120,2I6S,1DY8,Complement Component C2a,Homo sapiens,1,1.76Å,98,12%
+121,3IIT,1DY8,"Factor Xa In Complex With A Cis-1,2-Diaminocyclohexane Derivative",Homo sapiens,1,2.01Å,98,16%
+122,4JYT,1DY8,Crystal Structure Of Matriptase In Complex With Inhibitor,Homo sapiens,1,2.02Å,98,13%
+123,3TIT,1DY8,"Crystal structure of SARS coronavirus main protease complexed with an alpha, beta-unsaturated ethyl ester SG81",Severe acute respiratory syndrome-related coronavirus,1,2.35Å,98,13%
+124,2BOH,1DY8,"Crystal structure of factor Xa in complex with compound ""1""",Homo sapiens,1,1.91Å,97,16%
+125,4JZI,1DY8,"Crystal Structure Of Matriptase In Complex With Inhibitor""",Homo sapiens,1,1.92Å,97,13%
+126,6Y84,1DY8,"SARS-CoV-2 main protease with unliganded active site (2019-nCoV, coronavirus disease 2019, COVID-19)",Severe acute respiratory syndrome coronavirus 2,1,2.19Å,97,12%
+127,2OP9,1DY8,Substrate Specificity Profiling and Identification of a New Class of Inhibitor for the Major Protease of the SARS Coronavirus,Severe acute respiratory syndrome-related coronavirus,1,2.20Å,97,13%
+128,5RGP,1DY8,PanDDA analysis group deposition SARS-CoV-2 main protease fragment screen -- Crystal Structure of SARS-CoV-2 main protease in complex with PCM-0102628 (Mpro-x0771),Severe acute respiratory syndrome coronavirus 2,1,2.22Å,96,13%
+129,1L4D,1DY8,Crystal Structure Of Microplasminogen-streptokinase Alpha Domain Complex,Others,1,2.28Å,96,15%
+130,3NPS,1DY8,Crystal structure of membrane-type serine protease 1 (MT-SP1) in complex with the Fab Inhibitor S4,Homo sapiens,1,1.93Å,95,14%
+131,3SNB,1DY8,Crystal Structure Of Sars Coronavirus Main Protease Complexed With Ac- Dsfdq-H (Soaking),Others,1,2.21Å,95,13%
+132,2BX4,1DY8,Crystal Structure of SARS Coronavirus Main Proteinase (P21212),SARS coronavirus Sin2774,1,2.19Å,94,14%
+133,5REL,1DY8,PanDDA analysis group deposition -- Crystal Structure of SARS-CoV-2 main protease in complex with PCM-0102340,Severe acute respiratory syndrome coronavirus 2,1,2.10Å,93,12%
+134,1I18,1DY8,SOLUTION STRUCTURE OF THE N-TERMINAL DOMAIN OF RIBOFLAVIN SYNTHASE FROM E. COLI,Escherichia coli,1,2.21Å,37,11%
+135,5QCM,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl ~{N}-[4-[[(1~{S})-2-[(~{E})-3-[3-chloranyl-2-fluoranyl-6-(1,2,3,4-tetrazol-1-yl)phenyl]prop-2-enoyl]-3,4-dihydro-1~{H}-isoquinolin-1-yl]carbonylamino]phenyl]carbamate",Homo sapiens,1,2.44Å,109,17%
+136,5QCN,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR 4-[[(1~{S})-2-[(~{E})-3-[5-chloranyl-2-(1,2,3,4-tetrazol-1-yl)phenyl]prop-2-enoyl]-5-[(3~{S})-3-ethoxycarbonylpiperidin-1-yl]carbonyl-3,4-dihydro-1~{H}-isoquinolin-1-yl]carbonylamino]benzoic acid",Homo sapiens,1,2.46Å,108,18%
+137,6C0S,4KTC,Factor XIA in complex with the inhibitor methyl (4-{6-[(1S)-2-[(3R)-1-acetylpiperidin-3-yl]-1-({(2E)-3-[5-chloro-2- (1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)ethyl]-3-chloropyridazin-4-yl}phenyl) carbamate,Homo sapiens,1,2.46Å,107,18%
+138,5TKU,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR METHYL ((15S)-15-(((2E)-3-(5-CHLORO-2-(1H-TETRAZOL-1-YL)PHENYL)-2-PROPENOYL)AMINO)-9-OXO-8,17,19-TRIAZATRICYCLO[14.2.1.0~2,7~]NONADECA-1(18),2,4,6,16(19)-PENTAEN-5-YL)CARBAMATE",Homo sapiens,1,2.43Å,106,18%
+139,5E2P,4KTC,Factor Xia In Complex With The Inhibitor N-[(1s)-1-benzyl-2-[2-[5- Chloro-2-(tetrazol-1-yl)phenyl]ethylamino]-2-oxo-ethyl]-4-hydroxy-2- Oxo-1h-quinoline-6-carboxamide,Homo sapiens,1,2.47Å,106,18%
+140,4M7G,4KTC,Streptomyces Erythraeus Trypsin,Saccharopolyspora erythraea,1,2.28Å,105,17%
+141,5QCL,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR 4-[[(1~{S})-2-[(~{E})-3-[5-chloranyl-2-(1,2,3,4-tetrazol-1-yl)phenyl]prop-2-enoyl]-3,4-dihydro-1~{H}-isoquinolin-1-yl]carbonylamino]benzoic acid",Homo sapiens,1,2.34Å,105,18%
+142,5EXL,4KTC,Factor Xia In Complex With The Inhibitor 4-(aminomethyl)-~{n}- [(1~{s})-1-[4-(3-oxidanyl-1~{h}-indazol-5-yl)pyridin-2-yl]-2-phenyl- Ethyl]cyclohexane-1-carboxamide,Homo sapiens,1,2.42Å,105,18%
+143,1ZMN,4KTC,"Crystal Structure Of The Catalytic Domain Of Coagulation Factor Xi In Complex With (R)-1-(4-(4-(Hydroxymethyl)-1,3, 2-Dioxaborolan-2-Yl)phenyl)guanidine",Homo sapiens,1,2.45Å,105,18%
+144,5EXM,4KTC,Factor Xia In Complex With The Inhibitor Methyl ~{n}-[4-[2-[(1~{s})-1- [[4-(aminomethyl)cyclohexyl]carbonylamino]-2-phenyl-ethyl]pyridin-4- Yl]phenyl]carbamate,Homo sapiens,1,2.39Å,104,18%
+145,4X6M,4KTC,Factor Xia In Complex With The Inhibitor 1-{(1s)-1-[4-(3-amino-1h- Indazol-6-yl)-5-chloro-1h-imidazol-2-yl]-2-phenylethyl}-3-[2- (aminomethyl)-5-chlorobenzyl]urea,Homo sapiens,1,2.28Å,103,18%
+146,5KWM,4KTC,S. erythraea trypsin long construct apoenzyme,Saccharopolyspora erythraea,1,2.07Å,102,17%
+147,6LNY,4KTC,The co-crystal structure of Severe Acute Respiratory Syndrome Coronavirus 3C-Like Protease with aldehyde M15,Severe acute respiratory syndrome-related coronavirus,1,2.37Å,100,12%
+148,2Q6G,4KTC,Crystal Structure Of Sars-cov Main Protease H41a Mutant In Complex With An N-terminal Substrate,Others,1,2.48Å,100,11%
+149,2GT8,4KTC,Crystal Structure Of Sars Coronavirus Main Peptidase (With An Additional Ala At The N-Terminus Of Each Protomer) In The Space Group P43212,Severe acute respiratory syndrome-related coronavirus,1,2.51Å,100,11%
+150,2A5I,4KTC,Crystal Structures Of Sars Coronavirus Main Peptidase Inhibited By An Aza-Peptide Epoxide In The Space Group C2,Severe acute respiratory syndrome-related coronavirus,1,2.23Å,97,13%
+151,3SZN,4KTC,"Crystal structure of SARS coronavirus main protease complexed with an alpha, beta-unsaturated ethyl ester SG75",Severe acute respiratory syndrome-related coronavirus,1,2.27Å,97,13%
+152,5F8Z,4KTC,The Crystal Structure Of Human Plasma Kallikrein In Complex With Its Peptide Inhibitor Pkalin-1,Others,1,1.95Å,96,18%
+153,5JAB,4KTC,Structure Of The Biliverdin Reductase Rv2074 From Mycobacterium Tuberculosis In Complex With F420,Mycobacterium tuberculosis H37Rv,1,4.04Å,66,9%
+154,1YWU,4KTC,Solution NMR structure of Pseudomonas Aeruginosa protein PA4608. Northeast Structural Genomics target PaT7,Pseudomonas aeruginosa PAO1,1,2.40Å,52,8%
+155,5HIZ,4KTC,The structure of PEDV NSP9,Porcine epidemic diarrhea virus CV777,1,2.36Å,48,2%
+156,6USY,4KTC,COAGULATION FACTOR XI CATALYTIC DOMAIN (C123S) IN COMPLEX WITH NVP-XIV936,Homo sapiens,1,2.46Å,107,18%
+157,5E2O,4KTC,Factor Xia In Complex With The Inhibitor 4-[(n-{(2e)-3-[5-chloro-2- (1h-tetrazol-1-yl)phenyl]prop-2-enoyl}-l-phenylalanyl)amino]benzoic Acid,Homo sapiens,1,2.41Å,106,18%
+158,4Y8Z,4KTC,"Factor XIa in complex with the inhibitor (2E)-N-[(1S)-1-[5-chloro-4-(4-hydroxy-2-oxo-1,2-dihydroquinolin-6-yl)-1H-imidazol-2-yl]-3-(4-methylpiperazin-1-yl)-3-oxopropyl]-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enamide",Homo sapiens,1,2.41Å,106,18%
+159,5Q0H,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl [(4R,5E,8S)-11-chloro-8-[(2,6-difluoro-4-methylbenzene-1-carbonyl)amino]-4-methyl-2-oxo-1,3,4,7,8,10-hexahydro-2H-12,9-(azeno)-1,10-benzodiazacyclotetradecin-15-yl]carbamate",Homo sapiens,1,2.45Å,106,18%
+160,6TS6,4KTC,Coagulation factor XI protease domain in complex with active site inhibitor,Homo sapiens,1,2.45Å,106,18%
+161,5Q0E,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl [(4S,8S)-8-({(2E)-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-4-methyl-2-oxo-1,3,4,5,6,7,8,10-octahydro-2H-12,9-(azeno)-1,10-benzodiazacyclotetradecin-15-yl]carbamate",Homo sapiens,1,2.24Å,105,18%
+162,6W50,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR METHYL ((10R,14S)- 14-(4-(3-CHLORO-2,6-DIFLUOROPHENYL)-6-OXO-3,6-DIHYDRO- 1(2H)-PYRIDINYL)-10-METHYL-9-OXO-8,16- DIAZATRICYCLO[13.3.1.0~2,7~]NONADECA-1(19),2,4,6,15,17- HEXAEN-5-YL)CARBAMATE",Homo sapiens,1,2.34Å,105,18%
+163,5TKT,4KTC,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR METHYL ((12E,15S)-15-(((2E)-3-(5-CHLORO-2-(1H-TETRAZOL-1-YL)PHENYL)-2-PROPENOYL)AMINO)-9-OXO-8,17,19-TRIAZATRICYCLO[14.2.1.0~2,7~]NONADECA-1(18),2,4,6,12,16(19)-HEXAEN-5-YL)CARBAMATE",Homo sapiens,1,2.42Å,105,18%
+164,4WXI,4KTC,FACTOR XIA IN COMPLEX WITH THE INHIBITOR trans-N-{(1S)-1-[4-(3-amino-2H-indazol-6-yl)pyridin-2-yl]-2-phenylethyl}-4-(aminomethyl)cyclohexanecarboxamide,Homo sapiens,1,2.27Å,104,18%
+165,6TS4,4KTC,Coagulation factor XI protease domain in complex with active site inhibitor,Homo sapiens,1,2.28Å,104,17%
+166,4Y8X,4KTC,Factor XIa in complex with the inhibitor methyl (4-{4-chloro-2-[(1S)-1-({(2E)-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-2-phenylethyl]-1H-imidazol-5-yl}phenyl)carbamate,Homo sapiens,1,2.40Å,104,18%
+167,1ZSL,4KTC,Factor XI complexed with a pyrimidinone inhibitor,Homo sapiens,1,2.21Å,101,19%
+168,1ZMJ,4KTC,Crystal Structure Of The Catalytic Domain Of Factor Xi In Complex With 4-(guanidinomethyl)-phenylboronic Acid,Homo sapiens,1,2.29Å,101,19%
+169,6LO0,4KTC,The co-crystal structure of Severe Acute Respiratory Syndrome Coronavirus 3C Like Protease with aldehyde M14,Severe acute respiratory syndrome-related coronavirus,1,2.42Å,101,13%
+170,5WB6,4KTC,"Factor Xia In Complex With The Inhibitor Methyl [(11s)-11-({(2e)-3-[5- Chloro-2-(1h-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-6-fluoro-2-oxo- 1,3,4,10,11,13-hexahydro-2h-5,9:15,12-di(azeno)-1,13- Benzodiazacycloheptadecin-18-yl]carbamate",Homo sapiens,1,2.16Å,100,19%
+171,2GX4,4KTC,Crystal structure of SARS coronavirus 3CL protease inhibitor complex,Severe acute respiratory syndrome-related coronavirus,1,2.40Å,100,11%
+172,5F8T,4KTC,The Crystal Structure Of Human Plasma Kallikrein In Complex With Its Peptide Inhibitor Pkalin-2,Others,1,2.15Å,99,16%
+173,3AW0,4KTC,Structure of SARS 3CL protease with peptidic aldehyde inhibitor,Others,1,2.30Å,97,13%
+174,6TS7,4KTC,Coagulation factor XI protease domain in complex with active site inhibitor,Homo sapiens,1,2.36Å,95,20%
+175,2D26,4KTC,Active Site Distortion Is Sufficient For Proteinase Inhibit Second Crystal Structure Of Covalent Serpin-Proteinase Complex,Homo sapiens/Sus scrofa,1,2.45Å,94,19%
+176,5YM8,4KTC,Crystal Structure of porcine delta coronavirus nsp9-N7,Porcine coronavirus HKU15,1,2.05Å,47,6%
+177,6SVZ,6P6Z,Reference structure of bovine trypsin (even frames of crystal x34),Bos taurus,1,2.94Å,115,14%
+178,6PXJ,6P6Z,Crystal structure of human thrombin mutant I16T,Homo sapiens,1,2.19Å,100,14%
+179,6ROT,6P6Z,Thrombin in complex with MI2105,Hirudo medicinalis/Homo sapiens,1,2.23Å,100,14%
+180,3PO1,6P6Z,Thrombin In Complex With Benzothiazole Guanidine,Homo sapiens,1,2.38Å,55,4%
+181,6CHA,6P6Z,STRUCTURE OF A TETRAHEDRAL TRANSITION STATE COMPLEX OF ALPHA-*CHYMOTRYPSIN AT 1.8-*ANGSTROMS RESOLUTION,Bos taurus,1,2.21Å,54,2%
+182,4Y9I,6P6Z,Structure of F420-H2 Dependent Reductase (FDR-A) msmeg_2027,Mycolicibacterium smegmatis MC2 155,1,2.68Å,54,13%
+183,1RIW,6P6Z,Thrombin In Complex With Natural Product Inhibitor Oscillarin,Others,1,1.94Å,50,4%
+184,5XLY,6P6Z,Crystal Structure Of Cher1 In Complex With C-di-gmp-bound Mapz,Pseudomonas aeruginosa PAO1,1,2.29Å,49,8%
+185,1HZE,6P6Z,SOLUTION STRUCTURE OF THE N-TERMINAL DOMAIN OF RIBOFLAVIN SYNTHASE FROM E. COLI,Escherichia coli,1,2.19Å,37,14%
+186,6SVJ,6P6Z,Terahertz irradiated structure of bovine trypsin (odd frames of crystal x42),Bos taurus,1,2.80Å,113,14%
+187,3P95,6P6Z,Human mesotrypsin complexed with bovine pancreatic trypsin inhibitor variant (BPTI-K15R/R17D),Homo sapiens/Bos taurus,1,2.50Å,111,11%
+188,6SVI,6P6Z,Non-terahertz irradiated structure of bovine trypsin (even frames of crystal x42),Bos taurus,1,2.66Å,110,15%
+189,6SVU,6P6Z,Reference structure of bovine trypsin (even frames of crystal x30),Bos taurus,1,2.49Å,106,14%
+190,6HSX,6P6Z,Thrombin in Complex with a D-Phe-Pro-diaminopyridine derivative,Hirudo medicinalis/Homo sapiens,1,2.19Å,100,14%
+191,5JFD,6P6Z,Thrombin in complex with (S)-N-(2-(aminomethyl)-5-chlorobenzyl)-1-((benzylsulfonyl)-D-arginyl)pyrrolidine-2-carboxamide,Hirudo medicinalis/Homo sapiens,1,2.21Å,100,14%
+192,6I51,6P6Z,Thrombin in complex with fragment J02,Hirudo medicinalis/Homo sapiens,1,1.98Å,97,14%
+193,3TGV,6P6Z,"Crystal Structure Of Hutz,The Heme Storsge Protein From Vibrio Cholerae",Vibrio cholerae O395,1,2.73Å,60,12%
+194,2FHQ,6P6Z,Crystal Structure Of General Stress Protein From Bacteroides Thetaiotaomicron,Bacteroides thetaiotaomicron VPI-5482,1,2.64Å,59,12%
+195,5Y4R,6P6Z,Structure of a methyltransferase complex,Pseudomonas aeruginosa PAO1,1,2.64Å,54,2%
+196,2L74,6P6Z,Solution structure of the PilZ domain protein PA4608 complex with c-di-GMP identifies charge clustering as molecular readout,Pseudomonas aeruginosa,1,2.47Å,51,8%
+197,3RCC,6P6Z,Crystal Structure Of The Streptococcus Agalactiae Sortase A,Streptococcus agalactiae serogroup V,1,2.89Å,41,10%
+198,1J74,6P6Z,Crystal Structure Of Mms2,Homo sapiens,1,1.98Å,35,6%
+199,4X6O,2XCN,Factor Xia In Complex With The Inhibitor Methyl (4-{4-chloro-2-[(1s)- 1-({3-[5-chloro-2-(1h-tetrazol-1-yl)phenyl]propanoyl}amino)-2- Phenylethyl]-1h-imidazol-5-yl}phenyl)carbamate,Homo sapiens,1,2.68Å,118,15%
+200,1XXF,2XCN,Crystal Structure Of The Fxia Catalytic Domain In Complex With Ecotin Mutant (Ecotinp),Others,1,2.48Å,112,16%
+201,4X6N,2XCN,Factor Xia In Complex With The Inhibitor 1-{(1s)-1-[4-(3-amino-1h- Indazol-6-yl)-5-chloro-1h-imidazol-2-yl]-2-phenylethyl}-3-[5-chloro- 2-(1h-tetrazol-1-yl)benzyl]urea,Homo sapiens,1,2.59Å,112,17%
+202,3WON,2XCN,Crystal Structure Of The Dap Bii Dipeptide Complex Iii,Pseudoxanthomonas mexicana,1,2.04Å,106,19%
+203,1IQE,2XCN,Human Coagulation Factor Xa In Complex With M55590,Homo sapiens,1,2.08Å,106,13%
+204,4J1Y,2XCN,The X-ray Crystal Structure Of Human Complement Protease C1s Zymogen,Homo sapiens,1,2.19Å,105,13%
+205,5EDM,2XCN,Crystal structure of prothrombin deletion mutant residues 154-167 ( Form I ),Homo sapiens,1,2.41Å,104,14%
+206,2GD4,2XCN,Crystal Structure Of The Antithrombin-s195a Factor Xa-pentasaccharide Complex,Homo sapiens,1,2.13Å,97,12%
+207,1GGD,2XCN,CRYSTAL STRUCTURE OF GAMMA CHYMOTRYPSIN WITH N-ACETYL-LEUCIL-PHENYLALANINE ALDEHYDE BOUND AT THE ACTIVE SITE,Bos taurus,1,2.03Å,54,2%
+208,1MTN,2XCN,BOVINE ALPHA-CHYMOTRYPSIN:BPTI CRYSTALLIZATION,Bos taurus,1,1.94Å,53,2%
+209,1VGC,2XCN,Gamma-Chymotrypsin L-Para-Chloro-1-Acetamido Boronic Acid Inhibitor Complex,Bos taurus,1,2.00Å,53,2%
+210,6GCH,2XCN,Structure Of Chymotrypsin-Trifluoromethyl Ketone Inhibitor Complexes. Comparison Of Slowly And Rapidly Equilibrating Inhibitors,Bos taurus,1,2.01Å,53,2%
+211,2GMT,2XCN,Three-Dimensional Structure Of Chymotrypsin Inactivated With (2s) N- Acetyl-L-Alanyl-L-Phenylalanyl-Chloroethyl Ketone: Implications For The Mechanism Of Inactivation Of Serine Proteases By Chloroketones,Bos taurus,1,1.94Å,52,2%
+212,5XWA,2XCN,"Crystal Structure of Porcine pancreatic trypsin with tripeptide inhibitor, PRY, at pH 10",Sus scrofa,1,1.69Å,47,2%
+213,5TKS,2XCN,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR ((15S)-18-CHLORO- 15-(((2E)-3-(5-CHLORO-2-(1H-TETRAZOL-1-YL)PHENYL)-2- PROPENOYL)AMINO)-17,19-DIAZATRICYCLO[14.2.1.0~2,7~]NONADECA-1(18),2,4,6,16(19)-PENTAEN-5-YL)CARBAMATE",Homo sapiens,1,2.97Å,123,15%
+214,6AOD,2XCN,FXIa antibody complex,Homo sapiens,1,2.95Å,122,14%
+215,5Q0F,2XCN,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl [(4R,5E,8S)-8-({(2E)-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-4-methyl-2-oxo-1,3,4,7,8,10-hexahydro-2H-12,9-(azeno)-1,10-benzodiazacyclotetradecin-15-yl]carbamate",Homo sapiens,1,2.82Å,120,15%
+216,1ZHM,2XCN,Crystal Structure Of The Catalytic Domain Of The Coagulation Factor Xia In Complex With Benzamidine (s434a- T475a-k437 Mutant),Homo sapiens,1,2.56Å,115,16%
+217,1ZPC,2XCN,Crystal Structure Of The Catalytic Domain Of Coagulation Factor Xi In Complex With 2-[2-(3-Chloro-Phenyl)-2-Hydroxy- Acetylamino]-N-[4-Guanidino-1-(Thiazole-2-Carbonyl)-Butyl]- 3-Methyl-Butyramide,Homo sapiens,1,2.66Å,115,16%
+218,1ZJK,2XCN,Crystal Structure Of The Zymogen Catalytic Region Of Human Masp-2,Homo sapiens,1,2.33Å,112,12%
+219,4CRC,2XCN,Creating Novel F1 Inhibitors Through Fragment Based Lead Generation And Structure Aided Drug Design,Homo sapiens,1,2.32Å,110,16%
+220,4CRE,2XCN,Creating novel F1 inhibitors through fragment based lead generation and structure aided drug design,Homo sapiens,1,2.54Å,110,16%
+221,1IQK,2XCN,Human Coagulation Factor Xa In Complex With M55113,Homo sapiens,1,2.38Å,109,14%
+222,4TY6,2XCN,Factor XIa in complex with the inhibitor 4-{2-[(1S)-1-({[trans-4-(aminomethyl)cyclohexyl]carbonyl}amino)-2-phenylethyl]-1H-imidazol-4-yl}benzamide,Homo sapiens,1,2.31Å,108,17%
+223,5Q0D,2XCN,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl [(7S)-7-({(2E)-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-2-oxo-1,2,3,4,5,6,7,9-octahydro-11,8-(azeno)-1,9-benzodiazacyclotridecin-14-yl]carbamate",Homo sapiens,1,2.36Å,108,17%
+224,1JWT,2XCN,Crystal Structure Of Thrombin In Complex With A Novel Bicyclic Lactam Inhibitor,Homo sapiens,1,2.24Å,106,14%
+225,1XX9,2XCN,Crystal Structure Of The Fxia Catalytic Domain In Complex With Ecotinm84r,Others,1,2.29Å,106,17%
+226,3HPT,2XCN,Crystal structure of human FxA in complex with (S)-2-cyano-1-(2-methylbenzofuran-5-yl)-3-(2-oxo-1-(2-oxo-2-(pyrrolidin-1-yl)ethyl)azepan-3-yl)guanidine,Homo sapiens,1,2.08Å,105,13%
+227,4D7G,2XCN,Human Fxia In Complex With Small Molecule Inhibitors,Homo sapiens,1,2.38Å,103,17%
+228,3CS7,2XCN,"Factor Xa In Complex With The Inhibitor 1-(4-Methoxyphenyl)- 6-(4-(1-(Pyrrolidin-1-Ylmethyl)cyclopropyl)phenyl)-3- (Trifluoromethyl)-5,6-Dihydro-1h-Pyrazolo[3,4-C]pyridin- 7(4h)-One",Homo sapiens,1,1.99Å,100,12%
+229,5EXN,2XCN,"Factor Xia (c500s [c122s]) In Complex With The Inhibitor Methyl ~{n}- [4-[2-[(1~{s})-1-[[(~{e})-3-[5-chloranyl-2-(1,2,3,4-tetrazol-1-yl) Phenyl]prop-2-enoyl]amino]-2-phenyl-ethyl]pyridin-4- Yl]phenyl]carbamate",Homo sapiens,1,2.17Å,100,17%
+230,5EDK,2XCN,Crystal structure of prothrombin deletion mutant residues 146-167 ( Form II ),Homo sapiens,1,2.22Å,99,14%
+231,4Y8Y,2XCN,Factor XIa in complex with the inhibitor methyl (4-{4-chloro-2-[(1S)-1-({(2E)-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-3-(morpholin-4-yl)-3-oxopropyl]-1H-imidazol-5-yl}phenyl)carbamate,Homo sapiens,1,2.08Å,97,18%
+232,4CRG,2XCN,Creating Novel F1 Inhibitors Through Fragment Based Lead Generation And Structure Aided Drug Design,Homo sapiens,1,2.15Å,95,18%
+233,1AB9,2XCN,CRYSTAL STRUCTURE OF BOVINE GAMMA-CHYMOTRYPSIN,Others,1,1.99Å,53,2%
+234,2P8O,2XCN,Crystal Structure Of A Benzohydroxamic Acid/vanadate Complex Bound To Chymotrypsin A,Bos taurus,1,2.00Å,53,2%
+235,1AFQ,2XCN,CRYSTAL STRUCTURE OF BOVINE GAMMA-CHYMOTRYPSIN COMPLEXED WITH A SYNTHETIC INHIBITOR,Bos taurus,1,1.91Å,52,2%
+236,5XW8,2XCN,"Crystal Structure of Porcine pancreatic trypsin with tripeptide inhibitor, PRN, at pH 7",Sus scrofa,1,1.69Å,47,2%
+237,5XW1,2XCN,"Crystal Structure of Porcine pancreatic trypsin with tripeptide inhibitor, PRN, at pH10",Capsicum annuum/Sus scrofa,1,1.69Å,47,2%
+238,5XW9,2XCN,"Crystal Structure of Porcine pancreatic trypsin with tripeptide inhibitor, PRY, at pH 7",Sus scrofa,1,1.51Å,45,2%
+239,1LCY,2XNI,Crystal Structure Of The Mitochondrial Serine Protease Htra2,Homo sapiens,1,1.89Å,114,16%
+240,5A0B,2XNI,Crystal Structure Of Human Neutrophil Elastase In Complex With A Dihydropyrimidone Inhibitor,Homo sapiens,1,2.48Å,111,17%
+241,5A8X,2XNI,Crystal Structure of human neutrophil elastase in complex with a dihydropyrimidone inhibitor,Homo sapiens,1,2.40Å,109,17%
+242,1PPG,2XNI,The Refined 2.3 Angstroms Crystal Structure Of Human Leukocyte Elastase In A Complex With A Valine Chloromethyl Ketone Inhibitor,Others,1,2.40Å,104,17%
+243,4NZL,2XNI,Extracellular proteins of Staphylococcus aureus inhibit the neutrophil serine proteases,Others,1,2.56Å,112,17%
+244,3Q77,2XNI,Structure of human neutrophil elastase in complex with a dihydropyrimidone inhibitor,Homo sapiens,1,2.62Å,112,17%
+245,5A0C,2XNI,Crystal Structure of human neutrophil elastase in complex with a dihydropyrimidone inhibitor,Homo sapiens,1,2.44Å,111,17%
+246,1LVM,2XNI,Catalytically Active Tobacco Etch Virus Protease Complexed With Product,Tobacco etch virus,1,2.30Å,104,19%
+247,6FV1,2XNI,"Structure of human coronavirus NL63 main protease in complex with the alpha-ketoamide (S)-N-((S)-4-(benzylamino)-3,4-dioxo-1-((S)-2-oxopyrrolidin-3-yl)butan-2-yl)-2-cinnamamido-4-methylpentanamide (cinnamoyl-leucine-GlnLactam-CO-CO-NH-benzyl)",Human coronavirus NL63,1,2.09Å,91,12%
+248,2D2D,2XNI,Crystal Structure Of Sars-Cov Mpro In Complex With An Inhibitor I2,SARS coronavirus BJ01,1,1.98Å,89,16%
+249,2X1J,2XNI,H71a Mutant Of The Antibiotic Resistance Protein Nima From Deinococcus Radiodurans,Deinococcus radiodurans,1,2.86Å,60,8%
+250,3J50,2XNI,"E. Coli 70s-fmetval-trnaval-trnafmet Complex In Intermediate Pre- Translocation State (pre2, 50s Subunit)",Escherichia coli K-12,1,3.02Å,44,7%
+251,3H5C,2XCF,X-Ray Structure of Protein Z-Protein Z Inhibitor Complex,Homo sapiens,1,2.65Å,124,13%
+252,1ZML,2XCF,"Crystal Structure Of The Catalytic Domain Of Factor Xi In Complex With (R)-1-(4-(4-(Hydroxymethyl)-1,3,2- Dioxaborolan-2-Yl)phenethyl)guanidine",Homo sapiens,1,3.00Å,124,14%
+253,1E38,2XCF,"Porcine Pancreatic Elastase Complexed With (3s, 4s)n-Para- Nitrobenzenesulphonyl-3-Ethyl-4-(Carboxylic Acid) Pyrrolidin-2-One Soaked In Ph 9 Buffer For 2 Minutes",Sus scrofa,1,2.59Å,119,17%
+254,6QEN,2XCF,Crystal structure of Porcine Pancreatic Elastase (PPE) in complex with the 3-Oxo-beta-Sultam inhibitor LMC240,Sus scrofa,1,2.50Å,116,16%
+255,6QBU,2XCF,Crystal structure of Porcine Pancreatic Elastase (PPE) in complex with the 3-Oxo-beta-Sultam inhibitor LMC188,Sus scrofa,1,2.34Å,114,16%
+256,4BNR,2XCF,Extremely stable complex of crayfish trypsin with bovine trypsin inhibitor,Astacus leptodactylus/Bos taurus,1,2.40Å,113,13%
+257,1NFY,2XCF,Crystal Structure Of Human Coagulation Factor Xa Complexed With Rpr200095,Homo sapiens,1,2.44Å,113,12%
+258,1B0F,2XCF,"CRYSTAL STRUCTURE OF HUMAN NEUTROPHIL ELASTASE WITH MDL 101, 146",Homo sapiens,1,2.08Å,107,18%
+259,2ZGJ,2XCF,Crystal Structure Of D86n-gzmm Complexed With Its Optimal Synthesized Substrate,Others,1,2.12Å,106,12%
+260,4CRD,2XCF,Creating Novel F1 Inhibitors Through Fragment Based Lead Generation And Structure Aided Drug Design,Homo sapiens,1,2.20Å,98,17%
+261,3BG8,2XCF,Crystal Structure Of Factor Xia In Complex With Clavatadine A,Homo sapiens,1,2.24Å,98,17%
+262,4O03,2XCF,Crystal Structure Of Ca2+ Bound Prothrombin Deletion Mutant Residues 146-167,Homo sapiens,1,2.09Å,95,12%
+263,2HQ9,2XCF,Crystal Structure Of A Fad-binding Protein (mll6688) From Mesorhizobium Loti At 1.95 A Resolution,Mesorhizobium loti,1,2.79Å,65,12%
+264,2ASF,2XCF,Crystal Structure Of The Conserved Hypothetical Protein Rv2074 From Mycobacterium Tuberculosis 1.6 A,Mycobacterium tuberculosis,1,2.84Å,61,20%
+265,1FLM,2XCF,Dimer Of Fmn-binding Protein From Desulfovibrio Vulgaris (miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.46Å,60,8%
+266,3A6R,2XCF,E13q Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.42Å,59,8%
+267,3A20,2XCF,L122k Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.44Å,59,8%
+268,3DB0,2XCF,Crystal structure of Putative Pyridoxamine 5'-phosphate oxidase (NP_472219.1) from LISTERIA INNOCUA at 2.00 A resolution,Listeria innocua,1,2.61Å,55,7%
+269,2HTI,2XCF,Crystal Structure Of A Flavin-nucleotide-binding Protein (bh_0577) From Bacillus Halodurans At 2.50 A Resolution,Alkalihalobacillus halodurans,1,2.21Å,53,9%
+270,1WV4,2XCF,X-ray Structure Of Escherichia Coli Pyridoxine 5'-phosphate Oxidase In Tetragonal Crystal Form,Escherichia coli,1,2.03Å,52,13%
+271,3IZS,2XCF,Localization Of The Large Subunit Ribosomal Proteins Into A 6.1 A Cryo-Em Map Of Saccharomyces Cerevisiae Translating 80s Ribosome,Saccharomyces cerevisiae,1,2.11Å,50,8%
+272,5CE1,2XCF,Crystal Structure of Serine protease Hepsin in complex with Inhibitor,Homo sapiens,1,2.59Å,116,10%
+273,6QEO,2XCF,Crystal structure of Porcine Pancreatic Elastase (PPE) in complex with the 3-Oxo-beta-Sultam inhibitor LMC269,Sus scrofa,1,2.32Å,114,17%
+274,1RRK,2XCF,Crystal Structure Analysis Of The Bb Segment Of Factor B,Homo sapiens,1,1.97Å,108,15%
+275,4D76,2XCF,Human Fxia In Complex With Small Molecule Inhibitors,Homo sapiens,1,2.27Å,99,17%
+276,5ESC,2XCF,Crystal structure of Group A Streptococcus HupZ,Streptococcus sp. 'group A',1,2.92Å,65,9%
+277,3VY2,2XCF,N33d Mutant Of Fmn-binding Protein From Desulfovibrio Vulgaris (miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.64Å,63,10%
+278,3VYA,2XCF,W32y Mutant Of Fmn-binding Protein From Desulfovibrio Vulgaris (miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.60Å,61,8%
+279,1WLI,2XCF,L122y Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.43Å,60,8%
+280,3AWH,2XCF,E13k Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.46Å,60,8%
+281,3AMF,2XCF,E13r Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.43Å,59,8%
+282,1VL7,2XCF,Crystal Structure Of A Putative Heme Oxygenase (Alr5027) From Nostoc Sp. Pcc 7120 At 1.50 A Resolution,Nostoc sp. PCC 7120 = FACHB-418,1,2.67Å,59,5%
+283,2RE7,2XCF,Crystal structure of a pyridoxamine 5'-phosphate oxidase related protein (psyc_0186) from psychrobacter arcticus 273-4 at 2.50 A resolution,Psychrobacter arcticus 273-4,1,2.62Å,57,11%
+284,3F7E,2XCF,Msmeg_3380 F420 Reductase,Mycolicibacterium smegmatis,1,2.67Å,56,11%
+285,3R5Z,2XCF,"Structure of a Deazaflavin-dependent reductase from Nocardia farcinica, with co-factor F420",Nocardia farcinica,1,2.37Å,55,16%
+286,2E83,2XCF,T31v Mutant Of Fmn-Binding Protein From Desulfovibrio Vulgaris (Miyazaki F),Desulfovibrio vulgaris str. 'Miyazaki F',1,2.31Å,54,9%
+287,3IN6,2XCF,Crystal structure of a fmn-binding protein (swol_0183) from syntrophomonas wolfei subsp. wolfei at 2.12 A resolution,Syntrophomonas wolfei subsp. wolfei str. Goettingen G311,1,2.46Å,53,11%
+288,2HTD,2XCF,Crystal Structure Of A Putative Pyridoxamine 5'-phosphate Oxidase (ldb0262) From Lactobacillus Delbrueckii Subsp. At 1.60 A Resolution,Lactobacillus delbrueckii subsp. bulgaricus ATCC BAA-365,1,2.22Å,50,18%
+289,4TOO,2XCF,Crystal Structure Of The E. Coli Ribosome Bound To Linopristin. This File Contains The 50s Subunit Of The Second 70s Ribosome With Linopristin Bound,Escherichia coli K-12/Escherichia coli str. K-12 substr. MDS42,1,3.11Å,47,11%
+290,4YBN,2XCF,Structure of the FAD and Heme binding protein msmeg_4975 from Mycobacterium smegmatis,Mycolicibacterium smegmatis MC2 155,1,2.52Å,46,9%
+291,4KJ9,1RGQ,Control Of Ribosomal Subunit Rotation By Elongation Factor G,Escherichia coli K-12,1,3.10Å,47,11%
+292,5LYO,2A4G,Crystal structure of the zymogen matriptase catalytic domain,Homo sapiens,1,2.76Å,111,13%
+293,2QXI,2A4G,High resolution structure of Human Kallikrein 7 in Complex with Suc-Ala-Ala-Pro-Phe-chloromethylketone,Homo sapiens,1,2.66Å,106,15%
+294,3FGE,2A4G,Crystal structure of putative flavin reductase with split barrel domain (YP_750721.1) from SHEWANELLA FRIGIDIMARINA NCIMB 400 at 1.74 A resolution,Shewanella frigidimarina NCIMB 400,1,2.65Å,55,7%
+295,2EY4,2A4G,Crystal Structure Of A Cbf5-nop10-gar1 Complex,Pyrococcus furiosus/Pyrococcus furiosus DSM 3638,1,1.31Å,45,11%
+296,3SGF,2A4G,Crystal Structure Of Release Factor Rf3 Trapped In The Gtp State On A Rotated Conformation Of The Ribosome,Escherichia coli,1,3.11Å,48,10%
+297,4KJ7,2A4G,Control Of Ribosomal Subunit Rotation By Elongation Factor G,Escherichia coli K-12,1,3.07Å,47,11%
+298,1PPF,1RTL,X-Ray Crystal Structure Of The Complex Of Human Leukocyte Elastase (Pmn Elastase) And The Third Domain Of The Turkey Ovomucoid Inhibitor,Meleagris gallopavo/Homo sapiens,1,2.85Å,118,17%
+299,2RG3,1RTL,Covalent Complex Structure Of Elastase,Homo sapiens,1,2.82Å,116,16%
+300,5A0A,1RTL,Crystal Structure Of Human Neutrophil Elastase In Complex With A Dihydropyrimidone Inhibitor,Homo sapiens,1,2.68Å,115,17%
+301,4WVP,1RTL,Crystal structure of an activity-based probe HNE complex,Homo sapiens,1,2.60Å,114,17%
+302,5TNY,1RTL,Htra2 G399s Mutant,Homo sapiens,1,1.87Å,113,15%
+303,1MBM,1RTL,NSP4 proteinase from Equine Arteritis Virus,Equine arteritis virus,1,2.81Å,113,14%
+304,1HNE,1RTL,Structure Of Human Neutrophil Elastase In Complex With A Peptide Chloromethyl Ketone Inhibitor At 1.84-Angstroms Resolution,Others,1,2.52Å,112,17%
+305,5A8Y,1RTL,Crystal Structure of human neutrophil elastase in complex with a dihydropyrimidone inhibitor,Homo sapiens,1,2.53Å,112,17%
+306,2Z7F,1RTL,Crystal Structure Of The Complex Of Human Neutrophil Elastase With 12SLPI,Homo sapiens,1,2.39Å,111,17%
+307,6F5M,1RTL,Crystal structure of highly glycosylated human leukocyte elastase in complex with a thiazolidinedione inhibitor,Homo sapiens,1,2.03Å,106,18%
+308,3MMG,1RTL,Crystal Structure Of Tobacco Vein Mottling Virus Protease,Tobacco vein mottling virus,1,2.52Å,106,12%
+309,1IQF,1RTL,Human Coagulation Factor Xa In Complex With M55165,Homo sapiens,1,2.15Å,103,14%
+310,2ZU5,1RTL,complex structure of SARS-CoV 3CL protease with TG-0205486,Severe acute respiratory syndrome-related coronavirus,1,2.16Å,92,15%
+311,2V31,1RTL,Structure of First Catalytic Cysteine Half-domain of mouse ubiquitin- activating enzyme,Mus musculus,1,1.71Å,36,6%
+312,1Q31,1RTL,Crystal Structure Of The Tobacco Etch Virus Protease C151a Mutant,Tobacco etch virus,1,2.88Å,117,17%
+313,5A09,1RTL,Crystal Structure Of Human Neutrophil Elastase In Complex With A Dihydropyrimidone Inhibitor,Homo sapiens,1,2.73Å,116,17%
+314,5TO0,1RTL,Htra2 S276c Mutant,Homo sapiens,1,1.82Å,112,15%
+315,1GIY,1RTL,"Crystal Structure Of The Ribosome At 5.5 A Resolution. This File, 1giy, Contains The 50s Ribosome Subunit. The 30s Ribosome Subunit, Three Trna, And Mrna Molecules Are In The File 1gix",Thermus thermophilus,1,3.04Å,51,10%
+316,2LZJ,1RTL,Refined solution structure and dynamics of First Catalytic Cysteine Half-domain from mouse E1 enzyme,Mus musculus,1,1.36Å,32,6%
+317,3DF2,2A4Q,Crystal Structure Of The Bacterial Ribosome From Escherichia Coli In Complex With Hygromycin B. This File Contains The 50s Subunit Of The First 70s Ribosome. The Entire Crystal Structure Contains Two 70s Ribosomes,Others,1,3.03Å,48,10%
+318,4KJ5,2A4Q,Control Of Ribosomal Subunit Rotation By Elongation Factor G,Escherichia coli K-12,1,3.07Å,48,10%
+319,3DF4,2A4Q,Crystal Structure Of The Bacterial Ribosome From Escherichia Coli In Complex With Hygromycin B. This File Contains The 50s Subunit Of The Second 70s Ribosome. The Entire Crystal Structure Contains Two 70s Ribosomes,Escherichia coli,1,3.03Å,48,10%
+320,3I1N,2A4Q,Crystal Structure Of The E. Coli 70s Ribosome In An Intermediate State Of Ratcheting,Escherichia coli K-12,1,3.08Å,48,10%
+321,3R8T,2A4Q,Structures Of The Bacterial Ribosome In Classical And Hybrid States Of Trna Binding,Escherichia coli/Escherichia coli K-12,1,3.09Å,48,10%
+322,2JET,2OC1,"Crystal structure of a trypsin-like mutant (S189D , A226G) chymotrypsin",Rattus norvegicus,1,1.97Å,52,4%
+323,1GG6,2OC1,Crystal Structure Of Gamma Chymotrypsin With N-acetyl-phenylalanine Trifluoromethyl Ketone Bound At The Active Site,Bos taurus,1,2.07Å,52,2%
+324,1YPH,2OC1,High Resolution Structure Of Bovine Alpha-Chymotrypsin,Bos taurus,1,1.99Å,51,2%
+325,6DI8,2OC1,Crystal structure of bovine alpha-chymotrypsin in space group P65,Bos taurus,1,2.01Å,51,2%
+326,4TY7,2OC8,Factor XIa in complex with the inhibitor (2S)-6-amino-N-{(1S)-1-[4-(3-amino-2H-indazol-6-yl)-5-chloro-1H-imidazol-2-yl]-2-phenylethyl}-2-ethylhexanamide,Homo sapiens,1,2.08Å,97,18%
+327,1ZHR,2OC8,Crystal Structure Of The Catalytic Domain Of Coagulation Factor Xi In Complex With Benzamidine (S434a-T475a-C482s-K437a Mutant),Homo sapiens,1,2.05Å,95,18%
+328,4Y06,2F9V,Crystal structure of the DAP BII (G675R) dipeptide complex,Pseudoxanthomonas mexicana,1,2.48Å,112,19%
+329,5DKM,2F9V,S. erythraea trypsin Michaelis-Menten complex,Saccharopolyspora erythraea,1,2.33Å,106,15%
+330,6FEZ,2F9V,Ryegrass mottle virus protease domain,Ryegrass mottle virus,1,2.87Å,128,13%
+331,5DK1,2F9V,S. erythraea trypsin mixed catalytic intermediate,Saccharopolyspora erythraea,1,2.24Å,105,15%
+332,4LK4,2F9V,Structure Of Vibrio Cholerae Vesb Protease,Vibrio cholerae 569B,1,2.34Å,104,13%
+333,5DJ7,2F9V,S. erythraea trypsin acyl-enzyme,Saccharopolyspora erythraea,1,2.00Å,103,15%
+334,4CRB,2F9V,Creating Novel F1 Inhibitors Through Fragment Based Lead Generation And Structure Aided Drug Design,Homo sapiens,1,2.70Å,102,17%
+335,6SMA,2F9V,Crystal structure of Human Neutrophil Elastase (HNE) in complex with the 3-Oxo-beta-Sultam inhibitor LMC249,Homo sapiens,1,1.75Å,87,18%
+336,2FDA,5LC0,Crystal Structure Of The Catalytic Domain Of Human Coagulation Factor Xia In Complex With Alpha-Ketothiazole Arginine Derived Ligand,Homo sapiens,1,2.74Å,125,12%
+337,4CR5,5LC0,Creating novel F1 inhibitors through fragment based lead generation and structure aided drug design,Homo sapiens,1,2.65Å,119,14%
+338,2QXH,5LC0,Crystal Structure Of Human Kallikrein 7 In Complex With Suc- Ala-Ala-Pro-Phe-Chloromethylketone,Homo sapiens,1,2.52Å,118,14%
+339,7C8T,5LC0,Complex Structure of SARS-CoV-2 3CL Protease with TG-0205221,Severe acute respiratory syndrome coronavirus 2,1,2.19Å,110,14%
+340,5QCK,5LC0,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR 4-[[(2~{S},3~{R})-1-[(~{E})-3-[5-chloranyl-2-(1,2,3,4-tetrazol-1-yl)phenyl]prop-2-enoyl]-3-phenyl-pyrrolidin-2-yl]carbonylamino]benzoic acid",Homo sapiens,1,2.53Å,119,13%
+341,4CRA,5LC0,Creating novel F1 inhibitors through fragment based lead generation and structure aided drug design,Homo sapiens,1,2.32Å,118,14%
+342,4CR9,5LC0,Creating novel F1 inhibitors through fragment based lead generation and structure aided drug design,Homo sapiens,1,2.29Å,114,12%
+343,7C8R,5LC0,Complex Structure of SARS-CoV-2 3CL Protease with TG-0203770,Severe acute respiratory syndrome coronavirus 2,1,2.48Å,109,13%
+344,5W65,5LC0,RNA polymerase I Initial Transcribing Complex State 2,Saccharomyces cerevisiae S288C,1,2.16Å,23,0%
+345,6OGJ,6FE6,MeCP2 MBD in complex with DNA,Others,1,1.73Å,27,4%
+346,1PQ5,6FE6,"Trypsin at pH 5, 0.85 A",Fusarium oxysporum,1,2.36Å,120,14%
+347,6BJR,6FE6,Crystal structure of prothrombin mutant S101C/A470C,Homo sapiens,1,2.17Å,98,15%
+348,6BWE,3LKW,"Sortase A from Corynebacterium diphtheriae, lid mutant",Corynebacterium diphtheriae NCTC 13129,1,2.41Å,43,7%
+349,4NA8,1P12,"Factor Xia In Complex With The Inhibitor 5-aminocarbonyl-2-[3-[(2s, 4r)-6-carbamimidoyl-4-methyl-4-phenyl-2,3-dihydro-1h-quinolin-2- Yl]phenyl]benzoic Acid",Homo sapiens,1,2.54Å,132,16%
+350,4D7F,1P12,Human Fxia In Complex With Small Molecule Inhibitors,Homo sapiens,1,2.38Å,130,17%
+351,4X6P,1P12,Factor Xia (pichia Pastoris; C500s [c122s]) In Complex With The Inhibitor (2e)-n-{(1s)-1-[4-(3-amino-1h-indazol-6-yl)-1h-imidazol-2- Yl]-2-phenylethyl}-3-[5-chloro-2-(1h-tetrazol-1-yl)phenyl]prop-2- Enamide,Homo sapiens,1,2.41Å,127,16%
+352,1Z8G,1ANE,Crystal Structure Of The Extracellular Region Of The Transmembrane Serine Protease Hepsin With Covalently Bound Preferred Substrate,Others,1,1.18Å,220,41%
+353,6I44,1ANE,Allosteric activation of human prekallikrein by apple domain disc rotation,Homo sapiens,1,1.19Å,211,43%
+354,4IGD,1ANE,Crystal Structure Of The Zymogen Catalytic Region Of Human Masp-1,Homo sapiens,1,1.41Å,203,37%
+355,2XXL,1ANE,Crystal Structure Of Drosophila Grass Clip Serine Protease Of Toll Pathway,Drosophila melanogaster,1,1.76Å,202,35%
+356,4A5T,1ANE,Structural Basis For The Conformational Modulation,Homo sapiens,1,1.55Å,199,42%
+357,4DUU,1ANE,The X-ray Crystal Structure Of Full-length Type I Human Plasminogen,Homo sapiens,1,1.65Å,198,40%
+358,2WIN,1ANE,C3 convertase (C3bBb) stabilized by SCIN,Others,1,2.10Å,190,23%
+359,6I58,1ANE,Allosteric activation of human prekallikrein by apple domain disc rotation,Homo sapiens,1,1.59Å,189,39%
+360,5EOD,1ANE,Human Plasma Coagulation FXI with peptide LP2,Homo sapiens,1,1.47Å,185,41%
+361,2XWJ,1ANE,Crystal Structure Of Complement C3b In Complex With Factor B,Homo sapiens,1,1.89Å,184,23%
+362,3WY8,1ANE,Crystal Structure of Protease Anisep from Arthrobacter Nicotinovorans,Paenarthrobacter nicotinovorans,1,2.75Å,182,14%
+363,2F83,1ANE,Crystal Structure At 2.9 Angstroms Resolution Of Human Plasma Coagulation Factor Xi Zymogen,Homo sapiens,1,1.05Å,179,41%
+364,5GWY,1ANE,Structure of Main Protease from Human Coronavirus NL63: Insights for Wide Spectrum Anti-Coronavirus Drug Design,Others,1,2.36Å,124,15%
+365,2PKS,1ANE,Thrombin in complex with inhibitor,Others,1,0.98Å,91,42%
+366,2HNT,1ANE,Crystallographic Structure Of Human Gamma-Thrombin,Homo sapiens,1,1.11Å,90,42%
+367,1BBR,1ANE,The Structure Of Residues 7-16 Of The A Alpha Chain Of Human Fibrinogen Bound To Bovine Thrombin At 2.3 Angstroms Resolution,Homo sapiens/Bos taurus,1,0.90Å,88,45%
+368,1CA0,1ANE,Bovine Chymotrypsin Complexed To Appi,Homo sapiens/Bos taurus,1,0.89Å,86,51%
+369,1HJA,1ANE,LYS 18 VARIANT OF TURKEY OVOMUCOID INHIBITOR THIRD DOMAIN COMPLEXED WITH ALPHA-CHYMOTRYPSIN,Meleagris gallopavo/Bos taurus,1,0.84Å,85,52%
+370,2GCT,1ANE,Structure Of Gamma-Chymotrypsin In The Range Ph 2.0 To Ph 10.5 Suggests That Gamma-Chymotrypsin Is A Covalent Acyl-Enzyme Adduct At Low Ph,Others,1,0.90Å,85,52%
+371,3RU4,1ANE,Crystal Structure Of The Bowman-Birk Serine Protease Inhibitor Btci In Complex With Trypsin And Chymotrypsin,Vigna unguiculata/Bos taurus,1,0.94Å,85,52%
+372,1GHB,1ANE,A Second Active Site In Chymotrypsin? The X-Ray Crystal Structure Of N-Acetyl-D-Tryptophan Bound To Gamma-Chymotrypsin,Others,1,0.82Å,84,51%
+373,3U35,1ANE,Crystal Structure Of The General Stress Fmn/fad Binding Protein From The Phytopathogen Xanthomonas Citri,Xanthomonas citri,1,2.29Å,49,8%
+374,7BV2,1ANE,The nsp12-nsp7-nsp8 complex bound to the template-primer RNA and triphosphate form of Remdesivir(RTP),Severe acute respiratory syndrome coronavirus 2,1,1.42Å,30,7%
+375,5TO3,1ANE,Crystal structure of thrombin mutant W215A/E217A fused to EGF456 of thrombomodulin via a 31-residue linker and bound to PPACK,Homo sapiens,1,1.21Å,218,38%
+376,2F91,1ANE,"1.2A resolution structure of a crayfish trypsin complexed with a peptide inhibitor, SGTI",Astacus leptodactylus/Schistocerca gregaria,1,1.23Å,218,47%
+377,6O1G,1ANE,Full length human plasma kallikrein with inhibitor,Homo sapiens,1,1.07Å,204,45%
+378,2B9L,1ANE,Crystal Structure Of Prophenoloxidase Activating Factor-Ii From The Beetle Holotrichia Diomphalia,Holotrichia diomphalia,1,1.93Å,200,32%
+379,4DUR,1ANE,The X-ray Crystal Structure Of Full-length Type Ii Human Plasminogen,Homo sapiens,1,1.53Å,198,42%
+380,4KKD,1ANE,The X-ray Crystal Structure Of Mannose-binding Lectin-associated Serine Proteinase-3 Reveals The Structural Basis For Enzyme Inactivity Associated With The 3mc Syndrome,Homo sapiens,1,1.18Å,195,37%
+381,5I25,1ANE,Human Recombinant Coagulation Fxi In Complex With A Peptide Derived From Human High Molecular Weight Kininogen (hkp),Homo sapiens,1,1.40Å,189,40%
+382,5EOK,1ANE,Human Plasma Coagulation Factor Xi In Complex With Peptide P39,Others,1,1.34Å,183,41%
+383,6BQM,1ANE,Secreted serine protease VesC from Vibrio cholerae,Vibrio cholerae O395,1,1.42Å,177,30%
+384,6RUR,1ANE,Structure of the SCIN stabilized C3bBb convertase bound to properdin,Others,1,1.95Å,162,23%
+385,6RUV,1ANE,Structure of the SCIN stabilized C3bBb convertase bound to Properdin and a the non-inhibitory nanobody hFPNb1,Others,1,1.89Å,161,23%
+386,2XRC,1ANE,Human Complement Factor I,Homo sapiens,1,1.44Å,147,37%
+387,1Z1I,1ANE,Crystal Structure Of Native Sars Clpro,Severe acute respiratory syndrome-related coronavirus,1,2.47Å,127,11%
+388,1KDQ,1ANE,Crystal Structure Analysis of the Mutant S189D Rat Chymotrypsin,Rattus norvegicus,1,0.98Å,100,44%
+389,1EPT,1ANE,REFINED 1.8 ANGSTROMS RESOLUTION CRYSTAL STRUCTURE OF PORCINE EPSILON-TRYPSIN,Sus scrofa,1,0.46Å,98,77%
+390,1BHX,1ANE,X-RAY STRUCTURE OF THE COMPLEX OF HUMAN ALPHA THROMBIN WITH THE INHIBITOR SDZ 229-357,Homo sapiens,1,0.95Å,90,42%
+391,1UCY,1ANE,"Thrombin Complexed With Fibrinopeptide A Alpha (Residues 7- 19). Three Complexes, One With Epsilon-Thrombin And Two With Alpha-Thrombin",Others,1,0.92Å,89,45%
+392,1GMD,1ANE,X-ray Crystal Structure Of Gamma-chymotrypsin In Hexane,Bos taurus,1,0.90Å,85,52%
+393,1CBW,1ANE,BOVINE CHYMOTRYPSIN COMPLEXED TO BPTI,Bos taurus,1,0.95Å,85,52%
+394,3DMB,1ANE,Crystal structure of a putative general stress family protein (xcc2264) from xanthomonas campestris pv. campestris at 2.30 A resolution,Xanthomonas campestris pv. campestris,1,2.32Å,52,6%
+395,6XQB,1ANE,SARS-CoV-2 RdRp/RNA complex,Severe acute respiratory syndrome coronavirus 2,1,1.43Å,30,7%
+396,5QTW,6KK2,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl (2R,7S)-7-({(2E)-3-[5-chloro-2-(1H-tetrazol-1-yl)phenyl]prop-2-enoyl}amino)-14-[(methoxycarbonyl)amino]-2,3,4,5,6,7-hexahydro-1H-8,11-epimino-1,9-benzodiazacyclotridecine-2-carboxylate",Homo sapiens,1,2.44Å,120,13%
+397,5QTT,6KK2,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl [(3R,7S)-7-{[5-amino-1-(3-chloro-2-fluorophenyl)-1H-pyrazole-4-carbonyl]amino}-3-methyl-2-oxo-2,3,4,5,6,7-hexahydro-1H-12,8-(metheno)-1,9-benzodiazacyclotetradecin-15-yl]carbamate",Homo sapiens,1,2.50Å,119,13%
+398,5QTU,6KK2,"FACTOR XIA IN COMPLEX WITH THE INHIBITOR methyl [(3R,7S)-7-{[1-(3-chloro-2-fluorophenyl)-5-methyl-1H-imidazole-4-carbonyl]amino}-3-methyl-2-oxo-2,3,4,5,6,7-hexahydro-1H-12,8-(metheno)-1,9-benzodiazacyclotetradecin-15-yl]carbamate",Homo sapiens,1,2.58Å,118,14%
+399,6TWB,6KK2,Crystal Structure of the Catalytic Domain of Coagulation Factor XIa in Complex with Double Bridged Peptide F19,Others,1,2.26Å,114,12%
+400,6SW0,6KK2,Reference structure of bovine trypsin (odd frames of crystal x34),Bos taurus,1,2.48Å,114,12%
+401,5JYK,6KK2,Deg9 crystal under 289K,Arabidopsis thaliana,1,2.33Å,114,11%
+402,6Q8S,6KK2,Elastase (PPE) under 2 kbar of argon,Sus scrofa,1,2.35Å,111,12%
+403,6PXQ,6L4Z,Crystal structure of human thrombin mutant D194A,Homo sapiens,1,2.59Å,118,10%
+404,6E69,6L4Z,Ortho-substituted phenyl sulfonyl fluoride and fluorosulfate as potent elastase inhibitory fragments,Homo sapiens,1,2.65Å,123,11%
+405,4G1H,6L4Z,Group B Streptococcus Pilus Island 1 Sortase C2,Streptococcus agalactiae serogroup V,1,2.46Å,40,3%
+406,1ECY,1SLV,Protease Inhibitor Ecotin,Escherichia coli,2,2.79Å,258,99%
+407,1IFG,1SLV,"Crystal Structure Of A Monomeric Form Of General Protease Inhibitor, Ecotin In Absence Of A Protease",Escherichia coli,1,0.78Å,119,97%
+408,1ECZ,1SLV,PROTEASE INHIBITOR ECOTIN,Escherichia coli,2,2.09Å,258,99%
+409,2IRF,5H6V,Crystal Structure Of An Irf-2DNA COMPLEX,Others,1,2.19Å,28,14%
+410,2W1K,5H6V,Crystal Structure Of Sortase C-3 (Srtc-3) From Streptococcus Pneumoniae,Streptococcus pneumoniae TIGR4,1,2.93Å,60,7%
+411,2WTS,2GGV,Crystal structure of sortase C-1 (SrtC-1) mutant H131D from S. pneumoniae,Streptococcus pneumoniae TIGR4,1,2.55Å,49,2%
+412,3RE9,2GGV,Crystal structure of sortaseC1 from Streptococcus suis,Streptococcus suis 05ZYH33,1,2.56Å,46,4%
+413,3FN7,2GGV,Crystal Structure Of Sortase A (Spy1154) From Streptococcus Pyogenes Serotype M1 Strain Sf370,Streptococcus pyogenes serotype M1,1,2.50Å,44,11%
+414,3O0P,2GGV,Pilus-Related Sortase C Of Group B Streptococcus,Streptococcus agalactiae 515,1,2.14Å,40,8%
+415,2W1J,2GGV,CRYSTAL STRUCTURE OF SORTASE C-1 (SRTC-1) from Streptococcus pneumoniae,Streptococcus pneumoniae TIGR4,1,3.36Å,53,8%
+416,2XWG,2GGV,Crystal structure of sortase C-1 from Actinomyces oris (formerly Actinomyces naeslundii),Actinomyces oris,1,2.68Å,43,2%
+417,2QBG,3E90,"Crystal Structure Of The Bacterial Ribosome From Escherichia Coli In Complex With Ribosome Recycling Factor (Rrf). This File Contains The 50s Subunit Of The Second 70s Ribosome, With Rrf Bound. The Entire Crystal Structure Contains Two 70s Ribosomes And I",Thermus thermophilus/Escherichia coli,1,2.36Å,32,9%
+418,3U34,3K6Z,Crystal Structure Of The General Stress Fmn/fad Binding Protein From The Phytopathogen Xanthomonas Citri,Xanthomonas citri,1,2.18Å,49,6%
+419,2PP6,3K6Z,Crystal Structure Of The Atp-binding Sugar Transporter-like Protein From Salmonella Typhimurium,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,1,1.94Å,39,23%
+420,1U56,6JPW,"Crystal Structure Of An Oxygen Binding H-Nox Domain Related To Soluble Guanylate Cyclases (Water-Ligated, Ferric Form)",Caldanaerobacter subterraneus subsp. tengcongensis,1,1.41Å,28,7%
+421,5JRX,6JPW,Crystal Structure Of Fe(ii) Co-bound H-nox Protein From C. Subterraneus,Caldanaerobacter subterraneus subsp. tengcongensis MB4,1,1.44Å,28,7%
+422,1U55,6JPW,Crystal Structure Of An Oxygen Binding H-nox Domain Related To Soluble Guanylate Cyclases (oxygen Complex),Caldanaerobacter subterraneus subsp. tengcongensis,1,1.43Å,28,7%

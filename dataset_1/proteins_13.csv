@@ -1,0 +1,4 @@
+,name,seed_protein,description,taxonomy,aligned_protein,rmsd,aligned_residue,sequence_id
+0,5FO7,2XWB,Crystal Structure Of Human Complement C3b At 2.8 Angstrom Resolution,Homo sapiens,2,2.10Å,1521,100%
+1,5O35,2XWB,Structure of complement proteins complex,Homo sapiens,2,2.09Å,1530,99%
+2,2I07,2XWB,Human Complement Component C3b,Homo sapiens,2,2.42Å,1519,99%

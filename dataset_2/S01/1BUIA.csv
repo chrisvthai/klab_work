@@ -1,0 +1,102 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,1EAXA,1BUIA,Crystal Structure Of Mtsp1 (Matriptase),1.1,222,250,42.8
+1,4MNWA,1BUIA,Crystal Structure Of Urokinase-type Plasminogen Activator (upa) Complexed With Bicyclic Peptide Uk749,1.3,222,250,38.3
+2,5AVDA,1BUIA,The 0.86 Angstrom Structure Of Elastase Crystallized In High-strength Agarose Hydrogel,1.1,222,250,39.2
+3,4XSKU,1BUIA,"Structure Of Paitrap, An Upa Mutant",1.3,222,250,38.3
+4,1VZQH,1BUIA,Complex Of Thrombin With Designed Inhibitor 7165,1.3,221,250,35.3
+5,1FIZA,1BUIA,Three Dimensional Structure Of Beta-Acrosin From Boar Spermatozoa,1.1,220,250,40.5
+6,2OQ5A,1BUIA,"Crystal Structure Of Desc1, A New Member Of The Type Ii Transmembrane Serine Proteinases Family",1.2,219,250,38.4
+7,3TVJB,1BUIA,Catalytic Fragment Of Masp-2 In Complex With Its Specific Inhibitor Developed By Directed Evolution On Sgci Scaffold,1.7,219,250,32.9
+8,2F91A,1BUIA,"1.2a Resolution Structure Of A Crayfish Trypsin Complexed With A Peptide Inhibitor, Sgti",1.4,218,250,36.7
+9,4FXGH,1BUIA,Complement C4 In Complex With Masp-2,1.7,217,250,33.2
+10,4Z6AH,1BUIA,Crystal Structure Of A Fviia-trypsin Chimera (yt) In Complex With Soluble Tissue Factor,1.2,215,250,38.1
+11,5EDMA,1BUIA,Crystal Structure Of Prothrombin Deletion Mutant Residues 154-167 ( Form I ),2.0,215,250,34.9
+12,1PQ7A,1BUIA,"Trypsin At 0.8 A, Ph5  BORAX",1.6,213,250,32.9
+13,2XW9A,1BUIA,Crystal Structure Of Complement Factor D Mutant S183a,1.3,212,250,37.7
+14,4I8HA,1BUIA,Bovine Trypsin At 0.75 Resolution,1.1,211,250,43.1
+15,4WVPE,1BUIA,Crystal Structure Of An Activity-based Probe Hne Complex,1.9,210,250,35.7
+16,1M9UA,1BUIA,Crystal Structure Of Earthworm Fibrinolytic Enzyme Component A From Eisenia Fetida,1.2,209,250,34.4
+17,2QXIA,1BUIA,High Resolution Structure Of Human Kallikrein 7 In Complex With Suc-Ala-Ala-Pro-Phe-Chloromethylketone,1.3,209,250,37.8
+18,4AFQA,1BUIA,Human Chymase - Fynomer Complex,1.8,209,250,36.4
+19,5EDKA,1BUIA,Crystal Structure Of Prothrombin Deletion Mutant Residues 146-167 ( Form Ii ),2.1,209,250,36.4
+20,2HLCA,1BUIA,Hl Collagenase Structure At 1.7a Resolution,2.0,208,250,28.4
+21,1AZZA,1BUIA,Fiddler Crab Collagenase Complexed To Ecotin,1.6,208,250,36.5
+22,2AIQA,1BUIA,Crystal Structure Of Benzamidine-Inhibited Protein C Activator From The Venom Of Copperhead Snake Agkistrodon Contortrix Contortrix,1.7,208,250,34.1
+23,3H7TA,1BUIA,Crystal Structure Of Scabies Mite Inactivated Protease Paralogue S-D1 (Smipp-S-D1),1.9,207,250,26.1
+24,3H7OA,1BUIA,Crystal Structure Of Scabies Mite Inactivated Protease Paralogue S-I1 (Smipp-S-I1),1.9,203,250,30.0
+25,1EQ9A,1BUIA,Crystal Structure Of Fire Ant Chymotrypsin Complexed To Pmsf,1.1,202,250,37.1
+26,3NXPA,1BUIA,Crystal Structure Of Human Prethrombin-1,1.6,201,250,36.8
+27,2OLGA,1BUIA,Crystal Structure Of The Serine Protease Domain Of Prophenoloxidase Activating Factor-I In A Zymogen Form,2.0,200,250,32.5
+28,2B9LA,1BUIA,Crystal Structure Of Prophenoloxidase Activating Factor-Ii From The Beetle Holotrichia Diomphalia,1.6,196,250,34.2
+29,5HU6C,1BUIA,Structure Of The T. Brucei Haptoglobin-haemoglobin Receptor Bound To Human Haptolgobin-haemoglobin,1.7,195,250,30.3
+30,3F1SB,1BUIA,Crystal Structure Of Protein Z Complexed With Protein Z- Dependent Inhibitor,2.2,191,250,24.1
+31,3BEUA,1BUIA,Na+-Dependent Allostery Mediates Coagulation Factor Protease Active Site Selectivity,1.4,189,250,35.4
+32,1WCZA,1BUIA,Crystal Structure Of An Alkaline Form Of V8 Protease From Staphylococcus Aureus,2.2,182,250,14.3
+33,4LK4A,1BUIA,Structure Of Vibrio Cholerae Vesb Protease,1.7,182,250,33.0
+34,1P3CA,1BUIA,Glutamyl Endopeptidase From Bacillus Intermedius,2.3,178,250,18.0
+35,1AGJA,1BUIA,Epidermolytic Toxin A From Staphylococcus Aureus,2.2,177,250,18.1
+36,1ARBA,1BUIA,"The Primary Structure And Structural Characteristics Of Achromobacter Lyticus Protease I, A Lysine-Specific Serine Protease",2.7,172,250,18.0
+37,2XRCB,1BUIA,Human Complement Factor I,2.1,171,250,35.7
+38,3LGIB,1BUIA,Structure Of The Protease Domain Of Degs (Degs-Deltapdz) At 1.65 A,2.7,169,250,17.8
+39,3WY8A,1BUIA,Crystal Structure Of Protease Anisep From Arthrobacter Nicotinovorans,2.7,169,250,14.8
+40,5HMAA,1BUIA,Crystal Structure Of Mamo Protease Domain From Magnetospirillum Magneticum (ni Bound Form),2.7,165,250,18.2
+41,4FLNA,1BUIA,Crystal Structure Of Plant Protease Deg2,2.8,163,250,16.6
+42,1TE0A,1BUIA,"Structural Analysis Of Degs, A Stress Sensor Of The Bacterial Periplasm",2.7,162,250,16.7
+43,2Z9IA,1BUIA,Crystal Structure Of Rv0983 From Mycobacterium Tuberculosis- Proteolytically Active Form,2.4,161,250,17.4
+44,1ZYOA,1BUIA,Crystal Structure Of The Serine Protease Domain Of Sesbania Mosaic Virus Polyprotein,2.6,160,250,14.4
+45,4RI0A,1BUIA,"Serine Protease Htra3, Mutationally Inactivated",2.5,158,250,17.1
+46,1L1JA,1BUIA,Crystal Structure Of The Protease Domain Of An Atp- Independent Heat Shock Protease Htra,2.5,155,250,15.5
+47,5HM2E,1BUIA,Crystal Structure Of The 3c Protease From South African Territories Type 2 Foot-and-mouth Disease Virus,2.7,152,250,12.5
+48,3K6YA,1BUIA,"Crystal Structure Of Rv3671c Protease From M. Tuberculosis, Active Form",2.3,151,250,21.2
+49,3UFAA,1BUIA,Crystal Structure Of The Staphylococcal Serine Protease Spla In Complex With A Specific Phosphonate Inhibitor,1.6,151,250,14.6
+50,3WOKA,1BUIA,Crystal Structure Of The Dap Bii (space),2.4,151,250,17.2
+51,1LVMA,1BUIA,Catalytically Active Tobacco Etch Virus Protease Complexed With Product,3.0,150,250,11.3
+52,2J92A,1BUIA,3c Protease From Type A10(61) Foot-And-Mouth Disease Virus- Crystal Packing Mutant (K51q),2.5,149,250,13.4
+53,2XYAA,1BUIA,Non-Covalent Inhibtors Of Rhinovirus 3c Protease,2.8,145,250,15.2
+54,2HALA,1BUIA,An Episulfide Cation (Thiiranium Ring) Trapped In The Active Site Of Hav 3c Proteinase Inactivated By Peptide-Based Ketone Inhibitors,2.6,142,250,13.4
+55,2QA9E,1BUIA,Crystal Structure Of The Second Tetrahedral Intermediates Of Sgpb At Ph 4.2,2.7,139,250,15.8
+56,4WMEA,1BUIA,Crystal Structure Of Catalytically Inactive Mers-cov 3cl Protease (c148a) In Spacegroup C2,2.6,139,250,10.8
+57,2H5CA,1BUIA,0.82a Resolution Crystal Structure Of Alpha-Lytic Protease At Ph 5,2.5,136,250,16.9
+58,5BPEA,1BUIA,Crystal Structure Of Ev71 3cpro In Complex With A Potent And Selective Inhibitor,2.4,136,250,15.4
+59,2OUAA,1BUIA,Crystal Structure Of Nocardiopsis Protease (Napase),2.4,133,250,18.0
+60,5EU8A,1BUIA,Structure Of Fipv Main Protease In Complex With Dual Inhibitors,2.3,132,250,12.9
+61,5DGJA,1BUIA,"1.0a Resolution Structure Of Norovirus 3cl Protease In Complex An Oxadiazole-based, Cell Permeable Macrocyclic (20-mer) Inhibitor",2.7,130,250,15.4
+62,4X2VB,1BUIA,Crystal Structure Of The Murine Norovirus Ns6 Protease (inactive C139a Mutant) With A C-terminal Extension To Include Residue P1 Prime Of Ns7,2.6,129,250,14.0
+63,4ZROA,1BUIA,2.1 A X-ray Structure Of Fipv-3clpro Bound To Covalent Inhibitor,2.3,129,250,13.2
+64,4XFQA,1BUIA,Crystal Structure Basis For Pedv 3c Like Protease,2.4,129,250,12.4
+65,2W5EA,1BUIA,Structural And Biochemical Analysis Of Human Pathogenic Astrovirus Serine Protease At 2.0 Angstrom Resolution,2.0,126,250,17.5
+66,4CR9A,1EAXA,Creating Novel F1 Inhibitors Through Fragment Based Lead Generation And Structure Aided Drug Design,1.2,225,241,40.4
+67,4A5TS,1EAXA,Structural Basis For The Conformational Modulation,1.8,213,241,39.0
+68,1DDJA,1EAXA,Crystal Structure Of Human Plasminogen Catalytic Domain,1.6,212,241,41.0
+69,4JCNA,4MNWA,"Structure Of Esp, Serine Protease From Staphylococcus Epidermidis",2.6,194,245,14.4
+70,2BZ6H,1VZQH,Orally Available Factor7a Inhibitor,1.6,234,250,35.9
+71,1FIWA,1FIZA,Three-Dimensional Structure Of Beta-Acrosin From Ram Spermatozoa,0.9,260,263,81.5
+72,3BN9A,2OQ5A,Crystal Structure Of Mt-Sp1 In Complex With Fab Inhibitor E2,1.1,227,232,48.5
+73,3GOVB,3TVJB,Crystal Structure Of The Catalytic Region Of Human Masp-1,1.2,222,242,36.9
+74,1YM0A,2F91A,"Crystal Structure Of Earthworm Fibrinolytic Enzyme Component B: A Novel, Glycosylated Two-Chained Trypsin",1.5,231,237,42.0
+75,2XWBF,4Z6AH,Crystal Structure Of Complement C3b In Complex With Factors B And D,2.3,205,249,22.4
+76,3S9CA,2QXIA,"Russell's Viper Venom Serine Proteinase, Rvv-V In Complex With The Fragment (Residues 1533-1546) Of Human Factor V",1.6,214,224,34.1
+77,2XXLA,2OLGA,Crystal Structure Of Drosophila Grass Clip Serine Protease Of Toll Pathway,2.4,244,278,38.1
+78,3CP7A,3WY8A,Crystal Structure Of A Thermostable Serine Protease Al20 From Extremophilic Microoganism,1.1,209,219,52.6
+79,4INKA,3UFAA,Crystal Structure Of Spld Protease From Staphylococcus Aureus At 1.56 A Resolution,1.3,192,200,46.9
+80,1LCYA,1LVMA,Crystal Structure Of The Mitochondrial Serine Protease Htra2,3.4,175,229,13.1
+81,1AZZB,2XYAA,Fiddler Crab Collagenase Complexed To Ecotin,2.6,142,182,13.4
+82,1FY4A,2QA9E,Fusarium Oxysporum Trypsin At Atomic Resolution,2.9,148,185,20.3
+83,1WQSA,4X2VB,Crystal Structure Of Norovirus 3c-Like Protease,1.9,169,185,58.6
+84,1LVBB,4X2VB,Catalytically Inactive Tobacco Etch Virus Protease Complexed With Substrate,3.0,143,185,14.0
+85,1MBMA,2W5EA,Nsp4 Proteinase From Equine Arteritis Virus,2.4,133,163,17.3
+86,3FANA,2W5EA,Crystal Structure Of Chymotrypsin-Like ProteasePROTEINASE (3clspNSP4) OF PORCINE REPRODUCTIVE AND RESPIRATORY Syndrome Virus (Prrsv),2.6,129,163,18.6
+87,5EQQA,2W5EA,Crystal Structure Of Hcv Ns3/4a Wt Protease In Complex With 5172- Linear (mk-5172 Linear Analogue),2.5,126,163,11.9
+88,5EPNA,2W5EA,Crystal Structure Of Hcv Ns3/4a Protease In Complex With 5172-mcp1p3 (mk-5172 P1-p3 Macrocyclic Analogue),2.5,125,163,12.8
+89,5EPYA,2W5EA,Crystal Structure Of Hcv Ns3/4a Protease A156t Variant In Complex With 5172-mcp1p3 (mk-5172 P1-p3 Macrocyclic Analogue),2.5,125,163,12.0
+90,4K3JA,4JCNA,Crystal Structure Of Onartuzumab Fab In Complex With Met And Hgf-beta,2.2,181,216,12.2
+91,4WJG2,4JCNA,Structure Of T. Brucei Haptoglobin-hemoglobin Receptor Binding To Human Haptoglobin-hemoglobin,2.1,179,216,12.8
+92,4CBNA,4JCNA,Crystal Structure Of Complement Factor D Mutant R202a After Conventional Refinement,2.2,177,216,14.7
+93,4IBLH,4JCNA,Rubidium Sites In Blood Coagulation Factor Viia,2.2,176,216,12.5
+94,4M7GA,4JCNA,Streptomyces Erythraeus Trypsin,2.2,173,216,15.0
+95,4K8YA,4JCNA,Atomic Resolution Crystal Structures Of Kallikrein-related Peptidase 4 Complexed With Sunflower Trypsin Inhibitor (sfti-1),2.4,171,216,11.1
+96,4KP0A,4JCNA,Crystal Structure Of The Human Chymase With Tjk002,2.2,164,216,18.3
+97,4FLNC,4INKA,Crystal Structure Of Plant Protease Deg2,1.7,154,205,23.4
+98,2H5DA,1WQSA,"0.9a Resolution Crystal Structure Of Alpha-Lytic Protease Complexed With A Transition State Analogue, Meosuc-Ala-Ala- Pro-Val Boronic Acid",3.2,137,173,8.8
+99,4ZROC,1WQSA,2.1 A X-ray Structure Of Fipv-3clpro Bound To Covalent Inhibitor,2.9,135,173,18.5
+100,1CU1A,5EQQA,Crystal Structure Of An Enzyme Complex From Hepatitis C Virus,0.8,188,190,86.7

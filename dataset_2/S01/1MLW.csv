@@ -1,0 +1,4 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,3PAHA,1MLWA,Human Phenylalanine Hydroxylase Catalytic Domain Dimer With Bound Adrenaline Inhibitor,1.4,275,301,66.9
+1,5DEND,1MLWA,The First Structure Of A Full-length Mammalian Phenylalanine Hydroxylase Reveals The Architecture Of An Auto-inhibited Tetramer,1.0,264,301,67.4
+2,2V27B,1MLWA,Structure Of The Cold Active Phenylalanine Hydroxylase From Colwellia Psychrerythraea 34h,1.8,228,301,32.5

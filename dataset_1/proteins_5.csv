@@ -1,0 +1,81 @@
+,name,seed_protein,description,taxonomy,aligned_protein,rmsd,aligned_residue,sequence_id
+0,4XD9,1TAW,Structure of Rpf2-Rrs1 complex involved in ribosome biogenesis,Aspergillus nidulans FGSC A4,1,1.80Å,15,7%
+1,6SGW,4IW4,Structure of the ESX-3 core complex,Mycolicibacterium smegmatis MC2 155,1,2.60Å,22,18%
+2,3OHE,5E0J,Crystal Structure Of A Histidine Triad Protein (maqu_1709) From Marinobacter Aquaeolei Vt8 At 1.20 A Resolution,Marinobacter hydrocarbonoclasticus VT8,1,1.51Å,29,3%
+3,3I4S,5E0J,CRYSTAL STRUCTURE OF HISTIDINE TRIAD PROTEIN blr8122 FROM Bradyrhizobium japonicum,Bradyrhizobium japonicum,1,1.45Å,28,4%
+4,3NRD,5E0J,Crystal structure of a histidine triad (HIT) protein (SMc02904) from SINORHIZOBIUM MELILOTI 1021 at 2.06 A resolution,Sinorhizobium meliloti 1021,1,1.35Å,28,11%
+5,2I4S,3GCN,"Pdz Domain Of Epsc From Vibrio Cholerae, Residues 204-305",Vibrio cholerae,1,1.96Å,52,13%
+6,5HJ1,3GCN,Crystal Structure Of Pdz Domain Of Pullulanase C Protein Of Type Ii Secretion System From Klebsiella Pneumoniae In Complex With Fatty Acid,Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044,1,1.88Å,51,18%
+7,5ZYF,1SGE,Crystal structure of Streptococcus pyogenes type II-A Cas2,Streptococcus pyogenes serotype M1,1,0.98Å,28,11%
+8,2HIQ,1SGE,Crystal Structure Of Jw1657 From Escherichia Coli,Escherichia coli,1,1.43Å,27,0%
+9,2A18,1SGE,"Carboxysome Shell Protein Ccmk4, Crystal Form 2",Synechocystis sp. PCC 6803,1,2.13Å,20,5%
+10,2YX4,1SGE,Crystal Structure Of T134a Of St1022 From Sulfolobus Tokodaii,Sulfurisphaera tokodaii,1,1.33Å,17,6%
+11,6PV1,1SGE,Backbone-modified variant of zinc finger 2 from the transcription factor Sp1 DNA binding domain: Aib in the metal-binding turn,Homo sapiens,1,0.98Å,13,8%
+12,3IUF,1SGE,Crystal structure of the C2H2-type zinc finger domain of human ubi-d4,Homo sapiens,1,0.97Å,12,25%
+13,2E1A,1SGE,Crystal Structure Of Ffrp-dm1,Pyrococcus horikoshii OT3,1,2.85Å,30,0%
+14,7C7A,1SGE,Cryo-EM structure of yeast Ribonuclease MRP with substrate ITS1,Saccharomyces cerevisiae/Saccharomyces cerevisiae S288C,1,1.43Å,25,0%
+15,3SSQ,1SGE,CcmK2 - form 1 dodecamer,Thermosynechococcus elongatus BP-1,1,2.02Å,23,9%
+16,4IS1,1SGE,Crystal structure of ZNF217 bound to DNA,Others,1,0.90Å,18,6%
+17,3J01,3LGI,Structure Of The Ribosome-secye Complex In The Membrane Environment,Escherichia coli K-12/Escherichia coli 536/Escherichia coli DH1,1,1.85Å,42,12%
+18,3J46,3LGI,Structure of the SecY protein translocation channel in action,Escherichia coli,1,1.85Å,42,12%
+19,2P0K,2QF0,Crystal Structure Of Scmh1,Homo sapiens,1,2.19Å,51,10%
+20,6NMY,1Z6J,A Cytokine-receptor complex,Homo sapiens,1,2.83Å,161,14%
+21,4ICW,1Z6J,N-terminal C2 Domain Of Human Cep120,Homo sapiens,1,2.08Å,55,11%
+22,2BOU,1Z6J,"Egf Domains 1,2,5 Of Human Emr2, A 7-tm Immune System Molecule, In Complex With Barium",Homo sapiens,1,3.17Å,43,5%
+23,6SPH,1Z6J,A4V MUTANT OF HUMAN SUPEROXIDE DISMUTASE 1 WITH EBSELEN BOND IN C2 SPACE GROUP,Homo sapiens,1,1.87Å,42,2%
+24,1EER,1Z6J,Crystal Structure Of Human Erythropoietin Complexed To Its Receptor At 1.9 Angstroms,Homo sapiens,1,3.79Å,156,10%
+25,2M26,1Z6J,NMR structure of the C-terminal domain of the protein HCFC1 from Mus musculus,Mus musculus,1,2.14Å,71,14%
+26,3IE4,1Z6J,B-Glucan Binding Domain Of Drosophila Gnbp3 Defines A Novel Family Of Pattern Recognition Receptor,Drosophila melanogaster,1,2.52Å,69,6%
+27,4NS0,1Z6J,"The C2a Domain Of Rabphilin 3a In Complex With Pi(4,5)p2",Rattus norvegicus,1,2.21Å,68,9%
+28,6YOA,1Z6J,Lig v 1 structure and the inflammatory response to the Ole e 1 protein family,Ligustrum vulgare,1,2.39Å,63,11%
+29,2Z7W,1Z6J,"Crystal Structure Of H2o2 Treated Cu,Zn-Sod",Bos taurus,1,2.36Å,57,7%
+30,1SRD,1Z6J,"Three-dimensional Structure Of Cu,zn-superoxide Dismutase From Spinach At 2.0 Angstroms Resolution",Spinacia oleracea,1,2.20Å,55,15%
+31,2ZOW,1Z6J,"Crystal Structure Of H2o2 Treated Cu,Zn-Sod",Bos taurus,1,2.29Å,55,7%
+32,3KH4,1Z6J,Crystal Structure Of Human CuZN SUPEROXIDE DISMUTASE RECOMBINANTLY Produced In Leishmania Tarantolae; P6522 Crystal Form Containing 6 Chains In The Asymmetric Unit,Homo sapiens,1,2.36Å,55,9%
+33,3F7K,1Z6J,"X-Ray Crystal Structure Of An Alvinella Pompejana Cu,Zn Superoxide Dismutase- Hydrogen Peroxide Complex",Alvinella pompejana,1,2.41Å,55,5%
+34,3FJV,1Z6J,Crystal structure of novel protein of unknown function (YP_111841.1) from BURKHOLDERIA PSEUDOMALLEI K96243 at 1.90 A resolution,Burkholderia pseudomallei K96243,1,3.05Å,55,7%
+35,3F7L,1Z6J,"X-Ray Crystal Structure Of Alvinella Pompejana Cu,Zn Superoxide Dismutase",Alvinella pompejana,1,2.47Å,54,11%
+36,2BO2,1Z6J,"Egf Domains 1,2,5 Of Human Emr2, A 7-Tm Immune System Molecule, In Complex With Calcium",Homo sapiens,1,3.00Å,42,5%
+37,1BF9,1Z6J,"N-TERMINAL EGF-LIKE DOMAIN FROM HUMAN FACTOR VII, NMR, 23 STRUCTURES",Homo sapiens,1,1.13Å,34,100%
+38,3RQA,4ASH,The Crystal Structure Of A Pathogenic Protein From The Xanthomonas Campestris Reveals A New Tetrameric Pilz Domain Self-Assembled Via A Unusual Helical Bundle,Xanthomonas campestris pv. campestris str. B100,1,2.82Å,60,10%
+39,2W2Q,1HCG,Pcsk9-Deltac D374h Mutant Bound To Wt Egf-A Of Ldlr,Homo sapiens,1,0.75Å,31,32%
+40,2W2P,1HCG,Pcsk9-Deltac D374a Mutant Bound To Wt Egf-A Of Ldlr,Homo sapiens,1,0.86Å,30,30%
+41,3GCX,1HCG,Pcsk9:egfa (Ph 7.4),Homo sapiens,1,0.96Å,30,30%
+42,3BPS,1HCG,Pcsk9:egf-a Complex,Homo sapiens,1,1.00Å,30,30%
+43,2W2M,1HCG,Wt Pcsk9-Deltac Bound To Wt Egf-A Of Ldlr,Homo sapiens,1,0.75Å,29,31%
+44,5L4K,1HCG,The human 26S proteasome lid,Homo sapiens,1,1.81Å,26,8%
+45,2GYZ,1HCG,Crystal Structure Of Human Artemin,Homo sapiens,1,1.27Å,17,18%
+46,2W2O,1HCG,Pcsk9-deltac D374y Mutant Bound To Wt Egf-a Of Ldlr,Homo sapiens,1,0.85Å,30,30%
+47,2W2N,1HCG,Wt Pcsk9-Deltac Bound To Egf-A H306y Mutant Of Ldlr,Homo sapiens,1,0.88Å,30,30%
+48,3GCW,1HCG,Pcsk9:egfa(H306y),Homo sapiens,1,0.99Å,30,30%
+49,2K2S,1HCG,structure of the MIC1-GLD/MIC6-EGF complex from Toxoplasma gondii,Toxoplasma gondii,1,1.14Å,19,42%
+50,2GYR,1HCG,Crystal Structure Of Human Artemin,Homo sapiens,1,1.36Å,17,18%
+51,3AK5,5L2Z,Hemoglobin Protease (hbp) Passenger Missing Domain-2,Escherichia coli,1,1.96Å,148,20%
+52,3U7U,5L2Z,Crystal structure of extracellular region of human epidermal growth factor receptor 4 in complex with neuregulin-1 beta,Homo sapiens,1,1.55Å,23,13%
+53,2P6A,5L2Z,The Structure Of The Activin:follistatin 315 Complex,Others,1,1.50Å,22,9%
+54,3LTG,5L2Z,Crystal Structure Of The Drosophila Epidermal Growth Factor Receptor Ectodomain Complexed With A Low Affinity Spitz Mutant,Drosophila melanogaster,1,1.30Å,20,25%
+55,2GA6,5L2Z,The crystal structure of SARS nsp10 without zinc ion as additive,Severe acute respiratory syndrome-related coronavirus,1,2.25Å,20,10%
+56,1MOX,5L2Z,Crystal Structure Of Human Epidermal Growth Factor Receptor (Residues 1-501) In Complex With Tgf-Alpha,Homo sapiens,1,1.34Å,19,37%
+57,2JS3,5L2Z,NMR Structure of protein Q6N9A4_RHOPA. Northeast Structural Genomics Consortium target RpT8,Rhodopseudomonas palustris CGA009,1,1.83Å,19,16%
+58,5W3X,5L2Z,"Crystal structure of PopP2 in complex with IP6, AcCoA and the WRKY domain of RRS1-R ",Others,1,2.99Å,19,11%
+59,2FFG,5L2Z,Novel X-Ray Structure Of The Ykuj Protein From Bacillus Subtilis. Northeast Structural Genomics Target Sr360,Bacillus subtilis,1,3.07Å,17,6%
+60,5MPD,5L2Z,26s Proteasome In Presence Of Atp (s1),Saccharomyces cerevisiae S288C,1,1.27Å,16,0%
+61,6B72,5L2Z,A novel HIV-1 Nef dimer interface induced by a single octyl-glucoside molecule,HIV-1 M:B_ARV2/SF2,1,2.65Å,16,13%
+62,1JL9,5L2Z,Crystal Structure Of Human Epidermal Growth Factor,Homo sapiens,1,1.82Å,25,24%
+63,3CA7,5L2Z,High Resolution Crystal Structure Of The Egf Domain Of Spitz,Drosophila melanogaster,1,1.08Å,21,24%
+64,5T87,5L2Z,Crystal structure of CDI complex from Cupriavidus taiwanensis LMG 19424,Cupriavidus taiwanensis LMG 19424,1,3.26Å,21,10%
+65,3C9A,5L2Z,High Resolution Crystal Structure Of Argos Bound To The Egf Domain Of Spitz,Drosophila melanogaster,1,1.19Å,20,25%
+66,3NJP,5L2Z,The Extracellular and Transmembrane Domain Interfaces in Epidermal Growth Factor Receptor Signaling,Homo sapiens,1,1.41Å,20,30%
+67,3LTF,5L2Z,Crystal Structure Of The Drosophila Epidermal Growth Factor Receptor Ectodomain In Complex With Spitz,Drosophila melanogaster,1,1.60Å,20,25%
+68,1XDT,5L2Z,Complex Of Diphtheria Toxin And Heparin-Binding Epidermal Growth Factor,Others,1,1.08Å,19,37%
+69,1WHF,5L2Z,"COAGULATION FACTOR, NMR, 15 STRUCTURES",Bos taurus,1,1.55Å,19,32%
+70,4YNX,5L2Z,Structure of YdiE from E. coli,Escherichia coli K-12,1,2.15Å,19,5%
+71,5WB8,5L2Z,Crystal structure of the epidermal growth factor receptor extracellular region in complex with epigen,Homo sapiens,1,1.65Å,18,44%
+72,5MPE,5L2Z,26S proteasome in presence of ATP (s2),Saccharomyces cerevisiae S288C,1,1.08Å,17,0%
+73,1IVO,5L2Z,Crystal Structure Of The Complex Of Human Epidermal Growth Factor And Receptor Extracellular Domains,Homo sapiens,1,1.14Å,16,31%
+74,5NUI,5L2Z,Crystal Structure Of Sivmac239 Nef In An Exxxlm Endocytic Sorting Motif Bound State,Others,1,2.69Å,16,6%
+75,2V3M,2RCE,Structure Of The Gar1 Domain Of Naf1,Saccharomyces cerevisiae,1,2.14Å,41,15%
+76,1OBY,1Y8T,Crystal structure of the complex of PDZ2 of syntenin with a syndecan-4 peptide,Homo sapiens,1,1.16Å,54,19%
+77,5HCD,4BTT,Ternary Complex Of Human Complement C5 With Ornithodoros Moubata Omci And Rhipicephalus Microplus Raci2,Ornithodoros moubata/Rhipicephalus microplus/Homo sapiens,1,3.11Å,20,15%
+78,1B9W,4BTT,C-Terminal Merozoite Surface Protein 1 From Plasmodium Cynomolgi,Plasmodium cynomolgi,1,0.97Å,22,32%
+79,2V5E,4BTT,The Structure Of The Gdnf:coreceptor Complex: Insights Into Ret Signalling And Heparin Binding,Homo sapiens/Rattus norvegicus,1,1.07Å,19,11%

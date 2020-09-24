@@ -1,0 +1,460 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,1N1TA,1SO7A,Trypanosoma Rangeli Sialidase In Complex With Dana At 1.6 A,2.7,320,382,17.2
+1,3SILA,1SO7A,Sialidase From Salmonella Typhimurium,3.0,320,382,20.0
+2,5HX0A,1SO7A,Crystal Structure Of Unknown Function Protein Dfer_1899 Fromdyadobacter Fermentans Dsm 18053,2.9,320,382,13.4
+3,1KITA,1SO7A,Vibrio Cholerae Neuraminidase,2.3,317,382,21.1
+4,3H72B,1SO7A,Crystal Structure Of Streptococcus Pneumoniae D39 Neuraminidase A Precursor (Nana) In Complex With Nana,1.9,317,382,24.3
+5,1V3EA,1SO7A,Structure Of The Hemagglutinin-Neuraminidase From Human Parainfluenza Virus Type Iii: Complex With Zanamavir,4.2,316,382,6.6
+6,4MZAB,1SO7A,Crystal Structure Of Hpiv3 Hemagglutinin-neuraminidase,4.2,316,382,6.6
+7,1W8OA,1SO7A,Contribution Of The Active Site Aspartic Acid To Catalysis In The Bacterial Neuraminidase From Micromonospora Viridifaciens,1.8,312,382,27.9
+8,4FJ6D,1SO7A,"Crystal Structure Of A Glycoside Hydrolase Family 33, Candidate Sialidase (Bdi_2946) From Parabacteroides Distasonis Atcc 8503 At 1.90 A Resolution",2.3,312,382,26.3
+9,4AMFA,1SO7A,Pseudomonas Fluorescens Phox In Complex With The Substrate Analogue Appcp,4.2,309,382,8.4
+10,4WJKA,1SO7A,Metal Ion And Ligand Binding Of Integrin,4.7,307,382,5.9
+11,2W5NA,1SO7A,Native Structure Of The Gh93 Alpha-L-Arabinofuranosidase Of Fusarium Graminearum,3.2,306,382,10.5
+12,4Z7QA,1SO7A,Integrin Alphaiibbeta3 In Complex With Agdv-nh2 Peptide,4.8,306,382,7.5
+13,4Z7NA,1SO7A,Integrin Alphaiibbeta3 In Complex With Agdv Peptide,4.7,304,382,9.2
+14,2W38A,1SO7A,Crystal Structure Of The Pseudaminidase From Pseudomonas Aeruginosa,3.4,303,382,14.5
+15,2XZJA,1SO7A,The Aspergillus Fumigatus Sialidase Is A Kdnase: Structural And Mechanistic Insights,2.3,301,382,25.6
+16,2SLIA,1SO7A,"Leech Intramolecular Trans-Sialidase Complexed With 2,7- Anhydro-Neu5ac, The Reaction Product",2.2,300,382,21.3
+17,4XMIA,1SO7A,Crystal Structure Of The K499g Mutant Of Nanb Sialidase From Streptococcus Pneumoniae,2.4,299,382,17.7
+18,4XYXA,1SO7A,Nanb Plus Optactamide,2.4,299,382,17.7
+19,4XJWA,1SO7A,Crystal Structure Of The Nanb Sialidase From Streptococcus Pneumoniae In Complex With Optactin At Ph 7.4 In Pbs With Dmso As The Cryoprotectant,2.3,298,382,17.8
+20,4XOGA,1SO7A,Crystal Structure Of The Nanb Sialidase From Streptococcus Pneumoniae In Complex With Optactin And Dana,2.3,298,382,17.4
+21,5A10A,1SO7A,"The Crystal Structure Of Ta-tfp, A Thiocyanate-forming Protein Involved In Glucosinolate Breakdown (space Group C2)",4.6,296,382,6.4
+22,3JU4A,1SO7A,Crystal Structure Analysis Of Endosialidasenf At 0.98 A Resolution,3.3,291,382,7.6
+23,2P9WA,1SO7A,Crystal Structure Of The Major Malassezia Sympodialis Allergen Mala S 1,4.1,290,382,6.9
+24,1H6LA,1SO7A,Beta-Propeller Phytase In Complex With Phosphate And Calcium Ions,3.9,287,382,8.4
+25,1JOFC,1SO7A,"Neurospora Crassa 3-Carboxy-Cis,Cis-Mucoante Lactonizing Enzyme",4.4,287,382,4.9
+26,4FTDA,1SO7A,Crystal Structure Of A Hypothetical Protein (Bacegg_03550) From Bacteroides Eggerthii Dsm 20697 At 1.91 A Resolution,3.9,285,382,8.1
+27,4C1YB,1SO7A,Crystal Structure Of Fucose Binding Lectin From Aspergillus Fumigatus (afl) In Complex With B-methylfucoside,3.7,284,382,6.3
+28,3Q6KB,1SO7A,Salivary Protein From Lutzomyia Longipalpis,4.0,280,382,5.4
+29,3FVZA,1SO7A,Structure Of Peptidyl-Alpha-Hydroxyglycine Alpha-Amidating Lyase (Pal),4.5,277,382,10.8
+30,1F8DA,1SO7A,"Native Influenza Neuraminidase In Complex With 9-Amino-2- Deoxy-2,3-Dehydro-N-Neuraminic Acid",3.9,276,382,10.1
+31,2WFTA,1SO7A,Crystal Structure Of The Human Hip Ectodomain,3.9,276,382,6.2
+32,3K6SA,1SO7A,Structure Of Integrin Alphaxbeta2 Ectodomain,4.4,273,382,6.6
+33,3S9JA,1SO7A,Crystal Structure Of A Member Of Duf4221 Family (Bvu_1028) From Bacteroides Vulgatus At 1.75 A Resolution,4.7,271,382,7.4
+34,2UVKB,1SO7A,Structure Of Yjht,3.7,270,382,8.1
+35,2ZWAB,1SO7A,Crystal Structure Of Trna Wybutosine Synthesizing Enzyme Tyw4,4.2,270,382,5.9
+36,4WWXY,1SO7A,Crystal Structure Of The Core Rag1/2 Recombinase,4.8,270,382,6.7
+37,5E6SE,1SO7A,"Structures Of Leukocyte Integrin Alb2: The Ai Domain, The Headpiece, And The Pocket For The Internal Ligand",3.9,270,382,10.7
+38,1YFQA,1SO7A,High Resolution S. Cerevisiae Bub3 Mitotic Checkpoint Protein,3.9,269,382,7.1
+39,2G8SA,1SO7A,Crystal Structure Of The Soluble Aldose Sugar Dehydrogenase (Asd) From Escherichia Coli In The Apo-Form,3.7,268,382,10.1
+40,4IRTA,1SO7A,Crystal Structure Of A Hypothetical Protein (bacova_03493) From Bacteroides Ovatus Atcc 8483 At 1.74 A Resolution,4.1,268,382,8.6
+41,2IAVA,1SO7A,Crystal Structure Of Squid Ganglion Dfpase H287a Mutant,3.2,267,382,8.2
+42,3NVNB,1SO7A,Molecular Mechanism Of Guidance Cue Recognition,4.7,267,382,9.7
+43,3OM4A,1SO7A,Crystal Structure Of B. Megaterium Levansucrase Mutant K373a,4.7,265,382,8.7
+44,3OKTA,1SO7A,"Mouse Plexin A2, Extracellular Domains 1-4",4.4,264,382,6.4
+45,3IIYA,1SO7A,Crystal Structure Of Eed In Complex With A Trimethylated Histone H1k26 Peptide,4.3,263,382,7.2
+46,4GDIA,1SO7A,A Subtype N10 Neuraminidase-Like Protein Of ALITTLE YELLOW-Shouldered BatGUATEMALA1642009,4.2,263,382,7.6
+47,1Q7FB,1SO7A,Brain Tumor Nhl Domain,3.6,262,382,5.3
+48,2P4OA,1SO7A,Crystal Structure Of Hypothetical Protein (Zp_00111901.1) From Nostoc Punctiforme Pcc 73102 At 1.90 A Resolution,3.3,262,382,5.7
+49,3DASA,1SO7A,Structure Of The Pqq-Bound Form Of Aldose Sugar Dehydrogenase (Adh) From Streptomyces Coelicolor,3.7,262,382,8.4
+50,4ZLRB,1SO7A,Structure Of The Brat-nhl Domain Bound To Consensus Rna Motif,3.7,261,382,4.6
+51,1VKDA,1SO7A,Crystal Structure Of Hypothetical Protein (Tm1225) From Thermotoga Maritima At 2.10 A Resolution,4.1,260,382,8.1
+52,2ECEA,1SO7A,"X-Ray Structure Of Hypothetical Selenium-Binding Protein From Sulfolobus Tokodaii, St0059",4.5,259,382,6.9
+53,4IYGA,1SO7A,Structure Of Strictosidine Synthase In Complex With 2-(1h-indol-3-yl)- N-methylethanamine,3.5,259,382,6.9
+54,2DSOC,1SO7A,"Crystal Structure Of D138n Mutant Of Drp35, A 35kda Drug Responsive Protein From Staphylococcus Aureus",3.1,258,382,6.6
+55,3OW8D,1SO7A,Crystal Structure Of The Wd Repeat-Containing Protein 61,3.8,258,382,2.7
+56,5EX7A,1SO7A,Crystal Structure Of Brat Nhl Domain In Complex With An 8-nt Hunchback Mrna,3.6,258,382,5.8
+57,3ACPA,1SO7A,"Crystal Structure Of Yeast Rpn14, A Chaperone Of The 19s Regulatory Particle Of The Proteasome",3.9,257,382,6.2
+58,5C2VB,1SO7A,Kuenenia Stuttgartiensis Hydrazine Synthase,3.7,257,382,6.2
+59,3BWSB,1SO7A,Crystal Structure Of The Leptospiral Antigen Lp49,4.1,256,382,3.5
+60,4H5JB,1SO7A,Crystal Structure Of The Guanine Nucleotide Exchange Factor Sec12 (P64 Form),4.1,256,382,6.2
+61,4LG8A,1SO7A,Crystal Structure Of Prpf19 Wd40 Repeats,4.2,256,382,8.2
+62,4P07A,1SO7A,Bacterial Aryl Sulfotransferase (asst) Soaked With Human Urine,3.8,256,382,6.6
+63,4OZUA,1SO7A,Crystal Structure Of Wd40 Domain From Toxoplasma Gondii Coronin,4.5,256,382,4.7
+64,4WJSA,1SO7A,Crystal Structure Of Rsa4 From Chaetomium Thermophilum,5.0,256,382,7.4
+65,2B5NB,1SO7A,Crystal Structure Of The Ddb1 Bpb Domain,4.6,255,382,7.8
+66,2YNOA,1SO7A,Yeast Betaprime Cop 1-304h6,4.1,255,382,4.7
+67,4U7AA,1SO7A,The Carboxy-terminal Domain Of Erb1 Is A Seven-bladed Beta-propeller That Binds Rna,4.1,255,382,4.3
+68,2PBID,1SO7A,The Multifunctional Nature Of Gbeta5RGS9 REVEALED FROM ITS Crystal Structure,3.8,254,382,7.1
+69,4CZVA,1SO7A,Structure Of The Neurospora Crassa Pan2 Wd40 Domain,4.3,253,382,4.3
+70,1SQ9A,1SO7A,"Structure Of Ski8p, A Wd Repeat Protein Involved In Mrna Degradation And Meiotic Recombination",3.9,252,382,8.3
+71,3ZWLD,1SO7A,Structure Of Eukaryotic Translation Initiation Factor Eif3i Complex With Eif3b C-Terminus (655-700),3.8,252,382,4.4
+72,3W15A,1SO7A,Structure Of Peroxisomal Targeting Signal 2 (pts2) Of Saccharomyces Cerevisiae 3-ketoacyl-coa Thiolase In Complex With Pex7p And Pex21p,3.9,252,382,6.0
+73,4RAAA,1SO7A,Crystal Structure Of A Putative Exported Protein (bf0058) From Bacteroides Fragilis Nctc 9343 At 2.60 A Resolution,4.9,252,382,6.7
+74,1ERJB,1SO7A,Crystal Structure Of The C-Terminal Wd40 Domain Of Tup1,4.2,251,382,6.4
+75,3G4EA,1SO7A,Crystal Structure Of Human Senescence Marker Protein- 30(Smp30)(Calcium Bound),3.4,251,382,7.6
+76,3JCMB,1SO7A,Cryo-em Structure Of The Spliceosomal U4/u6.u5 Tri-snrnp,4.4,251,382,5.6
+77,3D11A,1SO7A,Crystal Structures Of The Nipah G Attachment Glycoprotein,4.1,250,382,6.0
+78,4FWWA,1SO7A,Crystal Structure Of The Sema-Psi Extracellular Domains Of Human Ron Receptor Tyrosine Kinase,4.6,250,382,5.6
+79,4CSDB,1SO7A,Structure Of Monomeric Ralstonia Solanacearum Lectin,3.0,250,382,8.4
+80,5CYKB,1SO7A,Structure Of Ytm1 Bound To The C-terminal Domain Of Erb1-r486e,4.1,250,382,7.2
+81,5EM2A,1SO7A,Crystal Structure Of The Erb1-ytm1 Complex,4.2,250,382,7.2
+82,2HESX,1SO7A,Cytosolic Iron-Sulphur Assembly Protein- 1,3.9,249,382,9.6
+83,3DR2A,1SO7A,Structural And Functional Analyses Of Xc5397 From Xanthomonas Campestris: A Gluconolactonase Important In Glucose Secondary Metabolic Pathways,3.4,249,382,8.0
+84,5CGJA,1SO7A,"Crystal Structure Of Murine Keap1 In Complex With Ra839, A Non- Covalent Small-molecule Binder To Keap1 And Selective Activator Of Nrf2 Signalling",3.2,249,382,7.2
+85,5CXBB,1SO7A,Structure Of Ytm1 Bound To The C-terminal Domain Of Erb1 In P21 21 2 Space Group,4.1,249,382,6.8
+86,4XYHA,1SO7A,Wild-type Full Length Mis16 In Schizosaccharomyces Japonicus,4.0,249,382,8.8
+87,3MKQA,1SO7A,Crystal Structure Of Yeast AlphaBETAPRIME-Cop Subcomplex Of The Copi Vesicular Coat,3.8,248,382,5.6
+88,5C2VD,1SO7A,Kuenenia Stuttgartiensis Hydrazine Synthase,3.9,248,382,5.6
+89,3WW9A,1SO7A,Crystal Structure Of The Computationally Designed Pizza6 Protein,3.1,247,382,8.1
+90,4YVDA,1SO7A,Crytsal Structure Of Human Pleiotropic Regulator 1 (prl1),4.1,247,382,5.3
+91,2Z2OC,1SO7A,Crystal Structure Of Apo Virginiamycin B Lyase From Staphylococcus Aureus,3.9,246,382,4.5
+92,1K8KC,1SO7A,Crystal Structure Of Arp23 COMPLEX,4.0,245,382,6.1
+93,3DSMA,1SO7A,"Crystal Structure Of The Surface Layer Protein Bacuni_02894 From Bacteroides Uniformis, Northeast Structural Genomics Consortium Target Btr193d",4.2,245,382,7.3
+94,4N14A,1SO7A,Crystal Structure Of Cdc20 And Apcin Complex,3.6,245,382,6.9
+95,2PM9A,1SO7A,Crystal Structure Of Yeast Sec1331 VERTEX ELEMENT OF THE Copii Vesicular Coat,4.0,244,382,9.4
+96,4HW6A,1SO7A,Crystal Structure Of A Hypothetical Protein (Bacova_00264) From Bacteroides Ovatus Atcc 8483 At 1.70 A Resolution,3.7,244,382,6.1
+97,5BPTA,1SO7A,Atomic-resolution Structures Of The Apc/c Subunits Apc4 And The Apc5 N-terminal Domain,4.2,244,382,10.2
+98,5FLWA,1SO7A,"Crystal Structure Of Putative Exo-beta-1,3-galactanase From Bifidobacterium Bifidum S17",4.5,244,382,8.2
+99,3E5ZA,1SO7A,X-Ray Structure Of The Putative Gluconolactonase In Protein Family Pf08450. Northeast Structural Genomics Consortium Target Drr130,3.2,243,382,9.1
+100,3MZKA,1SO7A,"Sec13SEC16 COMPLEX, S.CEREVISIAE",4.2,243,382,5.3
+101,4J87A,1SO7A,Crystal Structure Of Alpha-cop,4.1,243,382,7.0
+102,4D0KA,1SO7A,Complex Of Chaetomium Thermophilum Pan2 (wd40-cs1) With Pan3 (c-term),3.9,243,382,4.9
+103,4PC0B,1SO7A,Structure Of The Human Rbap48-mta1(670-711) Complex,4.0,243,382,7.4
+104,4D47H,1SO7A,X-ray Structure Of The Levansucrase From Erwinia Amylovora,4.0,243,382,10.3
+105,3FM0A,1SO7A,Crystal Structure Of Wd40 Protein Ciao1,3.5,242,382,7.0
+106,3II7A,1SO7A,Crystal Structure Of The Kelch Domain Of Human Klhl7,3.7,242,382,6.6
+107,2YMUA,1SO7A,Structure Of A Highly Repetitive Propeller Structure,3.8,242,382,7.0
+108,2J04A,1SO7A,The Tau60-Tau91 Subcomplex Of Yeast Transcription Factor Iiic,4.8,241,382,6.6
+109,4IFJA,1SO7A,"Crystal Structures Of Apo Keap1, Keap1-peptide, And Keap1-compound Complexes",4.1,241,382,7.9
+110,1OFZA,1SO7A,Crystal Structure Of Fungal Lectin: Six-Bladed Beta-Propeller Fold And Novel Fucose Recognition Mode For Aleuria Aurantia Lectin,3.4,240,382,7.5
+111,4I79B,1SO7A,Crystal Structure Of Human Nup43,4.3,240,382,10.4
+112,2VDUD,1SO7A,"Structure Of Trm8-Trm82, The Yeast Trna M7g Methylation Complex",4.3,239,382,7.1
+113,4J0WA,1SO7A,Structure Of U3-55k,4.0,239,382,7.9
+114,3FGBB,1SO7A,Crystal Structure Of The Q89zh8_bactn Protein From Bacteroides Thetaiotaomicron. Northeast Structural Genomics Consortium Target Btr289b,4.5,238,382,8.4
+115,2WOZA,1SO7A,The Novel Beta-Propeller Of The Btb-Kelch Protein Krp1 Provides The Binding Site For Lasp-1 That Is Necessary For Pseudopodia Extension,3.5,238,382,7.1
+116,2GHSA,1SO7A,"Crystal Structure Of Calcium-Binding Protein, Regucalcin (15155668) From Agrobacterium Tumefaciens At 1.55 A Resolution",3.4,237,382,3.0
+117,3K1UA,1SO7A,"Beta-Xylosidase, Family 43 Glycosyl Hydrolase From Clostridium Acetobutylicum",4.1,237,382,8.4
+118,4XMMC,1SO7A,Structure Of The Yeast Coat Nucleoporin Complex,3.9,237,382,4.2
+119,1L0QA,1SO7A,Tandem Yvtn Beta-Propeller And Pkd Domains From An Archaeal Surface Layer Protein,3.9,236,382,8.1
+120,1VYHC,1SO7A,Paf-Ah Holoenzyme: Lis1ALFA2,3.5,236,382,6.8
+121,3P5CL,1SO7A,The Structure Of The LdlrPCSK9 COMPLEX REVEALS THE RECEPTOR IN AN Extended Conformation,3.6,236,382,5.9
+122,3R4YA,1SO7A,Crystal Structure Of Alpha-Neoagarobiose Hydrolase (Alpha-Nabh) From Saccharophagus Degradans 2-40,3.4,236,382,7.6
+123,4DG6A,1SO7A,Crystal Structure Of Domains 1 And 2 Of Lrp6,3.2,236,382,9.7
+124,3VNGA,1SO7A,Crystal Structure Of Keap1 In Complex With Synthetic Small Molecular Based On A Co-crystallization,3.7,236,382,8.1
+125,5I5IA,1SO7A,"Shewanella Denitrificans Nitrous Oxide Reductase, App Form",4.2,236,382,4.7
+126,3GREA,1SO7A,Crystal Structure Of Saccharomyces Cerevisiae Vps15 Wd Repeat Domain,4.1,235,382,4.3
+127,3PE7A,1SO7A,Oligogalacturonate Lyase In Complex With Manganese,4.5,235,382,9.8
+128,3ODTA,1SO7A,Crystal Structure Of Wd40 Beta Propeller Domain Of Doa1,4.1,235,382,6.4
+129,5EMMB,1SO7A,Crystal Structure Of Prmt5:mep50 With Compound 15 And Sinefungin,4.1,235,382,8.1
+130,1NPEA,1SO7A,Crystal Structure Of NidogenLAMININ COMPLEX,3.3,234,382,8.1
+131,4DG6A,1SO7A,Crystal Structure Of Domains 1 And 2 Of Lrp6,3.4,234,382,9.4
+132,1IJQA,1SO7A,Crystal Structure Of The Ldl Receptor Ywtd-Egf Domain Pair,3.5,233,382,3.4
+133,1RI6A,1SO7A,Structure Of A Putative Isomerase From E. Coli,4.0,233,382,6.0
+134,2OJHA,1SO7A,The Structure Of Putative Tolb From Agrobacterium Tumefaciens,3.1,233,382,7.3
+135,1CRZA,1SO7A,Crystal Structure Of The E. Coli Tolb Protein,3.4,232,382,9.5
+136,4YY8B,1SO7A,Crystal Structure Analysis Of Kelch Protein From Plasmodium Falciparum,3.2,232,382,7.3
+137,1Q47B,1SO7A,Structure Of The Semaphorin 3a Receptor-Binding Module,4.1,231,382,8.7
+138,5C0PA,1SO7A,The Crystal Structure Of Endo-arabinase From Bacteroides Thetaiotaomicron Vpi-5482,3.7,231,382,9.5
+139,2CE8A,1SO7A,An Eh1 Peptide Bound To The Groucho-Tle Wd40 Domain,3.8,230,382,6.5
+140,5CWWB,1SO7A,Crystal Structure Of The Chaetomium Thermophilum Heterotrimeric Nup82 Ntd-nup159 Tail-nup145n Apd Complex,3.8,230,382,8.7
+141,5CYKA,1SO7A,Structure Of Ytm1 Bound To The C-terminal Domain Of Erb1-r486e,4.2,230,382,8.7
+142,3QZ4B,1SO7A,"Crystal Structure Of An Endo-1,4-Beta-Xylanase D (Bt_3675) From Bacteroides Thetaiotaomicron Vpi-5482 At 1.74 A Resolution",4.7,229,382,7.9
+143,3U4YA,1SO7A,The Crystal Structure Of A Functionally Unknown Protein (Dtox_1751) From Desulfotomaculum Acetoxidans Dsm 771,4.0,229,382,5.7
+144,3WASA,1SO7A,Crystal Structure Of 4-o-beta-d-mannosyl-d-glucose Phosphorylase Mgp Complexed With Man-glc+po4,3.9,229,382,9.6
+145,1XI4A,1SO7A,Clathrin D6 Coat,3.9,228,382,6.6
+146,1XIPA,1SO7A,Crystal Structure Of The N-Terminal Domain Of Nup159,4.4,228,382,6.6
+147,4JSNC,1SO7A,Structure Of Mtordeltan-mlst8 Complex,3.8,228,382,6.1
+148,4L7BB,1SO7A,"Structure Of Keap1 Kelch Domain With (1s,2r)-2-{[(1s)-1-[(1,3-dioxo-1, 3-dihydro-2h-isoindol-2-yl)methyl]-3,4-dihydroisoquinolin-2(1h)- Yl]carbonyl}cyclohexanecarboxylic Acid",3.7,228,382,7.5
+149,1V04A,1SO7A,Serum Paraoxonase By Directed Evolution,3.3,227,382,9.3
+150,4OWRA,1SO7A,Vesiculoviral Matrix (m) Protein Occupies Nucleic Acid Binding Site At Nucleoporin Pair Rae1-nup98,4.0,227,382,7.5
+151,4D6VA,1SO7A,Crystal Structure Of Signal Transducing Protein,4.0,226,382,4.4
+152,1CRUB,1SO7A,Soluble Quinoprotein Glucose Dehydrogenase From Acinetobacter Calcoaceticus In Complex With Pqq And Methylhydrazine,3.7,225,382,7.6
+153,4YD8A,1SO7A,"Bardet-biedl Syndrome 9 Protein (aa1-407), Homo Sapiens",4.0,225,382,5.8
+154,5FA5B,1SO7A,Crystal Structure Of Prmt5:mep50 In Complex With Mta And H4 Peptide,3.8,225,382,7.6
+155,1C9LA,1SO7A,Peptide-In-Groove Interactions Link Target Proteins To The B-Propeller Of Clathrin,3.8,223,382,5.4
+156,4A0AB,1SO7A,Structure Of Hsddb1-Drddb2 Bound To A 16 Bp Cpd-Duplex ( Pyrimidine At D-1 Position) At 3.6 A Resolution (Cpd 3),4.0,223,382,8.5
+157,3NO2A,1SO7A,Crystal Structure Of A Protein Of Unknown Function (Baccac_01654) From Bacteroides Caccae At 1.35 A Resolution,3.4,221,382,8.1
+158,3S25A,1SO7A,"Crystal Structure Of A Hypothetical 7-Bladed Beta-Propeller-Like Protein (Eubrec_1955, Ere_32420) From Eubacterium Rectale At 1.88 A Resolution",4.2,221,382,8.6
+159,4QQSB,1SO7A,Crystal Structure Of A Thermostable Family-43 Glycoside Hydrolase,3.5,221,382,7.2
+160,4OU8D,1SO7A,Crystal Structure Of Apocarotenoid Oxygenase In The Presence Of C8e6,4.4,220,382,7.3
+161,4RUQB,1SO7A,"Carp Fishelectin, Apo Form",3.1,220,382,5.0
+162,1P22A,1SO7A,Structure Of A Beta-Trcp1-Skp1-Beta-Catenin Complex: Destruction Motif Binding And Lysine Specificity On The Scfbeta-Trcp1 Ubiquitin Ligase,3.7,219,382,6.8
+163,4I0OA,1SO7A,"Nucleoporin Elys (aa1-494), Mus Musculus",3.6,216,382,7.4
+164,4LG9A,1SO7A,Crystal Structure Of Tbl1xr1 Wd40 Repeats,4.3,216,382,6.5
+165,1S1DA,1SO7A,Structure And Protein Design Of Human Apyrase,3.7,215,382,13.0
+166,3VGZC,1SO7A,Crystal Structure Of E. Coli Ynce,3.9,215,382,7.0
+167,4N4BA,1SO7A,Crystal Structure Of The Alpha-l-arabinofuranosidase Paabf62a From Podospora Anserina,3.8,213,382,5.6
+168,4GQ2P,1SO7A,S. Pombe Nup120-Nup37 Complex,4.1,212,382,7.5
+169,4UUYB,1SO7A,Structural Identification Of The Vps18 Beta-propeller Reveals A Critical Role In The Hops Complex Stability And Function,5.0,212,382,6.6
+170,2OVQB,1SO7A,Structure Of The Skp1-Fbw7-Cyclinedegc Complex,4.2,211,382,7.1
+171,3QEDB,1SO7A,"The Structure And Function Of An Arabinan-Specific Alpha-1,2- Arabinofuranosidase Identified From Screening The Activities Of Bacterial Gh43 Glycoside Hydrolases",3.7,211,382,8.5
+172,2I0SA,1SO7A,Crystal Structure Of Aromatic Amine Dehydrogenase Ttq- Phenylacetaldehyde Adduct,4.5,210,382,8.1
+173,4MLGH,1SO7A,Structure Of Rs223-beta-xylosidase,3.7,210,382,6.2
+174,3DW8B,1SO7A,Structure Of A Protein Phosphatase 2a Holoenzyme With B55 Subunit,4.1,208,382,2.9
+175,4A11B,1SO7A,Structure Of The Hsddb1-Hscsa Complex,3.7,208,382,5.8
+176,4Z8LA,1SO7A,Crystal Structure Of Dcaf1/siv-mnd Vpx/mnd Samhd1 Ntd Ternary Complex,4.3,206,382,7.8
+177,1MDAH,1SO7A,Crystal Structure Of An Electron-Transfer Complex Between Methylamine Dehydrogenase And Amicyanin,4.6,202,382,5.9
+178,4FHMB,1SO7A,Nup37-Nup120(Aa1-961) Complex From Schizosaccharomyces Pombe,4.2,202,382,6.9
+179,5AFBA,1SO7A,Crystal Structure Of The Latrophilin3 Lectin And Olfactomedin Domains,3.9,199,382,7.0
+180,3QQZA,1SO7A,Crystal Structure Of The C-Terminal Domain Of The Yjik Protein From Escherichia Coli Cft073,4.1,198,382,7.6
+181,1PBYB,1SO7A,Structure Of The Phenylhydrazine Adduct Of The Quinohemoprotein Amine Dehydrogenase From Paracoccus Denitrificans At 1.7 A Resolution,3.9,197,382,9.1
+182,5AYWB,1SO7A,Structure Of A Membrane Complex,4.1,197,382,7.6
+183,4XAVA,1SO7A,Crystal Structure Of Olfactomedin Domain From Gliomedin,3.7,194,382,6.7
+184,2F25A,3SILA,Crystal Structure Of The Human Sialidase Neu2 E111q Mutant In Complex With Dana Inhibitor,3.0,334,379,19.8
+185,4UF7A,3SILA,Ghanaian Henipavirus (gh-m74a) Attachment Glycoprotein In Complex With Human Ephrinb2,4.1,323,379,9.0
+186,3B7EA,3SILA,Neuraminidase Of ABREVIG MISSION11918 H1N1 STRAIN IN Complex With Zanamivir,4.4,299,379,9.7
+187,1USXC,5HX0A,Crystal Structure Of The Newcastle Disease Virus Hemagglutinin-Neuraminidase Complexed With Thiosialoside,4.5,317,402,8.8
+188,3D12A,5HX0A,Crystal Structures Of Nipah Virus G Attachment Glycoprotein In Complex With Its Receptor Ephrin-B3,4.4,302,402,5.3
+189,2X9MA,1V3EA,Hendra Virus Attachment Glycoprotein,2.9,400,431,21.0
+190,3ALXB,1V3EA,Crystal Structure Of The Measles Virus Hemagglutinin Bound To Its Cellular Receptor Slam (Mv-H(L482r)-Slam(N102hR108Y) FUSION),4.7,354,431,11.3
+191,2F27B,1V3EA,Crystal Structure Of The Human Sialidase Neu2 E111q-Q112e Double Mutant In Complex With Dana Inhibitor,3.8,329,431,6.1
+192,1E8UB,4MZAB,Structure Of The Multifunctional Paramyxovirus Hemagglutinin-Neuraminidase,2.8,413,437,26.2
+193,3NIGA,4WJKA,The Closed Headpiece Of Integrin Iib 3 And Its Complex With An Iib 3 - Specific Antagonist That Does Not Induce Opening,2.0,439,452,44.9
+194,4A7ZA,4WJKA,Complex Of Bifunctional Aldos-2-Ulose Dehydratase With The Reaction Intermediate Ascopyrone M,3.6,344,452,11.6
+195,3A72A,2W5NA,High Resolution Structure Of Penicillium Chrysogenum Alpha-L- Arabinanase Complexed With Arabinobiose,1.0,350,367,56.0
+196,4JF7D,2W5NA,Structure Of The Parainfluenza Virus 5 (piv5) Hemagglutinin- Neuraminidase (hn) Ectodomain,4.7,289,367,5.2
+197,1E8TB,2XZJA,Structure Of The Multifunctional Paramyxovirus Hemagglutinin-Neuraminidase,4.5,324,386,8.6
+198,1NSCA,5A10A,Neuraminidase (E.C.3.2.1.18) (Sialidase) Complex With N-Acetyl Neuraminic Acid (Sialic Acid),4.6,295,356,5.8
+199,4Z7QC,5A10A,Integrin Alphaiibbeta3 In Complex With Agdv-nh2 Peptide,5.1,295,356,8.5
+200,4X47A,5A10A,Crystal Structure Of The Intramolecular Trans-sialidase From Ruminococcus Gnavus In Complex With Neu5ac2en,4.4,292,356,6.2
+201,4Z7OA,5A10A,Integrin Alphaiibbeta3 In Complex With Agdv Peptide,4.9,289,356,7.6
+202,3SRGA,5A10A,Serum Paraoxonase-1 By Directed Evolution At Ph 6.5 In Complex With 2- Hydroxyquinoline,4.2,286,356,7.3
+203,5E6SA,5A10A,"Structures Of Leukocyte Integrin Alb2: The Ai Domain, The Headpiece, And The Pocket For The Internal Ligand",4.9,286,356,8.7
+204,2ZB6A,5A10A,Crystal Structure Of The Measles Virus Hemagglutinin (Oligo- Sugar Type),5.3,285,356,5.3
+205,4K3YA,5A10A,Crystal Structure Of A Subtype N11 Neuraminidase-like Protein Of A/flat-faced Bat/peru/033/2010 (h18n11),4.9,285,356,8.4
+206,4BBWA,2P9WA,The Crystal Structure Of Sialidase Vpi 5482 (btsa) From Bacteroides Thetaiotaomicron,3.9,277,334,7.6
+207,4XMAA,2P9WA,Crystal Structure Of The K499g Mutant Of Nanb Sialidase From Streptococcus Pneumoniae In Complex With Optactin,3.8,275,334,6.2
+208,4HW6D,2P9WA,Crystal Structure Of A Hypothetical Protein (Bacova_00264) From Bacteroides Ovatus Atcc 8483 At 1.70 A Resolution,3.5,252,334,11.5
+209,1V0FD,1H6LA,"Endosialidase Of Bacteriophage K1f In Complex With Oligomeric Alpha-2,8-Sialic Acid",3.9,278,353,8.3
+210,3SCYA,1JOFC,Crystal Structure Of A Hypothetical Bacterial 6- Phosphogluconolactonase (Bf1038) From Bacteroides Fragilis Nctc 9343 At 1.50 A Resolution,2.3,322,365,15.5
+211,1FWXA,1JOFC,Crystal Structure Of Nitrous Oxide Reductase From P. Denitrificans,2.8,307,365,7.8
+212,5I5MB,1JOFC,"Shewanella Denitrificans Nitrous Oxide Reductase, Ca2+-reconstituted Form",2.8,305,365,9.2
+213,4OU9A,1JOFC,Crystal Structure Of Apocarotenoid Oxygenase In The Presence Of Triton X-100,5.0,303,365,11.2
+214,2BBKH,1JOFC,Crystal Structure Of The Quinoprotein Methylamine Dehydrogenase From Paracoccus Denitrificans At 1.75 Angstroms,4.0,301,365,6.0
+215,1GOFA,1JOFC,Novel Thioether Bond Revealed By A 1.7 Angstroms Crystal Structure Of Galactose Oxidase,3.7,301,365,4.7
+216,1MDAJ,1JOFC,Crystal Structure Of An Electron-Transfer Complex Between Methylamine Dehydrogenase And Amicyanin,4.1,297,365,6.1
+217,1NIRB,1JOFC,Oxydized Nitrite Reductase From Pseudomonas Aeruginosa,4.2,295,365,12.2
+218,4F2ZA,1JOFC,Crystal Structure Of Rpe65 In A Lipid Environment,4.4,293,365,6.5
+219,2OAJA,1JOFC,Crystal Structure Of Sro7 From S. Cerevisiae,3.6,292,365,7.9
+220,2OITA,1JOFC,Crystal Structure Of The N-Terminal Domain Of The Human Proto-Oncogene Nup214CAN,3.4,291,365,8.2
+221,4CI8A,1JOFC,Crystal Structure Of The Tandem Atypical Beta-propeller Domain Of Eml1,3.4,287,365,7.3
+222,3HX6A,1JOFC,Crystal Structure Of Pseudomonas Aeruginosa Pily1 C-Terminal Domain,3.8,285,365,6.7
+223,5CXCA,1JOFC,Structure Of Ytm1 Bound To The C-terminal Domain Of Erb1 In P 65 2 2 Space Group,3.2,285,365,8.4
+224,4XFVA,1JOFC,Crystal Structure Of Elp2,2.9,284,365,6.3
+225,5AMSA,1JOFC,Crystal Structure Of Sqt1,3.8,283,365,6.0
+226,2J04B,1JOFC,The Tau60-Tau91 Subcomplex Of Yeast Transcription Factor Iiic,3.4,282,365,8.9
+227,4XFVA,1JOFC,Crystal Structure Of Elp2,2.7,281,365,10.3
+228,5FKQA,1JOFC,Unraveling The First Step Of Xyloglucan Degradation By The Soil Saprophyte Cellvibrio Japonicus Through The Functional And Structural Characterization Of A Potent Gh74 Endo-xyloglucanase,3.4,281,365,9.3
+229,5EM2B,1JOFC,Crystal Structure Of The Erb1-ytm1 Complex,3.2,281,365,8.9
+230,1N1YA,1JOFC,Trypanosoma Rangeli Sialidase In Complex With Sialic Acid,4.3,280,365,5.4
+231,1PEVA,1JOFC,Crystal Structure Of The Actin Interacting Protein From Caenorhabditis Elegans,2.8,277,365,8.3
+232,5FKTB,1JOFC,Unraveling The First Step Of Xyloglucan Degradation By The Soil Saprophyte Cellvibrio Japonicus Through The Functional And Structural Characterization Of A Potent Gh74 Endo-xyloglucanase,3.3,277,365,9.7
+233,3SFZA,1JOFC,Crystal Structure Of Full-Length Murine Apaf-1,2.7,276,365,6.9
+234,5FKSA,1JOFC,Unraveling The First Step Of Xyloglucan Degradation By The Soil Saprophyte Cellvibrio Japonicus Through The Functional And Structural Characterization Of A Potent Gh74 Endo-xyloglucanase,3.3,275,365,10.2
+235,1F8EA,1JOFC,"Native Influenza Neuraminidase In Complex With 4,9-Diamino- 2-Deoxy-2,3-Dehydro-N-Acetyl-Neuraminic Acid",5.6,274,365,5.8
+236,4MZEA,4C1YB,"Crystal Structure Of Hpiv3 Hemagglutinin-neuraminidase, H552q/q559r Mutant",4.5,276,314,5.4
+237,1V3EB,4C1YB,Structure Of The Hemagglutinin-Neuraminidase From Human Parainfluenza Virus Type Iii: Complex With Zanamavir,4.5,273,314,5.5
+238,5CXBA,4C1YB,Structure Of Ytm1 Bound To The C-terminal Domain Of Erb1 In P21 21 2 Space Group,4.5,256,314,7.0
+239,3MKQC,4C1YB,Crystal Structure Of Yeast AlphaBETAPRIME-Cop Subcomplex Of The Copi Vesicular Coat,4.3,250,314,8.8
+240,3I2NA,4C1YB,Crystal Structure Of Wd40 Repeats Protein Wdr92,4.2,247,314,4.0
+241,4K3JB,4C1YB,Crystal Structure Of Onartuzumab Fab In Complex With Met And Hgf-beta,4.9,245,314,6.5
+242,1N1SA,3Q6KB,Trypanosoma Rangeli Sialidase,4.6,304,381,7.2
+243,4NSXA,3FVZA,Crystal Structure Of The Utp21 Tandem Wd Domain,3.6,250,329,10.0
+244,3H7NA,3FVZA,Structure Of Nup120,4.8,248,329,9.3
+245,2VWDA,3S9JA,Nipah Virus Attachment Glycoprotein,5.2,302,369,7.6
+246,1GOHA,3S9JA,Novel Thioether Bond Revealed By A 1.7 Angstroms Crystal Structure Of Galactose Oxidase,5.5,286,369,6.6
+247,3H73B,3S9JA,Crystal Structure Of Streptococcus Pneumoniae D39 Neuraminidase A Precursor (Nana) In Complex With Dana,4.9,281,369,6.4
+248,4Q9TA,1YFQA,Crystal Structure Of Vanderwaltozyma Polyspora Nup133 Beta-propeller Domain,4.2,304,342,7.9
+249,4ZOXA,1YFQA,Crystal Structure Of The Saccharomyces Cerevisiae Sqt1 Bound To The N- Terminus Of The Ribosomal Protein L10,3.9,295,342,9.2
+250,4ZOYA,1YFQA,Crystal Structure Of The Chaetomium Thermophilum Sqt1,3.9,292,342,17.1
+251,4A2LE,1YFQA,Structure Of The Periplasmic Domain Of The Heparin And Heparan Sulphate Sensing Hybrid Two Component System Bt4663 In Apo And Ligand Bound Forms,4.1,290,342,13.4
+252,3EU7A,1YFQA,Crystal Structure Of A Palb2  BRCA2 COMPLEX,3.8,289,342,10.4
+253,4O9DB,1YFQA,Structure Of Dos1 Propeller,3.8,287,342,11.8
+254,3JBTA,1YFQA,Atomic Structure Of The Apaf-1 Apoptosome,3.1,285,342,10.2
+255,2XBGA,1YFQA,Crystal Structure Of Ycf48 From Thermosynechococcus Elongatus,3.6,284,342,10.2
+256,5FQDD,1YFQA,Structural Basis Of Lenalidomide Induced Ck1a Degradation By The Crl4crbn Ubiquitin Ligase,3.8,283,342,7.8
+257,3NVQA,1YFQA,Molecular Mechanism Of Guidance Cue Recognition,4.2,282,342,10.6
+258,3VA6A,1YFQA,Crystal Structure Of The Extracellular Domain Of The Putative Hybrid Two Component System Bt4673 From B. Thetaiotaomicron,3.7,281,342,9.6
+259,4MHCA,1YFQA,Crystal Structure Of A Nucleoporin,4.1,279,342,8.6
+260,2AD6A,1YFQA,Crystal Structure Of Methanol Dehydrogenase From M. W3a1 (Form C),4.0,277,342,6.1
+261,4XGAA,1YFQA,Crystal Structure Of Bamb And Bama P3-5 Complex From E.coli,4.0,276,342,8.7
+262,5FQDD,1YFQA,Structural Basis Of Lenalidomide Induced Ck1a Degradation By The Crl4crbn Ubiquitin Ligase,3.3,276,342,11.6
+263,5D0OB,1YFQA,"Bamabcde Complex, Outer Membrane Beta Barrel Assembly Machinery Entire Complex",4.1,275,342,9.1
+264,3NVXA,1YFQA,Molecular Mechanism Of Guidance Cue Recognition,4.1,274,342,8.0
+265,4A2LE,1YFQA,Structure Of The Periplasmic Domain Of The Heparin And Heparan Sulphate Sensing Hybrid Two Component System Bt4663 In Apo And Ligand Bound Forms,3.4,274,342,11.3
+266,4PK1A,1YFQA,Structure Of Bamb Fused To A Bama Potra Domain Fragment,4.0,274,342,9.1
+267,3VA6A,1YFQA,Crystal Structure Of The Extracellular Domain Of The Putative Hybrid Two Component System Bt4673 From B. Thetaiotaomicron,3.2,273,342,13.6
+268,3RRMC,1YFQA,"S. Cerevisiae Dbp5 L327v Bound To Nup159, Gle1 H337r, Ip6 And Adp",3.6,270,342,13.3
+269,2YH3A,1YFQA,The Structure Of Bamb From E. Coli,3.7,270,342,8.5
+270,4OU9D,1YFQA,Crystal Structure Of Apocarotenoid Oxygenase In The Presence Of Triton X-100,4.0,270,342,10.4
+271,1R5MA,1YFQA,Crystal Structure Of The C-Terminal Wd40 Domain Of Sif2,3.8,265,342,10.9
+272,4IMMA,1YFQA,The Crystal Structure Of Bamb From Moraxella Catarrhalis,3.9,265,342,12.1
+273,3LRVA,1YFQA,The Prp19 Wd40 Domain Contains A Conserved Protein Interacti Essential For Its Function,4.0,263,342,10.3
+274,3NPEA,1YFQA,Structure Of Vp14 In Complex With Oxygen,4.2,262,342,6.5
+275,1XKSA,1YFQA,The Crystal Structure Of The N-Terminal Domain Of Nup133 Reveals A Beta-Propeller Fold Common To Several Nucleoporins,3.7,259,342,7.3
+276,4MAEA,4IRTA,Methanol Dehydrogenase From Methylacidiphilum Fumariolicum Solv,4.6,313,414,7.7
+277,3AL9A,4IRTA,Mouse Plexin A2 Extracellular Domain,4.4,311,414,6.8
+278,2VDTA,2IAVA,Crystallographic Structure Of Levansucrase From Bacillus Subtilis Mutant S164a,4.0,235,312,8.1
+279,1W18B,3OM4A,Crystal Structure Of Levansucrase From Gluconacetobacter Diazotrophicus,2.8,374,456,24.3
+280,2CN3B,3IIYA,Crystal Structures Of Clostridium Thermocellum Xyloglucanase,3.8,282,365,9.6
+281,2CN3B,3IIYA,Crystal Structures Of Clostridium Thermocellum Xyloglucanase,3.8,282,365,5.3
+282,4FJ6B,1Q7FB,"Crystal Structure Of A Glycoside Hydrolase Family 33, Candidate Sialidase (Bdi_2946) From Parabacteroides Distasonis Atcc 8503 At 1.90 A Resolution",3.6,264,286,5.3
+283,3ALXA,1Q7FB,Crystal Structure Of The Measles Virus Hemagglutinin Bound To Its Cellular Receptor Slam (Mv-H(L482r)-Slam(N102hR108Y) FUSION),4.6,263,286,4.9
+284,4PVAA,1Q7FB,Crystal Structure Of Gh62 Hydrolase From Thermophilic Fungus Scytalidium Thermophilum,3.8,221,286,5.0
+285,4WWXX,1Q7FB,Crystal Structure Of The Core Rag1/2 Recombinase,3.6,220,286,6.4
+286,4HBSA,1Q7FB,Crystal Structure Of A Putative Hydrolase (Bacova_04882) From Bacteroides Ovatus Atcc 8483 At 2.80 A Resolution,4.6,219,286,9.6
+287,3OM6C,1Q7FB,Crystal Structure Of B. Megaterium Levansucrase Mutant Y247a,3.8,218,286,6.0
+288,2ISMB,3DASA,Crystal Structure Of The Putative Oxidoreductase (Glucose Dehydrogenase) (Ttha0570) From Thermus Theromophilus Hb8,1.6,313,347,45.7
+289,2EICA,3DASA,Crystal Structure Of Galactose Oxidase Mutant W290f,5.3,266,347,8.6
+290,4XMBA,4ZLRB,"Crystal Structure Of 2,2'-(naphthalene-1,4-diylbis(((4-methoxyphenyl) Sulfonyl)azanediyl))diacetamide Bound To Human Keap1 Kelch Domain",2.9,225,282,11.1
+291,3NVQB,4ZLRB,Molecular Mechanism Of Guidance Cue Recognition,4.1,221,282,7.7
+292,3QEEB,4ZLRB,"The Structure And Function Of An Arabinan-Specific Alpha-1,2- Arabinofuranosidase Identified From Screening The Activities Of Bacterial Gh43 Glycoside Hydrolases",3.9,217,282,4.1
+293,5B0PB,4ZLRB,"Beta-1,2-mannobiose Phosphorylase From Listeria Innocua - Glycerol Complex",4.0,216,282,5.6
+294,4D47A,4ZLRB,X-ray Structure Of The Levansucrase From Erwinia Amylovora,4.1,213,282,11.7
+295,2X9MB,4IYGA,Hendra Virus Attachment Glycoprotein,4.3,250,302,10.0
+296,1WCSA,2DSOC,A Mutant Of Trypanosoma Rangeli Sialidase Displaying Trans- Sialidase Activity,3.6,271,333,6.3
+297,3V9FA,3OW8D,Crystal Structure Of The Extracellular Domain Of The Putative Hybrid Two Component System Bt3049 From B. Thetaiotaomicron,3.2,278,321,10.4
+298,3V9FA,3OW8D,Crystal Structure Of The Extracellular Domain Of The Putative Hybrid Two Component System Bt3049 From B. Thetaiotaomicron,3.1,275,321,7.6
+299,4R5OA,3OW8D,Crystal Structure Of A Quinonprotein Alcohol Dehydrogenase-like Protein (bt1487) From Bacteroides Thetaiotaomicron Vpi-5482 At 2.64 A Resolution,3.2,260,321,9.6
+300,3NVNA,5EX7A,Molecular Mechanism Of Guidance Cue Recognition,4.5,215,286,8.4
+301,3AZOB,5C2VB,Crystal Structure Of Puromycin Hydrolase,3.4,276,352,11.2
+302,2QZPA,5C2VB,Crystal Structure Of Mutation Of An Acylptide HydrolaseESTERASE FROM AEROPYRUM PERNIX K1,3.6,265,352,13.2
+303,4TQKB,4H5JB,Structural Basis Of Specific Recognition Of Non-reducing Terminal N- Acetylglucosamine By An Agrocybe Aegerita Lection,5.0,277,365,9.0
+304,3TKNA,4H5JB,Structure Of The Nup82-Nup159-Nup98 Heterotrimer,3.7,276,365,9.4
+305,2HYEA,4LG8A,Crystal Structure Of The Ddb1-Cul4a-Rbx1-Sv5v Complex,3.1,272,354,7.4
+306,2AQ5A,4OZUA,Crystal Structure Of Murine Coronin-1,1.7,375,394,31.7
+307,4GZAA,4OZUA,Complex Of Mouse Plexin A2 - Semaphorin 3a - Neuropilin-1,4.3,299,394,6.7
+308,4A7YA,2B5NB,Active Site Metal Depleted Aldos-2-Ulose Dehydratase,3.7,304,323,7.6
+309,3AL9B,2B5NB,Mouse Plexin A2 Extracellular Domain,4.7,284,323,8.5
+310,1XI4B,2B5NB,Clathrin D6 Coat,4.7,277,323,6.9
+311,2OK4A,2B5NB,Crystal Structure Of Aromatic Amine Dehydrogenase Ttq- Phenylacetaldehyde Adduct Oxidized With Ferricyanide,3.8,262,323,6.9
+312,2YDPA,2B5NB,Structure Of The E242a Mutant Of The Alpha-L-Arabinofuranosidase Arb93a From Fusarium Graminearum In Complex With An Iminosugar Inhibitor,4.6,260,323,8.5
+313,5BPWA,2B5NB,Atomic-resolution Structures Of The Apc/c Subunits Apc4 And The Apc5 N-terminal Domain,3.9,259,323,8.9
+314,3AMRA,2B5NB,"Crystal Structures Of Bacillus Subtilis Alkaline Phytase In Complex With Ca2+, Co2+, Ni2+, Mg2+ And Myo-Inositol Hexasulfate",4.4,249,323,10.0
+315,1JMXB,2YNOA,Crystal Structure Of A Quinohemoprotein Amine Dehydrogenase From Pseudomonas Putida,3.2,247,310,8.5
+316,3HXRA,2PBID,Nucleoporin Nup120 From S.Cerevisiae (Aa 1-757),3.8,267,354,5.6
+317,4YHCB,2PBID,Crystal Structure Of The Wd40 Domain Of Scap From Fission Yeast,4.7,267,354,8.6
+318,4AMFB,4CZVA,Pseudomonas Fluorescens Phox In Complex With The Substrate Analogue Appcp,4.0,246,324,4.5
+319,2SIMA,3D11A,The Structures Of Salmonella Typhimurium Lt2 Neuraminidase And Its Complex With A Transition State Analogue At 1.6 Angstroms Resolution,4.1,322,428,9.9
+320,1K32A,4CSDB,Crystal Structure Of The Tricorn Protease,3.4,230,272,9.1
+321,4XMME,3WW9A,Structure Of The Yeast Coat Nucleoporin Complex,4.2,199,256,7.5
+322,4EXVA,3WW9A,Structure Of Kluyveromyces Lactis Hsv2p,4.2,193,256,5.7
+323,4L1MC,2Z2OC,Structure Of The First Rcc1-like Domain Of Herc2,3.5,259,299,5.4
+324,1V2IB,2Z2OC,Structure Of The Hemagglutinin-Neuraminidase From Human Parainfluenza Virus Type Iii,4.0,241,299,7.9
+325,3AZQB,3DSMA,Crystal Structure Of Puromycin Hydrolase S511a Mutant Complexed With Pgg,3.7,256,328,8.6
+326,3AZQB,3DSMA,Crystal Structure Of Puromycin Hydrolase S511a Mutant Complexed With Pgg,3.7,256,328,8.6
+327,4YHCA,4N14A,Crystal Structure Of The Wd40 Domain Of Scap From Fission Yeast,4.3,267,314,13.5
+328,2GOPA,4N14A,The Beta-Propeller Domain Of The Trilobed Protease From Pyrococcus Furiosus Reveals An Open Velcro Topology,3.4,238,314,10.1
+329,3VSFC,5FLWA,"Crystal Structure Of 1,3gal43a, An Exo-Beta-1,3-Galactanase From Clostridium Thermocellum",1.6,280,304,34.6
+330,3AKIA,5FLWA,"Crystal Structure Of Exo-1,5-Alpha-L-Arabinofuranosidase Complexed With Alpha-L-Arabinofuranosyl Azido",3.2,272,304,12.9
+331,4H53A,5FLWA,Insight Into The Enzymatic Mechanism Of Influenza Virus Neuraminidase And The Development Of A Covalently-bound Inhibitor,5.4,268,304,4.5
+332,3CU9A,5FLWA,"High Resolution Crystal Structure Of 1,5-Alpha-L- Arabinanase From Geobacillus Stearothermophilus",3.3,257,304,16.0
+333,4FFFA,5FLWA,Crystal Structure Of Levan Fructotransferase From Arthrobacter Ureafaciens,3.3,257,304,15.2
+334,2XQRA,5FLWA,Crystal Structure Of Plant Cell Wall Invertase In Complex With A Specific Protein Inhibitor,3.9,255,304,10.2
+335,3ZXLB,5FLWA,Engineering The Active Site Of A Gh43 Glycoside Hydrolase Generates A Biotechnologically Significant Enzyme That Displays Both Endo-Xylanase And Exo-Arabinofuranosidase Activity,3.4,252,304,12.7
+336,3C2UA,5FLWA,"Structure Of The Two Subsite D-Xylosidase From Selenomonas Ruminantium In Complex With 1,3-Bis[tris(Hydroxymethyl) Methylamino]propane",3.0,251,304,15.1
+337,3C7FA,5FLWA,Crystal Structure Of A Glycoside Hydrolase Family 43 Arabinoxylan Arabinofuranohydrolase From Bacillus Subtilis In Complex With Xylotriose,3.1,249,304,18.1
+338,3LV4A,5FLWA,"Crystal Structure Of The Glycoside Hydrolase, Family 43 Yxia Protein From Bacillus Licheniformis. Northeast Structural Genomics Consortium Target Bir14",3.3,249,304,15.7
+339,2XCYA,5FLWA,Crystal Structure Of Aspergillus Fumigatus Sialidase,4.3,241,304,9.5
+340,4KCAB,5FLWA,"Crystal Structure Of Endo-1,5-alpha-l-arabinanase From A Bovine Ruminal Metagenomic Library",2.9,238,304,17.2
+341,3TAWA,5FLWA,Crystal Structure Of A Hypothetical Glycoside Hydrolase (Bdi_3141) From Parabacteroides Distasonis Atcc 8503 At 1.70 A Resolution,3.6,234,304,8.5
+342,3TC9B,5FLWA,Crystal Structure Of A Hypothetical Hydrolase (Bt_3476) From Bacteroides Thetaiotaomicron Vpi-5482 At 2.23 A Resolution,4.2,232,304,5.6
+343,2BIWA,3MZKA,"Crystal Structure Of Apocarotenoid Cleavage Oxygenase From Synechocystis, Native Enzyme",4.6,237,297,9.3
+344,3OL2B,3MZKA,Receptor-Ligand Structure Of Human Semaphorin 4d With Plexin B1,3.6,236,297,8.1
+345,3PJQA,3II7A,Trypanosoma Cruzi Trans-Sialidase-Like Inactive Isoform (Including The Natural Mutation Tyr342his) In Complex With Lactose,3.6,251,306,9.2
+346,4Z7NC,4IFJA,Integrin Alphaiibbeta3 In Complex With Agdv Peptide,4.5,250,291,10.4
+347,2J57I,4IFJA,X-Ray Reduced Paraccocus Denitrificans Methylamine Dehydrogenase N-Quinol In Complex With Amicyanin,4.7,240,291,7.9
+348,4MLGK,4IFJA,Structure Of Rs223-beta-xylosidase,4.2,232,291,8.6
+349,1W18A,4IFJA,Crystal Structure Of Levansucrase From Gluconacetobacter Diazotrophicus,4.4,225,291,4.4
+350,4ASCA,2WOZA,Crystal Structure Of The Kelch Domain Of Human Kbtbd5,1.3,296,318,54.1
+351,4ALFA,2WOZA,Pseudomonas Fluorescens Phox In Complex With Phosphate,3.6,250,318,8.8
+352,4K3YB,2GHSA,Crystal Structure Of A Subtype N11 Neuraminidase-like Protein Of A/flat-faced Bat/peru/033/2010 (h18n11),4.4,260,326,6.9
+353,5ANNA,3K1UA,Structure Of Fructofuranosidase From Xanthophyllomyces Dendrorhous,3.8,268,330,9.0
+354,2GC4I,3VNGA,"Structural Comparison Of The Oxidized Ternary Electron Transfer Complex Of Methylamine Dehydrogenase, Amicyanin And Cytochrome C551i From Paracoccus Denitrificans With The Substrate-Reduced, Copper Free Complex At 1.9 A Resolution",4.6,238,309,9.2
+355,3C5MB,3PE7A,Crystal Structure Of Oligogalacturonate Lyase (Vpa0088) From Vibrio Parahaemolyticus. Northeast Structural Genomics Consortium Target Vpr199,1.1,373,388,67.8
+356,3AZOA,3PE7A,Crystal Structure Of Puromycin Hydrolase,3.5,303,388,7.3
+357,4WJVA,1NPEA,Crystal Structure Of Rsa4 In Complex With The Nsa2 Binding Peptide,3.9,206,267,6.8
+358,3HX6B,1NPEA,Crystal Structure Of Pseudomonas Aeruginosa Pily1 C-Terminal Domain,3.9,204,267,7.8
+359,1JOFG,2OJHA,"Neurospora Crassa 3-Carboxy-Cis,Cis-Mucoante Lactonizing Enzyme",4.1,228,297,7.5
+360,2ZZKB,2OJHA,Crystal Structure Of Trna Wybutosine Synthesizing Enzyme Tyw4,3.7,226,297,5.8
+361,2UVKA,2OJHA,Structure Of Yjht,3.4,223,297,4.9
+362,4MC7A,5C0PA,Crystal Structure Of A Subtype N11 Neuraminidase-like Protein Of A/flat-faced Bat/peru/033/2010 (h18n11),4.2,232,298,10.8
+363,1DIMA,5C0PA,Sialidase From Salmonella Typhimurium Complexed With Epana Inhibitor,3.9,226,298,8.4
+364,3LIGA,3QZ4B,Crystal Structure Of Fructosyltransferase (D191a) From A. Ja,3.6,273,311,10.3
+365,5FKBA,3QZ4B,Structure Of D80a-fructofuranosidase From Xanthophyllomyces Dendrorhous Complexed With 1-kestose,3.4,273,311,11.4
+366,3PIJB,3QZ4B,Beta-Fructofuranosidase From Bifidobacterium Longum - Complex With Fructose,3.6,271,311,12.5
+367,5FMDA,3QZ4B,Structure Of D80a-fructofuranosidase From Xanthophyllomyces Dendrorhous Complexed With Nystose,3.3,269,311,11.5
+368,3KF3A,3QZ4B,Structure Of Fructofuranosidase From Schwanniomyces Occidentalis Complexed With Fructose,3.3,267,311,12.7
+369,2AGZA,4L7BB,Crystal Structure Of The Carbinolamine Intermediate In The Reductive Half-Reaction Of Aromatic Amine Dehydrogenase (Aadh) With Tryptamine. F222 Form,4.4,244,300,9.0
+370,5HDBA,4L7BB,Integrin Alphaiibbeta3 In Complex With Ro-435054,4.2,227,300,9.3
+371,5A11B,1V04A,"The Crystal Structure Of Ta-tfp, A Thiocyanate-forming Protein Involved In Glucosinolate Breakdown (space Group P21)",4.1,282,355,7.4
+372,4XJZA,3NO2A,Crystal Structure Of Apo Nanb Sialidase From Streptococcus Pneumoniae At Ph 7.4 In Pbs With Dmso,3.4,231,276,10.4
+373,2XDWA,3S25A,Inhibition Of Prolyl Oligopeptidase With A Synthetic Unnatural Dipeptide,3.7,263,302,9.5
+374,2QZPB,3S25A,Crystal Structure Of Mutation Of An Acylptide HydrolaseESTERASE FROM AEROPYRUM PERNIX K1,4.0,259,302,12.4
+375,4HXFB,3S25A,Acylaminoacyl Peptidase In Complex With Z-gly-gly-phe-chloromethyl Ketone,3.6,251,302,7.6
+376,4D9SB,3S25A,Crystal Structure Of Arabidopsis Thaliana Uvr8 (Uv Resistance Locus 8),4.1,247,302,3.2
+377,2B5NC,3S25A,Crystal Structure Of The Ddb1 Bpb Domain,4.2,238,302,7.1
+378,4KC7B,4QQSB,"Crystal Structure Of Endo-1,5-alpha-l-arabinanase From Thermotoga Petrophila Rku-1",2.9,262,315,23.3
+379,1UYPA,4QQSB,The Three-Dimensional Structure Of Beta-Fructosidase (Invertase) From Thermotoga Maritima,3.5,249,315,16.5
+380,4K3YD,4QQSB,Crystal Structure Of A Subtype N11 Neuraminidase-like Protein Of A/flat-faced Bat/peru/033/2010 (h18n11),4.8,245,315,11.0
+381,4F30A,4OU8D,Structure Of Rpe65: P6522 Crystal Form Grown In Ammonium Phosphate Solution,2.8,448,490,22.1
+382,2BKLB,4UUYB,Structural And Mechanistic Analysis Of Two Prolyl Endopeptidases: Role Of Inter-Domain Dynamics In Catalysis And Specificity,4.1,277,349,11.2
+383,2BWRA,2I0SA,Crystal Structure Of Psathyrella Velutina Lectin At 1.5a Resolution,4.5,309,360,4.5
+384,4GQ2M,4FHMB,S. Pombe Nup120-Nup37 Complex,2.3,872,964,81.5
+385,5B0SB,3QQZA,"Beta-1,2-mannobiose Phosphorylase From Listeria Innocua - Beta-1,2- Mannotriose Complex",3.6,217,255,6.5
+386,2B4WA,3QQZA,Hypothetical Protein From Leishmania Major,4.1,216,255,6.5
+387,4XATA,3QQZA,Crystal Structure Of The Olfactomedin Domain From Noelin/pancortin/olfactomedin-1,3.7,212,255,11.3
+388,3NOKA,3QQZA,Crystal Structure Of Myxococcus Xanthus Glutaminyl Cyclase,2.9,200,255,11.5
+389,3MBRX,3QQZA,Crystal Structure Of The Glutaminyl Cyclase From Xanthomonas Campestris,2.6,197,255,12.7
+390,4HDJA,1PBYB,Crystal Structure Of Bamb From Pseudomonas Aeruginosa,4.3,257,337,11.7
+391,4FFFD,4XAVA,Crystal Structure Of Levan Fructotransferase From Arthrobacter Ureafaciens,4.0,208,271,2.9
+392,4UDJF,4XAVA,"Crystal Structure Of B-1,4-mannopyranosyl-chitobiose Phosphorylase At 1.60 Angstrom In Complex With Beta-d- Mannopyranose And Inorganic Phosphate",4.3,204,271,4.9
+393,3ALXC,1USXC,Crystal Structure Of The Measles Virus Hemagglutinin Bound To Its Cellular Receptor Slam (Mv-H(L482r)-Slam(N102hR108Y) FUSION),4.7,347,454,8.6
+394,1VCUB,3D12A,Structure Of The Human Cytosolic Sialidase Neu2 In Complex With The Inhibitor Dana,4.0,331,428,7.9
+395,2XCYB,2X9MA,Crystal Structure Of Aspergillus Fumigatus Sialidase,4.8,319,420,9.7
+396,2X9MC,2F27B,Hendra Virus Attachment Glycoprotein,4.0,333,382,7.5
+397,2VWDB,2F27B,Nipah Virus Attachment Glycoprotein,3.8,319,382,7.2
+398,5A11A,2F27B,"The Crystal Structure Of Ta-tfp, A Thiocyanate-forming Protein Involved In Glucosinolate Breakdown (space Group P21)",4.5,297,382,6.4
+399,4Z7OC,2BBKH,Integrin Alphaiibbeta3 In Complex With Agdv Peptide,4.4,293,355,6.1
+400,3AFCA,2BBKH,Mouse Semaphorin 6a Extracellular Domain,3.8,274,355,8.8
+401,1QKSA,1MDAJ,"Cytochrome Cd1 Nitrite Reductase, Oxidised Form",3.8,281,368,5.7
+402,2WQ8A,3I2NA,Glycan Labelling Using Engineered Variants Of Galactose Oxidase Obtained By Directed Evolution,4.0,308,357,4.9
+403,3RSEC,3I2NA,Structural And Biochemical Characterization Of Two Binding Sites For Nucleation Promoting Factor Wasp-Vca On Arp23 COMPLEX,2.6,294,357,10.2
+404,4E5ZA,3I2NA,Damaged Dna Induced Uv-Damaged Dna-Binding Protein (Uv-Ddb) Dimerization And Its Roles In Chromatinized Dna Repair,3.1,294,357,10.9
+405,4BL0A,3I2NA,Crystal Structure Of Yeast Bub3-bub1 Bound To Phospho-spc105,2.5,289,357,15.6
+406,4MK0B,3I2NA,Crystal Structure Of G Protein-coupled Receptor Kinase 2 In Complex With A A Rationally Designed Paroxetine Derivative,2.3,287,357,15.7
+407,3A0FA,3I2NA,The Crystal Structure Of Geotrichum Sp. M128 Xyloglucanase,3.9,282,357,7.1
+408,3A0FA,3I2NA,The Crystal Structure Of Geotrichum Sp. M128 Xyloglucanase,3.2,279,357,7.2
+409,2Z2PA,3I2NA,Crystal Structure Of Catalytically Inactive H270a Virginiamycin B Lyase From Staphylococcus Aureus With Quinupristin,2.6,277,357,6.9
+410,3SBPD,3I2NA,"Pseudomonas Stutzeri Nitrous Oxide Reductase, P1 Crystal Form",2.7,273,357,10.6
+411,2J55H,3I2NA,X-Ray Reduced Paraccocus Denitrificans Methylamine Dehydrogenase O-Quinone In Complex With Amicyanin,4.2,270,357,9.6
+412,2Z8RA,4ZOXA,Crystal Structure Of Rhamnogalacturonan Lyase Yesw At 1.40 A Resolution,4.0,315,381,7.0
+413,4O9DA,3EU7A,Structure Of Dos1 Propeller,5.0,278,356,8.6
+414,2VDRA,3LRVA,"Integrin Alphaiibbeta3 Headpiece Bound To A Chimeric Fibrinogen Gamma Chain Peptide, Lggakqrgdv",5.1,278,343,9.0
+415,4N1IA,4PVAA,Crystal Structure Of The Alpha-l-arabinofuranosidase Umabf62a From Ustilago Maidys,1.6,292,342,37.3
+416,3ZWUA,4WWXX,"Pseudomonas Fluorescens Phox In Complex With Vanadate, A Transition State Analogue",4.3,273,349,5.1
+417,4I00A,3QEEB,Crystal Structure Of Influenza A Neuraminidase N3-h274y Complexed With Zanamivir,5.1,239,307,7.1
+418,4GEZJ,3QEEB,Structure Of A Neuraminidase-Like Protein From ABATGUATEMALA1642009,4.7,233,307,6.0
+419,1ORVA,3AZOB,Crystal Structure Of Porcine Dipeptidyl Peptidase Iv (Cd26),4.6,546,662,11.9
+420,4GDIF,2SIMA,A Subtype N10 Neuraminidase-Like Protein Of ALITTLE YELLOW-Shouldered BatGUATEMALA1642009,4.9,286,381,8.7
+421,4O3TB,4EXVA,Zymogen Hgf-beta/met With Zymogen Activator Peptide Zap.14,3.9,258,339,7.0
+422,1Q47A,4EXVA,Structure Of The Semaphorin 3a Receptor-Binding Module,3.7,256,339,5.9
+423,3KCIA,4L1MC,The Third Rld Domain Of Herc2,1.2,339,392,51.3
+424,4O2WA,4L1MC,Crystal Structure Of The Third Rcc1-like Domain Of Herc1,1.7,334,392,35.6
+425,3OF7A,4L1MC,The Crystal Structure Of Prp20p From Saccharomyces Cerevisiae And Its Binding Properties To Gsp1p And Histones,2.7,333,392,22.2
+426,4JHPC,4L1MC,The Crystal Structure Of The Rpgr Rcc1-like Domain In Complex With Pde6d,2.0,332,392,23.8
+427,1A12A,4L1MC,Regulator Of Chromosome Condensation (Rcc1) Of Human,2.5,330,392,24.8
+428,4DNUA,4L1MC,Crystal Structure Of The W285a Mutant Of Uvb-Resistance Protein Uvr8,1.5,317,392,31.5
+429,4NLMA,2GOPA,1.18 Angstrom Resolution Crystal Structure Of Uncharacterized Protein Lmo1340 From Listeria Monocytogenes Egd-e,4.0,287,347,12.9
+430,3R4YB,3CU9A,Crystal Structure Of Alpha-Neoagarobiose Hydrolase (Alpha-Nabh) From Saccharophagus Degradans 2-40,3.2,236,314,17.8
+431,2VSKA,2XCYA,Hendra Virus Attachment Glycoprotein In Complex With Human Cell Surface Receptor Ephrinb2,4.8,315,386,9.5
+432,1V3BB,2XCYA,Structure Of The Hemagglutinin-Neuraminidase From Human Parainfluenza Virus Type Iii,4.4,299,386,13.0
+433,3R67B,3TAWA,Crystal Structure Of A Putative Glycosidase (Bt_4094) From Bacteroides Thetaiotaomicron Vpi-5482 At 2.30 A Resolution,0.9,345,356,69.3
+434,5FMBB,4MLGK,Structure Of D80a-fructofuranosidase From Xanthophyllomyces Dendrorhous Complexed With Fructose And Hepes Buffer,3.4,265,324,11.7
+435,5FKCB,4MLGK,Structure Of D80a-fructofuranosidase From Xanthophyllomyces Dendrorhous Complexed With Raffinose,3.2,260,324,11.5
+436,4JF7A,4ASCA,Structure Of The Parainfluenza Virus 5 (piv5) Hemagglutinin- Neuraminidase (hn) Ectodomain,4.3,262,315,8.0
+437,3GVLA,4ASCA,Crystal Strucutre Of Endo-Neuraminidasenf,3.6,255,315,8.6
+438,4JMLA,4ASCA,Crystal Structure Of The Tolb(p201c)-colicine9 Tbe Peptide(a33c) Complex,3.8,254,315,5.9
+439,1NSDB,4ASCA,"Neuraminidase (E.C.3.2.1.18) (Sialidase) Complex With 2,3-Dehydro-2-Deoxy-N-Acetyl Neuraminic Acid (Dana)",4.0,242,315,6.6
+440,4RSCB,1JOFG,Crystal Structure Of Rpe65 In Complex With Emixustat And Palmitate,4.5,305,365,7.9
+441,4HZZA,5A11B,Crystal Structure Of Influenza Neuraminidase N3-h274y Complexed With Oseltamivir,4.6,288,356,4.9
+442,2XZIA,5A11B,The Aspergillus Fumigatus Sialidase Is A Kdnase: Structural And Mechanistic Insights,4.1,285,356,8.1
+443,2AD8A,2B5NC,Crystal Structure Of Methanol Dehydrogenase From M. W3a1 (Form C) In The Presence Of Ethanol,4.4,273,323,7.3
+444,2W18A,2B5NC,Crystal Structure Of The C-Terminal Wd40 Domain Of Human Palb2,3.8,251,323,8.8
+445,2POOA,2B5NC,Thermostable Phytase In Fully Calcium Loaded State,4.2,246,323,8.9
+446,2XZKA,2B4WA,The Aspergillus Fumigatus Sialidase Is A Kdnase: Structural And Mechanistic Insights,4.2,237,315,10.5
+447,5CMNE,4XATA,Flrt3 Lrr Domain In Complex With Lphn3 Olfactomedin Domain,1.2,244,268,42.2
+448,3QEDC,4XATA,"The Structure And Function Of An Arabinan-Specific Alpha-1,2- Arabinofuranosidase Identified From Screening The Activities Of Bacterial Gh43 Glycoside Hydrolases",4.1,218,268,8.3
+449,3WPZA,4XATA,Microbacterium Saccharophilum K-1 Beta-fructofuranosidase Mutant T47s/s200t/f447p/f470y/p500s,3.7,208,268,7.7
+450,2IWAA,3MBRX,Unbound Glutaminyl Cyclotransferase From Carica Papaya,1.7,225,243,42.7
+451,3ALZA,5A11A,Crystal Structure Of The Measles Virus Hemagglutinin Bound To Its Cellular Receptor Slam (Form I),5.3,283,356,6.0
+452,1V0FF,4GDIF,"Endosialidase Of Bacteriophage K1f In Complex With Oligomeric Alpha-2,8-Sialic Acid",4.0,287,373,6.3
+453,4D4OA,3KCIA,Crystal Structure Of The Kti11 Kti13 Heterodimer Spacegroup P64,2.6,315,389,21.0
+454,4X33B,3KCIA,Structure Of The Elongator Cofactor Complex Kti11/kti13 At 1.45a,2.6,314,389,21.0
+455,1V0FC,4HZZA,"Endosialidase Of Bacteriophage K1f In Complex With Oligomeric Alpha-2,8-Sialic Acid",4.4,300,387,7.3
+456,4XJRB,2XZKA,The Catalytic Mechanism Of Human Parainfluenza Virus Type 3 Haemagglutinin-neuraminidase Revealed,4.2,297,386,12.8
+457,4GDID,5CMNE,A Subtype N10 Neuraminidase-Like Protein Of ALITTLE YELLOW-Shouldered BatGUATEMALA1642009,4.0,201,261,6.5
+458,3Q6PA,4GDID,Salivary Protein From Lutzomyia Longipalpis. Selenomethionine Derivative,4.8,280,373,7.9
