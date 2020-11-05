@@ -1,0 +1,4 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,4GLYA,2PFEA,Human Urokinase-type Plasminogen Activator Upa In Complex With The Two-disulfide Bridge Peptide Uk504,2.3,131,186,18.3
+1,1LVMB,2PFEA,Catalytically Active Tobacco Etch Virus Protease Complexed With Product,3.1,125,186,12.8
+2,4X2YB,2PFEA,Crystal Structure Of A Chimeric Murine Norovirus Ns6 Protease (inactive C139a Mutant) In Which The P4-p4 Prime Residues Of The Cleavage Junction In The Extended C-terminus Have Been Replaced By The Corresponding Residues From The Ns2-3 Junction,2.7,122,186,16.4

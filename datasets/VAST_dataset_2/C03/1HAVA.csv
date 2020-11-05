@@ -1,0 +1,13 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,1LCYA,1HAVA,Crystal Structure Of The Mitochondrial Serine Protease Htra2,3.0,159,217,10.7
+1,4ZROD,1HAVA,2.1 A X-ray Structure Of Fipv-3clpro Bound To Covalent Inhibitor,2.7,142,217,14.8
+2,2H5DA,1HAVA,"0.9a Resolution Crystal Structure Of Alpha-Lytic Protease Complexed With A Transition State Analogue, Meosuc-Ala-Ala- Pro-Val Boronic Acid",2.8,138,217,9.4
+3,4FLNC,1HAVA,Crystal Structure Of Plant Protease Deg2,2.5,130,217,17.7
+4,3WOQA,1HAVA,Crystal Structure Of The Dap Bii Hexapeptide Complex Iii,2.4,127,217,7.1
+5,3U1IB,1HAVA,Dengue Virus Protease Covalently Bound To A Peptide,2.8,121,217,8.3
+6,4FVDA,1HAVA,Crystal Structure Of Ev71 2a Proteinase C110a Mutant In Complex With Substrate,2.5,113,217,15.9
+7,1VCPB,1HAVA,Semliki Forest Virus Capsid Protein (Crystal Form I),2.4,97,217,14.4
+8,2YOLA,3U1IB,"West Nile Virus Ns2b-ns3 Protease In Complex With 3,4- Dichlorophenylacetyl-lys-lys-gcma",1.2,158,191,53.2
+9,1HJ9A,1VCPB,Atomic Resolution Structures Of Trypsin Provide Insight Into Structural Radiation Damage,3.1,127,149,15.7
+10,2O8LA,1VCPB,Structure Of V8 Protease From Staphylococcus Aureus,3.1,124,149,18.5
+11,5HM2B,1VCPB,Crystal Structure Of The 3c Protease From South African Territories Type 2 Foot-and-mouth Disease Virus,3.3,121,149,11.6

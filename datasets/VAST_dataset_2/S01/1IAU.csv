@@ -1,0 +1,11 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,1YPHC,1IAUA,High Resolution Structure Of Bovine Alpha-Chymotrypsin,0.9,120,227,35.8
+1,1EPTC,1IAUA,Porcine E-Trypsin (E.C.3.4.21.4),1.1,88,227,38.6
+2,3RU4E,1IAUA,Crystal Structure Of The Bowman-Birk Serine Protease Inhibitor Btci In Complex With Trypsin And Chymotrypsin,1.2,87,227,28.7
+3,4CREA,1EPTC,Creating Novel F1 Inhibitors Through Fragment Based Lead Generation And Structure Aided Drug Design,0.9,92,98,48.9
+4,1YPHE,1EPTC,High Resolution Structure Of Bovine Alpha-Chymotrypsin,1.0,86,98,53.5
+5,1KDQB,1EPTC,Crystal Structure Analysis Of The Mutant S189d Rat Chymotrypsin,1.2,83,98,43.4
+6,1CGHA,3RU4E,Human Cathepsin G,1.5,85,96,32.9
+7,1DLEA,3RU4E,Factor B Serine Protease Domain,2.2,83,96,21.7
+8,4X1NU,1KDQB,The Crystal Structure Of Mupain-1-16 In Complex With Murinised Human Upa At Ph7.4,1.2,84,99,41.7
+9,3BN9B,1KDQB,Crystal Structure Of Mt-Sp1 In Complex With Fab Inhibitor E2,1.3,80,99,31.2

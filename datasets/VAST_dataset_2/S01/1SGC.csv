@@ -1,0 +1,7 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,1GVKB,1SGCA,Porcine Pancreatic Elastase Acyl Enzyme At 0.95 A Resolution,2.5,133,181,18.0
+1,5HM2C,1SGCA,Crystal Structure Of The 3c Protease From South African Territories Type 2 Foot-and-mouth Disease Virus,2.5,133,181,15.0
+2,2IPHA,1SGCA,X-Ray Structure At 1.75 A Resolution Of A Norovirus Protease Linked To An Active Site Directed Peptide Inhibitor,2.9,131,181,10.7
+3,3TJNB,1SGCA,"Htra1 Catalytic Domain, Apo Form",1.8,130,181,18.5
+4,1Z8RA,1SGCA,2a Cysteine Proteinase From Human Coxsackievirus B4 (Strain Jvb  BENSCHOTEN  NEW YORK  51),2.5,99,181,15.2
+5,2YEWD,1SGCA,Modeling Barmah Forest Virus Structural Proteins,3.8,96,181,14.6

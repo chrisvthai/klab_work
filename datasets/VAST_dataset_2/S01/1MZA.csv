@@ -1,0 +1,6 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,2QAAA,1MZAA,Crystal Structure Of The Second Tetrahedral Intermediates Of Sgpb At Ph 7.3,3.0,137,240,18.2
+1,2SNVA,1MZAA,The Refined Structure Of Sindbis Virus Core Protein In Comparison With Other Chymotrypsin-Like Serine Proteinase Structures,2.9,111,240,16.2
+2,2WV5D,2QAAA,Crystal Structure Of Foot-And-Mouth Disease Virus 3c Protease In Complex With A Decameric Peptide Corresponding To The Vp1-2a Cleavage Junction With A Gln To Glu Substitution At P1,3.1,152,185,17.1
+3,1DDJB,2SNVA,Crystal Structure Of Human Plasminogen Catalytic Domain,3.2,121,151,6.6
+4,3SO3A,2SNVA,Structures Of Fab-Protease Complexes Reveal A Highly Specific Non- Canonical Mechanism Of Inhibition,3.2,121,151,14.9

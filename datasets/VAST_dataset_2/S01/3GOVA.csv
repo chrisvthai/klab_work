@@ -1,0 +1,35 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,2QY0A,3GOVA,Active Dimeric Structure Of The Catalytic Domain Of C1r Reveals Enzyme-Product Like Contacts,2.2,140,155,40.7
+1,1QUBA,3GOVA,Crystal Structure Of The Glycosylated Five-Domain Human Beta2-Glycoprotein I Purified From Blood Plasma,3.1,121,155,23.1
+2,2XRDA,3GOVA,Structure Of The N-Terminal Four Domains Of The Complement Regulator Rat Crry,2.2,120,155,19.2
+3,1NWVA,3GOVA,Solution Structure Of A Functionally Active Component Of Decay Accelerating Factor,3.7,119,155,23.5
+4,1OK3A,3GOVA,Decay Accelerating Factor (Cd55): The Structure Of An Intact Human Complement Regulator,2.3,118,155,24.6
+5,2O39C,3GOVA,"Human Adenovirus Type 11 Knob In Complex With Domains Scr1 And Scr2 Of Cd46 (Membrane Cofactor Protein, Mcp)",4.2,118,155,17.8
+6,1GKGA,3GOVA,"Structure Determination And Rational Mutagenesis Reveal Binding Surface Of Immune Adherence Receptor, Cr1 (Cd35)",2.4,117,155,23.1
+7,2RLQA,3GOVA,Nmr Structure Of Ccp Modules 2-3 Of Complement Factor H,2.5,116,155,20.7
+8,4C16A,3GOVA,"E-selectin Lectin, Egf-like And Two Scr Domains Complexed With Glycomimetic Antagonist",2.1,116,155,25.0
+9,1E5GA,3GOVA,Solution Structure Of Central Cp Module Pair Of A Pox Virus Complement Inhibitor,3.2,114,155,21.9
+10,1H03P,3GOVA,Human Cd55 Domains 3 & 4,1.8,107,155,27.1
+11,1GKNA,3GOVA,"Structure Determination And Rational Mutagenesis Reveal Binding Surface Of Immune Adherence Receptor, Cr1 (Cd35)",4.0,104,155,17.3
+12,4LOSA,3GOVA,C1s Cub2-ccp1,2.7,100,155,12.0
+13,3TVJA,3GOVA,Catalytic Fragment Of Masp-2 In Complex With Its Specific Inhibitor Developed By Directed Evolution On Sgci Scaffold,1.4,70,155,48.6
+14,2YRAA,3GOVA,Solution Structure Of The Zinc Finger Domains (1-87) From Human F-Box Only Protein,2.1,66,155,21.2
+15,3TVJA,3GOVA,Catalytic Fragment Of Masp-2 In Complex With Its Specific Inhibitor Developed By Directed Evolution On Sgci Scaffold,1.8,62,155,22.6
+16,1PPQA,3GOVA,"Nmr Structure Of 16th Module Of Immune Adherence Receptor, Cr1 (Cd35)",1.8,58,155,20.7
+17,2EHFA,3GOVA,Solution Structure Of The Third Sushi Domain From Human Cub And Sushi Domain-Containing Protein 1,2.1,58,155,19.0
+18,2YRAA,3GOVA,Solution Structure Of The Zinc Finger Domains (1-87) From Human F-Box Only Protein,1.5,58,155,22.4
+19,4IGDA,2QY0A,Crystal Structure Of The Zymogen Catalytic Region Of Human Masp-1,2.0,140,159,40.7
+20,2XRBA,2O39C,Structure Of The N-Terminal Four Domains Of The Complement Regulator Rat Crry,2.4,116,126,29.3
+21,2RLPA,2O39C,Nmr Structure Of Ccp Modules 1-2 Of Complement Factor H,2.3,105,126,23.8
+22,4FXGG,1E5GA,Complement C4 In Complex With Masp-2,3.5,115,120,23.5
+23,3ERBA,1E5GA,"The Crystal Structure Of C2b, A Fragment Of Complement Component C2 Produced During C3-Convertase Formation",3.0,110,120,27.3
+24,2WIIC,1E5GA,Complement C3b In Complex With Factor H Domains 1-4,4.5,109,120,27.5
+25,1LY2A,2YRAA,Crystal Structure Of Unliganded Human Cd21 Scr1-Scr2 (Complement Receptor Type 2),1.7,61,74,26.2
+26,3SW0X,2YRAA,Structure Of The C-Terminal Region (Modules 18-20) Of Complement Regulator Factor H,2.0,60,74,26.7
+27,2A55A,1PPQA,Solution Structure Of The Two N-Terminal Ccp Modules Of C4b- Binding Protein (C4bp) Alpha-Chain,1.7,56,68,33.9
+28,1VVCA,1PPQA,"C-Terminal Half Of Vaccinia Virus Complement Control Protein, Nmr, Minimized Average Structure",2.6,56,68,33.9
+29,1HFHA,1PPQA,Solution Structure Of A Pair Of Complement Modules By Nuclear Magnetic Resonance,3.0,55,68,29.1
+30,4GS7D,1PPQA,Structure Of The Interleukin-15 Quaternary Complex,1.8,55,68,36.4
+31,4JHSA,1PPQA,Crystal Structure Of A C-terminal Two Domain Fragment Of Human Beta-2- Glycoprotein 1,1.5,55,68,30.9
+32,2PSMC,4GS7D,Crystal Structure Of Interleukin 15 In Complex With Interleukin 15 Receptor Alpha,0.7,62,69,83.9
+33,2Z3QB,2PSMC,Crystal Structure Of The Il-15IL-15ra Complex,0.9,66,78,81.8

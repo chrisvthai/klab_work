@@ -1,0 +1,5 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,3TJOA,2ALPA,"Htra1 Catalytic Domain, Mutationally Inactivated",2.5,146,198,15.1
+1,1P3EA,2ALPA,Structure Of Glu Endopeptidase In Complex With Mpd,2.4,137,198,17.5
+2,1HYLB,2ALPA,The 1.8 A Structure Of Collagenase From Hypoderma Lineatum,2.1,130,198,20.0
+3,3E90B,2ALPA,West Nile Vi Rus Ns2b-Ns3protease In Complexed With Inhibitor Naph-Kkr-H,2.7,126,198,11.9

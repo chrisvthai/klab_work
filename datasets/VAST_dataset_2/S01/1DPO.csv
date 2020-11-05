@@ -1,0 +1,5 @@
+,name,seed_protein,description,rmsd,aligned_residue,seed_protein_total_residues,sequence_id
+0,1WYKB,1DPOA,Sindbis Virus Capsid Protein (114-264),3.1,131,223,15.3
+1,1EPTB,1DPOA,Porcine E-Trypsin (E.C.3.4.21.4),0.4,82,223,81.7
+2,4NSVB,1WYKB,Lysobacter Enzymogenes Lysc Endoproteinase K30r Mutant Covalently Inhibited By Tlck,3.4,131,152,12.2
+3,1DDJD,1WYKB,Crystal Structure Of Human Plasminogen Catalytic Domain,3.2,127,152,6.3
